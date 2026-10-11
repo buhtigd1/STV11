@@ -3,11 +3,10 @@
 
 import requests
 from datetime import datetime
-from zoneinfo import ZoneInfo
 
-# =========================
+# =====================================================
 # CONFIG
-# =========================
+# =====================================================
 
 SOURCE_URL = (
     "https://raw.githubusercontent.com/"
@@ -25,22 +24,18 @@ HEADERS = {
     )
 }
 
-JAKARTA_TZ = ZoneInfo("Asia/Jakarta")
 
-
-# =========================
+# =====================================================
 # HELPERS
-# =========================
+# =====================================================
 
 def log(message):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(message + "\n")
 
 
-def now_wib():
-    return datetime.now(JAKARTA_TZ).strftime(
-        "%Y-%m-%d %H:%M:%S WIB"
-    )
+def now_log():
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 
 def clean_url(url):
@@ -50,30 +45,6 @@ def clean_url(url):
     return (
         url.strip()
         .replace("&amp;", "&")
-    )
-
-
-def convert_time(time_str):
-    try:
-        utc_dt = datetime.strptime(
-            time_str,
-            "%Y/%m/%d %H:%M:%S %z"
-        )
-
-        return utc_dt.astimezone(
-            JAKARTA_TZ
-        )
-
-    except Exception:
-        return None
-
-
-def format_wib(dt):
-    if not dt:
-        return ""
-
-    return dt.strftime(
-        "%Y-%m-%d %H:%M WIB"
     )
 
 
@@ -89,45 +60,9 @@ def download_events():
     return r.json()
 
 
-# =========================
-# KODI DRM SUPPORT
-# =========================
-
-def write_kodi_props(m3u, stream_type, drm):
-
-    if str(stream_type) != "1":
-        return
-
-    if not drm or ":" not in drm:
-        return
-
-    kid, key = drm.split(":", 1)
-
-    m3u.write(
-        "#KODIPROP:inputstream="
-        "inputstream.adaptive\n"
-    )
-
-    m3u.write(
-        "#KODIPROP:"
-        "inputstream.adaptive.manifest_type=mpd\n"
-    )
-
-    m3u.write(
-        "#KODIPROP:"
-        "inputstream.adaptive.license_type="
-        "com.widevine.alpha\n"
-    )
-
-    m3u.write(
-        "#KODIPROP:"
-        f"inputstream.adaptive.license_key={kid}:{key}\n"
-    )
-
-
-# =========================
+# =====================================================
 # PLAYLIST GENERATOR
-# =========================
+# =====================================================
 
 def build_playlist(events):
 
@@ -137,7 +72,7 @@ def build_playlist(events):
 
     with open(M3U_FILE, "w", encoding="utf-8") as m3u:
 
-        # REQUIRED HEADER
+        # M3U HEADER
         m3u.write(
             '#EXTM3U '
             'refresh="900" '
@@ -151,23 +86,22 @@ def build_playlist(events):
             event_id = event.get("id", "")
             category = event.get("cat", "LIVE")
 
-            info = event.get("eventInfo", {})
+            event_info = event.get("eventInfo", {})
 
             event_name = (
-                info.get("eventName")
+                event_info.get("eventName")
                 or event.get("title", "")
             )
 
-            start_dt = convert_time(
-                info.get("startTime", "")
+            start_time = event_info.get(
+                "startTime",
+                ""
             )
 
-            end_dt = convert_time(
-                info.get("endTime", "")
+            end_time = event_info.get(
+                "endTime",
+                ""
             )
-
-            start_time = format_wib(start_dt)
-            end_time = format_wib(end_dt)
 
             for stream in event.get("formats", []):
 
@@ -199,18 +133,9 @@ def build_playlist(events):
                 if drm:
                     total_drm += 1
 
-                #
-                # Kodi DRM tags
-                #
-                write_kodi_props(
-                    m3u,
-                    stream_type,
-                    drm
-                )
-
-                #
+                # =====================================
                 # EXTINF
-                #
+                # =====================================
                 m3u.write(
                     f'#EXTINF:-1 '
                     f'tvg-id="{event_id}" '
@@ -220,33 +145,68 @@ def build_playlist(events):
                     f'{stream_title}\n'
                 )
 
-                #
-                # IPTV group
-                #
+                # =====================================
+                # GROUP
+                # =====================================
                 m3u.write(
                     f"#EXTGRP:{category}\n"
                 )
 
-                #
-                # VLC options
-                #
+                # =====================================
+                # VLC OPTS
+                # =====================================
                 m3u.write(
                     "#EXTVLCOPT:http-user-agent="
                     f'{HEADERS["User-Agent"]}\n'
                 )
 
-                #
-                # URL
-                #
+                # =====================================
+                # KODI DRM
+                # =====================================
+                if (
+                    stream_type == "1"
+                    and drm
+                    and ":" in drm
+                ):
+
+                    kid, key = drm.split(
+                        ":",
+                        1
+                    )
+
+                    m3u.write(
+                        "#KODIPROP:inputstream="
+                        "inputstream.adaptive\n"
+                    )
+
+                    m3u.write(
+                        "#KODIPROP:"
+                        "inputstream.adaptive.manifest_type=mpd\n"
+                    )
+
+                    m3u.write(
+                        "#KODIPROP:"
+                        "inputstream.adaptive.license_type="
+                        "com.widevine.alpha\n"
+                    )
+
+                    m3u.write(
+                        "#KODIPROP:"
+                        f"inputstream.adaptive.license_key={kid}:{key}\n"
+                    )
+
+                # =====================================
+                # STREAM URL
+                # =====================================
                 m3u.write(
                     stream_url + "\n\n"
                 )
 
-                #
+                # =====================================
                 # LOGGING
-                #
+                # =====================================
                 log(
-                    f"[{now_wib()}] "
+                    f"[{now_log()}] "
                     f"EVENT={event_name}"
                 )
 
@@ -276,6 +236,8 @@ def build_playlist(events):
 
                 if drm:
 
+                    log("DRM=YES")
+
                     if ":" in drm:
 
                         kid, key = drm.split(
@@ -291,18 +253,11 @@ def build_playlist(events):
                             f"KEY={key}"
                         )
 
-                    log(
-                        "DRM=YES"
-                    )
-
                 else:
-                    log(
-                        "DRM=NO"
-                    )
 
-                log(
-                    "-" * 80
-                )
+                    log("DRM=NO")
+
+                log("-" * 80)
 
     log("")
     log("=" * 80)
@@ -312,9 +267,9 @@ def build_playlist(events):
     log("=" * 80)
 
 
-# =========================
+# =====================================================
 # MAIN
-# =========================
+# =====================================================
 
 def main():
 
