@@ -1,123 +1,123 @@
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=APPLE TV FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gbgm9yynnx/out/v1/f8c78110fd39418dacaefe15407eb963/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gbgm9yynnx/out/v1/f8c78110fd39418dacaefe15407eb963/cenc.mpd
 DRM=YES
 KID=79f2b5e0aac59ff68a09045365403a24
 KEY=7d1b7550525174d7c73d7753675bf931
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=TSN SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 DRM=YES
 KID=385ceb9714b75e0cef61254f80b31002
 KEY=18dce92a2891fee68d21ede5173230f8
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=APPLE TV SPANISH
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1ehod8yjd/out/v1/1ed81d82668c42498c2a8f5c4d44c24d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1ehod8yjd/out/v1/1ed81d82668c42498c2a8f5c4d44c24d/cenc.mpd
 DRM=YES
 KID=17c977502a5bcbc73a292e0bb21e7497
 KEY=f1c08c2883ec2a91c93e61d006e96807
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=FANCODE - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM=YES
 KID=1994b1df7dfd2e8a8d7b9bf3fb900285
 KEY=22a1444b3da18e139191665b3d652835
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=SporTV BR FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 DRM=YES
 KID=902e5ec0e3d05e665daa32fc23f4f59e
 KEY=7b2322a273843921a43e2c61dac7cae3
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=Mixed On Board
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sq0zp6mcmm/out/v1/90c1ebdff4e5474b82b7d6dc81f9d208/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sq0zp6mcmm/out/v1/90c1ebdff4e5474b82b7d6dc81f9d208/cenc.mpd
 DRM=YES
 KID=2515ac01933afb255921a60aae247809
 KEY=29d61621bd4228d2a1913c0c3416eddb
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=Driver Tracker
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g90oglrjsf/out/v1/178967a90b574b648413f89392eafd56/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g90oglrjsf/out/v1/178967a90b574b648413f89392eafd56/cenc.mpd
 DRM=YES
 KID=e454a261ecb02c900440b1ae2045ad3c
 KEY=af7e31b0779339862a49708cfc157c0d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=Driver Data
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ogbndzluwq/out/v1/770fb49ff4414b49b12aabab68a5b153/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ogbndzluwq/out/v1/770fb49ff4414b49b12aabab68a5b153/cenc.mpd
 DRM=YES
 KID=0d01e35aba88d24d1a9d9f034048b1cc
 KEY=ec3a89d6bb986762a50d3f6056ed41e3
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=P2 Driver
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jaaxlexjh5/out/v1/b386cf1b8f99428ea36bb4c27c1d8813/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jaaxlexjh5/out/v1/b386cf1b8f99428ea36bb4c27c1d8813/cenc.mpd
 DRM=YES
 KID=471812e57bb71bafa9461adb0c3a3eaf
 KEY=bdc8a4d719482278069ff534b96420a6
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=P3 Driver
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbzfqen5ah/out/v1/a30377a08c734ec0941649d7e7b7b243/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbzfqen5ah/out/v1/a30377a08c734ec0941649d7e7b7b243/cenc.mpd
 DRM=YES
 KID=4031ee9053803a299e19d1a8456ff668
 KEY=147e2632af0bca474f61e194a0c4230d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=SportzX F1 HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57720/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57720/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -126,38 +126,38 @@ TYPE=0
 URL=https://tedesco.formaturamaxi.com.br/f1.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=RUSSIA FEED
 TYPE=0
-URL=https://bl.rutube.ru/livestream/d11d0145804d4321a677aacb62984de8/index.m3u8?s=k9d3abxTJHkJWs65bDRXjg&e=1791806247&scheme=https|user-agent=Mozilla
+URL=https://bl.rutube.ru/livestream/d11d0145804d4321a677aacb62984de8/index.m3u8?s=k9d3abxTJHkJWs65bDRXjg&e=1791806247&scheme=https
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=Max Verstappen
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n8hvpoxbqr/out/v1/489ac82989bd4aedad329684c013828d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n8hvpoxbqr/out/v1/489ac82989bd4aedad329684c013828d/cenc.mpd
 DRM=YES
 KID=d0efca298bca3272c4f455b1401d03a2
 KEY=8a66fa539fa4ec807c1937dbeff00967
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=KIMI Antonelli
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bai4wcyek5/out/v1/9372faee4867425cab83c46186c0942f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bai4wcyek5/out/v1/9372faee4867425cab83c46186c0942f/cenc.mpd
 DRM=YES
 KID=1e5c25a50f7e2fda933e8004fe37cee9
 KEY=5b3d11498213bf77cc71172340afdcd5
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -166,43 +166,43 @@ TYPE=0
 URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10aebb0b-9c74-4664-abd9-acc9085c27e8/master.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=DAZN SPORTS FHD
 TYPE=0
-URL=https://netanjahu.hls.st/t/62f0c070fc497d9d80eaca4d63910214/index.m3u8?|Referer=https://iplayer.is/
+URL=https://netanjahu.hls.st/t/62f0c070fc497d9d80eaca4d63910214/index.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=ELEVEN SPORTS PL
 TYPE=0
-URL=https://netanjahu.hls.st/t/022b44334963dc7f9d4063623f68bedb/index.m3u8?|Referer=https://iplayer.is/
+URL=https://netanjahu.hls.st/t/022b44334963dc7f9d4063623f68bedb/index.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=SKY SPORTS HD
 TYPE=0
-URL=https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
 STREAM=SD SERVER
 TYPE=0
-URL=http://193.47.62.55/hls/NNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+URL=http://193.47.62.55/hls/NNNN.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -213,7 +213,7 @@ DRM=YES
 KID=1118d83348830358060d408a72f56f29
 KEY=648378946f2f70f43af47ff9bf3e329b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -222,7 +222,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/singapore-grand-prix---race-30026
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -231,7 +231,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/f1/2026/singapore/race
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -240,7 +240,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/singapore-grand-prix---race-30024
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -249,7 +249,7 @@ TYPE=0
 URL=https://taifood-blog.asia/embed/singapore-grand-prix---race-30028
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Formula 1 -  Singapore Grand Prix
+[2026-10-11 22:37:40] EVENT=Formula 1 -  Singapore Grand Prix
 START=2026/10/11 11:55:00 +0000
 END=2026/10/11 14:30:00 +0000
 CATEGORY=F1
@@ -258,29 +258,29 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/singapore-grand-prix---race-30030
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=MotoGP - Grand Prix of Indonesia
+[2026-10-11 22:37:40] EVENT=MotoGP - Grand Prix of Indonesia
 START=2026/10/11 07:00:00 +0000
 END=2026/10/11 08:45:00 +0000
 CATEGORY=MotoGP
 STREAM=TNT SPORTS
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 DRM=YES
 KID=f3df7843080ae743bf865dc5fdf64c68
 KEY=567c863bc12eb74788ea74888c042e1b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=MotoGP - Grand Prix of Indonesia
+[2026-10-11 22:37:40] EVENT=MotoGP - Grand Prix of Indonesia
 START=2026/10/11 07:00:00 +0000
 END=2026/10/11 08:45:00 +0000
 CATEGORY=MotoGP
 STREAM=FANCODE FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 DRM=YES
 KID=82dfca238e8c4b430a3269db71965db9
 KEY=a00b28caf4ac628e77a553d440c0ddca
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=MotoGP - Grand Prix of Indonesia
+[2026-10-11 22:37:40] EVENT=MotoGP - Grand Prix of Indonesia
 START=2026/10/11 07:00:00 +0000
 END=2026/10/11 08:45:00 +0000
 CATEGORY=MotoGP
@@ -291,27 +291,27 @@ DRM=YES
 KID=7eea72d6075245a99ee3255603d58853
 KEY=6848ef60575579bf4d415db1032153ed
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=MotoGP - Grand Prix of Indonesia
+[2026-10-11 22:37:40] EVENT=MotoGP - Grand Prix of Indonesia
 START=2026/10/11 07:00:00 +0000
 END=2026/10/11 08:45:00 +0000
 CATEGORY=MotoGP
 STREAM=MotoGP FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 DRM=YES
 KID=e03f302ec4dabcccca82cc9f76731ec9
 KEY=53ea1027d2bf2893a552cf15bc0366de
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=MotoGP - Grand Prix of Indonesia
+[2026-10-11 22:37:40] EVENT=MotoGP - Grand Prix of Indonesia
 START=2026/10/11 07:00:00 +0000
 END=2026/10/11 08:45:00 +0000
 CATEGORY=MotoGP
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=MotoGP - Grand Prix of Indonesia
+[2026-10-11 22:37:40] EVENT=MotoGP - Grand Prix of Indonesia
 START=2026/10/11 07:00:00 +0000
 END=2026/10/11 08:45:00 +0000
 CATEGORY=MotoGP
@@ -320,38 +320,38 @@ TYPE=0
 URL=https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
 STREAM=PARAMOUNT+ FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uok23bi6ui/out/v1/a2127a0fe363494b83fcc9fbf0393b37/69a67ea8-9eac-4ec3-a52c-7b66c05afaf1-cenc.mpd?aws_sessionId=4d11bca9-05db-47c8-bf71-11ab65538e1b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uok23bi6ui/out/v1/a2127a0fe363494b83fcc9fbf0393b37/69a67ea8-9eac-4ec3-a52c-7b66c05afaf1-cenc.mpd?aws_sessionId=4d11bca9-05db-47c8-bf71-11ab65538e1b
 DRM=YES
 KID=00bcea670d00c8e47519f2e960ca76f9
 KEY=ecbb5fd8f8fff204ae577025b51bfdd4
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
 STREAM=TNT SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 DRM=YES
 KID=69a5aa835a061ce64a630d1046727e40
 KEY=d02feac8a999bd06bf4059bf33411749
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
 STREAM=PARAMOUNT+ HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57852/load-playlist-multi?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57852/load-playlist-multi?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
@@ -360,7 +360,7 @@ TYPE=0
 URL=https://castorvanta.s3.us-east-1.amazonaws.com/ufc.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
@@ -369,16 +369,16 @@ TYPE=0
 URL=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
 STREAM=SportzX LIVE
 TYPE=0
-URL=https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+URL=https://edgestream3.pro/hls/zeuryuegn48.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
@@ -387,7 +387,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/ufc-fight-night-allen-vs-duncan-30170
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
@@ -396,7 +396,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/ufc-fight-night-allen-vs-duncan-30171
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
@@ -405,27 +405,27 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/ufc-fight-night-allen-vs-duncan-30172
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
 STREAM=SD TV (USE VPN)
 TYPE=0
-URL=http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+URL=http://193.47.62.192/hls/FEEEEQ.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=UFC Fight Night: Allen vs Duncan
+[2026-10-11 22:37:40] EVENT=UFC Fight Night: Allen vs Duncan
 START=2026/10/10 21:00:00 +0000
 END=2026/10/11 05:00:00 +0000
 CATEGORY=UFC
 STREAM=SportsNet FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
 DRM=YES
 KID=60de674d9db66df9ba090e06871d3554
 KEY=18071eac168232fc3d45549049c1de6b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE NXT
+[2026-10-11 22:37:40] EVENT=🥊 WWE NXT
 START=2026/10/14 00:00:00 +0000
 END=2026/10/14 02:00:00 +0000
 CATEGORY=WWE
@@ -434,7 +434,7 @@ TYPE=0
 URL=https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE NXT
+[2026-10-11 22:37:40] EVENT=🥊 WWE NXT
 START=2026/10/14 00:00:00 +0000
 END=2026/10/14 02:00:00 +0000
 CATEGORY=WWE
@@ -443,27 +443,27 @@ TYPE=2
 URL=https://embedindia.st/embed/wwe/2026-09-29
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=AEW Dynamite
+[2026-10-11 22:37:40] EVENT=AEW Dynamite
 START=2026/10/15 00:00:00 +0000
 END=2026/10/15 02:00:00 +0000
 CATEGORY=WWE
 STREAM=TSN SPORTS
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 DRM=YES
 KID=85b277daf5aae05833fe43a68f587968
 KEY=d52d7e9bc0bcd98787efd547ac91eca0
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=AEW Dynamite
+[2026-10-11 22:37:40] EVENT=AEW Dynamite
 START=2026/10/15 00:00:00 +0000
 END=2026/10/15 02:00:00 +0000
 CATEGORY=WWE
 STREAM=tbs SPORTS HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/54227/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=AEW Dynamite
+[2026-10-11 22:37:40] EVENT=AEW Dynamite
 START=2026/10/15 00:00:00 +0000
 END=2026/10/15 02:00:00 +0000
 CATEGORY=WWE
@@ -474,36 +474,36 @@ DRM=YES
 KID=9f327d24c66fbd84e15ab5c9ead7c7a4
 KEY=83837185529c0c4048f81386c2d36426
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=AEW Dynamite
+[2026-10-11 22:37:40] EVENT=AEW Dynamite
 START=2026/10/15 00:00:00 +0000
 END=2026/10/15 02:00:00 +0000
 CATEGORY=WWE
 STREAM=BACKUP HD
 TYPE=0
-URL=https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+URL=https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=AEW Dynamite
+[2026-10-11 22:37:40] EVENT=AEW Dynamite
 START=2026/10/15 00:00:00 +0000
 END=2026/10/15 02:00:00 +0000
 CATEGORY=WWE
 STREAM=BACKUP SD
 TYPE=0
-URL=https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
+URL=https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Afghanistan vs Bangladesh
+[2026-10-11 22:37:40] EVENT=Afghanistan vs Bangladesh
 START=2026/10/12 06:00:00 +0000
 END=2026/10/12 14:00:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
 DRM=YES
 KID=2a90a3c5b4d9c0616f4ecb1505a24e0b
 KEY=058f1d252ada25265a12c34956938d13
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Afghanistan vs Bangladesh
+[2026-10-11 22:37:40] EVENT=Afghanistan vs Bangladesh
 START=2026/10/12 06:00:00 +0000
 END=2026/10/12 14:00:00 +0000
 CATEGORY=Cricket
@@ -514,16 +514,16 @@ DRM=YES
 KID=2a90a3c5b4d9c0616f4ecb1505a24e0b
 KEY=058f1d252ada25265a12c34956938d13
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Afghanistan vs Bangladesh
+[2026-10-11 22:37:40] EVENT=Afghanistan vs Bangladesh
 START=2026/10/12 06:00:00 +0000
 END=2026/10/12 14:00:00 +0000
 CATEGORY=Cricket
 STREAM=TAPMAD - FHD
 TYPE=0
-URL=https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
+URL=https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Afghanistan vs Bangladesh
+[2026-10-11 22:37:40] EVENT=Afghanistan vs Bangladesh
 START=2026/10/12 06:00:00 +0000
 END=2026/10/12 14:00:00 +0000
 CATEGORY=Cricket
@@ -532,16 +532,16 @@ TYPE=0
 URL=http://103.151.60.162:2122/play/a030/index.m3u8?hls
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Afghanistan vs Bangladesh
+[2026-10-11 22:37:40] EVENT=Afghanistan vs Bangladesh
 START=2026/10/12 06:00:00 +0000
 END=2026/10/12 14:00:00 +0000
 CATEGORY=Cricket
 STREAM=FANCODE - IN
 TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+URL=https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Afghanistan vs Bangladesh
+[2026-10-11 22:37:40] EVENT=Afghanistan vs Bangladesh
 START=2026/10/12 06:00:00 +0000
 END=2026/10/12 14:00:00 +0000
 CATEGORY=Cricket
@@ -550,29 +550,29 @@ TYPE=0
 URL=https://baila-lentoo.pages.dev/all-sp/809386.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd
 DRM=YES
 KID=acc7b844fa50775eae013d0c65023b3e
 KEY=70fcb8c7000f4f88ee236a8eeda07332
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=TNT SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 DRM=YES
 KID=cc91508324ce9dcaf425a43d58f1d9d4
 KEY=643e5474d9edd87c7d9091c8c97994ca
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
@@ -583,16 +583,16 @@ DRM=YES
 KID=acc7b844fa50775eae013d0c65023b3e
 KEY=70fcb8c7000f4f88ee236a8eeda07332
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=TAPMAD - FHD
 TYPE=0
-URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
+URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
@@ -601,7 +601,7 @@ TYPE=0
 URL=https://papacito.cfd/m3u/588010/live.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
@@ -610,60 +610,60 @@ TYPE=0
 URL=https://papacito.cfd/m3u/324993/live.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=LOW SERVER
 TYPE=0
-URL=http://193.47.62.59/hls/NCCCAAQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+URL=http://193.47.62.59/hls/NCCCAAQA.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=HOTSTAR INDIA (HIN)
 TYPE=1
-URL=https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
+URL=https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?
 DRM=YES
 KID=b9f1cb8a1361457bbd8097f8c2590000
 KEY=1960274b7ba344cb899eba2e80916774
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=HOTSTAR INDIA (ENG)
 TYPE=1
-URL=https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
+URL=https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?
 DRM=YES
 KID=e85897bf6e594d698b7c82646c8e0000
 KEY=d2dda31234ae40538843e871cd4dcc2a
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=India vs West Indies
+[2026-10-11 22:37:40] EVENT=India vs West Indies
 START=2026/10/11 13:30:00 +0000
 END=2026/10/11 17:15:00 +0000
 CATEGORY=Cricket
 STREAM=HOTSTAR INDIA (TEL)
 TYPE=1
-URL=https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+URL=https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd
 DRM=YES
 KID=4634b32328f242e3be51c3e06cde0000
 KEY=42e90ab215bf4a438b55851b5e0f50dc
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=ONE Friday Fights
+[2026-10-11 22:37:40] EVENT=ONE Friday Fights
 START=2026/10/16 12:30:00 +0000
 END=2026/10/16 16:30:00 +0000
 CATEGORY=Boxing
 STREAM=One Fight FHD
 TYPE=1
-URL=https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+URL=https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 DRM=YES
 KID=308006101c8fd0262c0f529319b9c127
 KEY=37683aadc75b1450efa82d62c647984d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=ONE Friday Fights
+[2026-10-11 22:37:40] EVENT=ONE Friday Fights
 START=2026/10/16 12:30:00 +0000
 END=2026/10/16 16:30:00 +0000
 CATEGORY=Boxing
@@ -674,7 +674,7 @@ DRM=YES
 KID=60dc08aae52f4c0b806a8e43f24a12c8
 KEY=30d5b579966d822b215ec51a91d8a271
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=ONE Friday Fights
+[2026-10-11 22:37:40] EVENT=ONE Friday Fights
 START=2026/10/16 12:30:00 +0000
 END=2026/10/16 16:30:00 +0000
 CATEGORY=Boxing
@@ -685,7 +685,7 @@ DRM=YES
 KID=a6b967afcb974bb5a549377b4f09befd
 KEY=87d993257a099324ccd0215475fc61a0
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=ONE Friday Fights
+[2026-10-11 22:37:40] EVENT=ONE Friday Fights
 START=2026/10/16 12:30:00 +0000
 END=2026/10/16 16:30:00 +0000
 CATEGORY=Boxing
@@ -694,16 +694,16 @@ TYPE=0
 URL=https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
 STREAM=SportzX WWE
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/54800/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
@@ -712,7 +712,7 @@ TYPE=0
 URL=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
@@ -721,52 +721,52 @@ TYPE=2
 URL=https://embedindia.st/embed/wwe/2026-08-24
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream2.pro/hls/zeuryuegn48.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
 STREAM=HD SERVER
 TYPE=0
-URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/
+URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
 STREAM=SportzX HD
 TYPE=0
-URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/
+URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Monday Night RAW
+[2026-10-11 22:37:40] EVENT=🥊 WWE Monday Night RAW
 START=2026/10/13 00:00:00 +0000
 END=2026/10/13 02:30:00 +0000
 CATEGORY=WWE
 STREAM=Backup SD
 TYPE=0
-URL=https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://27lftgqlgzmy.windows-devs.top/
+URL=https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
 STREAM=SportzX WWE
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/54963/load-playlist-multi?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/54963/load-playlist-multi?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
@@ -775,7 +775,7 @@ TYPE=0
 URL=https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
@@ -784,43 +784,43 @@ TYPE=2
 URL=https://embedindia.st/embed/wwe/2026-10-02
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
 STREAM=HD SERVER
 TYPE=0
-URL=https://edgestream7.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream7.pro/hls/zeuryuegn48.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
 STREAM=SportzX TV+ HD
 TYPE=0
-URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?|Referer=https://26hrwgorfcmh.windows-devs.top/
+URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
 STREAM=HD QUALITY
 TYPE=0
-URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8?|referer=https://26hrwgorfcmh.windows-devs.top/
+URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
 STREAM=LOW QUALITY
 TYPE=0
-URL=https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com
+URL=https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-11 22:37:40] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/17 00:00:00 +0000
 END=2026/10/17 03:00:00 +0000
 CATEGORY=WWE
@@ -831,18 +831,18 @@ DRM=YES
 KID=58551b13211b37d5b325d67e5c6cabef
 KEY=3b4c3f8b4236fc57d66cdb54a606fe41
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pakistan vs Sri Lanka
+[2026-10-11 22:37:40] EVENT=Pakistan vs Sri Lanka
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 16:45:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd
 DRM=YES
 KID=d49203a8300b95517816ccc69d140d2d
 KEY=0e9def47fa736a52ad7f64fbe2933f74
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pakistan vs Sri Lanka
+[2026-10-11 22:37:40] EVENT=Pakistan vs Sri Lanka
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 16:45:00 +0000
 CATEGORY=Cricket
@@ -853,16 +853,16 @@ DRM=YES
 KID=d49203a8300b95517816ccc69d140d2d
 KEY=0e9def47fa736a52ad7f64fbe2933f74
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pakistan vs Sri Lanka
+[2026-10-11 22:37:40] EVENT=Pakistan vs Sri Lanka
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 16:45:00 +0000
 CATEGORY=Cricket
 STREAM=TAPMAD - FHD
 TYPE=0
-URL=https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|referer=https://tapmad.com/
+URL=https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pakistan vs Sri Lanka
+[2026-10-11 22:37:40] EVENT=Pakistan vs Sri Lanka
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 16:45:00 +0000
 CATEGORY=Cricket
@@ -873,72 +873,72 @@ DRM=YES
 KID=290e09c837da78d5cd961978d390515c
 KEY=b748836c71e6a4ca68ef5b5652db6247
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=REDZONE FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd
 DRM=YES
 KID=85f340146e46533b39d1415d90746352
 KEY=448aafcc613ddfd448f14d9275eda19b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL REDZONE
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57942/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57942/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 1 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57923/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57923/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=NFL REDZONE HD
 TYPE=0
-URL=https://edgestream4.pro/hls/jnfezkbfz43.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream4.pro/hls/jnfezkbfz43.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 2 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57922/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57922/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 3 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57921/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57921/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=NFL NETWORK HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/54923/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/54923/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
@@ -947,36 +947,36 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl-redzone-30224
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=NFL REDZONE
+[2026-10-11 22:37:40] EVENT=NFL REDZONE
 START=2026/10/11 17:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NFL
 STREAM=LOW SERVER
 TYPE=0
-URL=http://193.47.62.55/hls/ZTTTAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+URL=http://193.47.62.55/hls/ZTTTAAAAAAAA.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Milwaukee Brewers vs Los Angeles Dodgers
+[2026-10-11 22:37:40] EVENT=Milwaukee Brewers vs Los Angeles Dodgers
 START=2026/10/12 00:00:00 +0000
 END=2026/10/12 03:00:00 +0000
 CATEGORY=MLB
 STREAM=TNT Sports FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 DRM=YES
 KID=69a5aa835a061ce64a630d1046727e40
 KEY=d02feac8a999bd06bf4059bf33411749
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Milwaukee Brewers vs Los Angeles Dodgers
+[2026-10-11 22:37:40] EVENT=Milwaukee Brewers vs Los Angeles Dodgers
 START=2026/10/12 00:00:00 +0000
 END=2026/10/12 03:00:00 +0000
 CATEGORY=MLB
 STREAM=SportzX LIVE
 TYPE=0
-URL=https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Milwaukee Brewers vs Los Angeles Dodgers
+[2026-10-11 22:37:40] EVENT=Milwaukee Brewers vs Los Angeles Dodgers
 START=2026/10/12 00:00:00 +0000
 END=2026/10/12 03:00:00 +0000
 CATEGORY=MLB
@@ -985,16 +985,34 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/mlb/2026-10-11/lad-mil
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Los Angeles Chargers vs Denver Broncos
+[2026-10-11 22:37:40] EVENT=Los Angeles Chargers vs Denver Broncos
+START=2026/10/11 20:05:00 +0000
+END=2026/10/11 23:25:00 +0000
+CATEGORY=NFL
+STREAM=NFL LIVE FHD
+TYPE=0
+URL=https://broadcastelara.s3.us-east-1.amazonaws.com/broncos.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Los Angeles Chargers vs Denver Broncos
+START=2026/10/11 20:05:00 +0000
+END=2026/10/11 23:25:00 +0000
+CATEGORY=NFL
+STREAM=SportzX NFL HD
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/57949/load-playlist?
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Los Angeles Chargers vs Denver Broncos
 START=2026/10/11 20:05:00 +0000
 END=2026/10/11 23:25:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream3.pro/hls/cwxcnbscbsq39.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream3.pro/hls/cwxcnbscbsq39.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Los Angeles Chargers vs Denver Broncos
+[2026-10-11 22:37:40] EVENT=Los Angeles Chargers vs Denver Broncos
 START=2026/10/11 20:05:00 +0000
 END=2026/10/11 23:25:00 +0000
 CATEGORY=NFL
@@ -1003,17 +1021,17 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/den-lac
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cleveland Cavaliers vs Orlando Magic
+[2026-10-11 22:37:40] EVENT=Cleveland Cavaliers vs Orlando Magic
 START=2026/10/11 22:30:00 +0000
 END=2026/10/12 01:30:00 +0000
 CATEGORY=NBA
 STREAM=SportzX Live
 TYPE=0
 URL=https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?
-|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cleveland Cavaliers vs Orlando Magic
+[2026-10-11 22:37:40] EVENT=Cleveland Cavaliers vs Orlando Magic
 START=2026/10/11 22:30:00 +0000
 END=2026/10/12 01:30:00 +0000
 CATEGORY=NBA
@@ -1022,16 +1040,16 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nba/2026-10-11/orl-cle
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Charlotte Hornets vs Milwaukee Bucks
+[2026-10-11 22:37:40] EVENT=Charlotte Hornets vs Milwaukee Bucks
 START=2026/10/11 23:00:00 +0000
 END=2026/10/12 02:00:00 +0000
 CATEGORY=NBA
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream5.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream5.pro/hls/hfsdqtaxvb67.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Charlotte Hornets vs Milwaukee Bucks
+[2026-10-11 22:37:40] EVENT=Charlotte Hornets vs Milwaukee Bucks
 START=2026/10/11 23:00:00 +0000
 END=2026/10/12 02:00:00 +0000
 CATEGORY=NBA
@@ -1040,16 +1058,16 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nba/2026-10-11/mil-cha
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Denver Nuggets vs Chicago Bulls
+[2026-10-11 22:37:40] EVENT=Denver Nuggets vs Chicago Bulls
 START=2026/10/12 01:00:00 +0000
 END=2026/10/12 04:00:00 +0000
 CATEGORY=NBA
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Denver Nuggets vs Chicago Bulls
+[2026-10-11 22:37:40] EVENT=Denver Nuggets vs Chicago Bulls
 START=2026/10/12 01:00:00 +0000
 END=2026/10/12 04:00:00 +0000
 CATEGORY=NBA
@@ -1058,27 +1076,27 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nba/2026-10-11/chi-den
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=South Africa vs Australia
+[2026-10-11 22:37:40] EVENT=South Africa vs Australia
 START=2026/10/12 07:30:00 +0000
 END=2026/10/12 15:30:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd
 DRM=YES
 KID=93a6a7eba3555210bbeb9a8bc1770a71
 KEY=86b8aed2b10c0124d6da65bdeafa6707
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=South Africa vs Australia
+[2026-10-11 22:37:40] EVENT=South Africa vs Australia
 START=2026/10/12 07:30:00 +0000
 END=2026/10/12 15:30:00 +0000
 CATEGORY=Cricket
 STREAM=SKY CRICKET - FHD
 TYPE=0
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=South Africa vs Australia
+[2026-10-11 22:37:40] EVENT=South Africa vs Australia
 START=2026/10/12 07:30:00 +0000
 END=2026/10/12 15:30:00 +0000
 CATEGORY=Cricket
@@ -1089,45 +1107,45 @@ DRM=YES
 KID=93a6a7eba3555210bbeb9a8bc1770a71
 KEY=86b8aed2b10c0124d6da65bdeafa6707
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=South Africa vs Australia
+[2026-10-11 22:37:40] EVENT=South Africa vs Australia
 START=2026/10/12 07:30:00 +0000
 END=2026/10/12 15:30:00 +0000
 CATEGORY=Cricket
 STREAM=FANCODE - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM=YES
 KID=1994b1df7dfd2e8a8d7b9bf3fb900285
 KEY=22a1444b3da18e139191665b3d652835
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=South Africa vs Australia
+[2026-10-11 22:37:40] EVENT=South Africa vs Australia
 START=2026/10/12 07:30:00 +0000
 END=2026/10/12 15:30:00 +0000
 CATEGORY=Cricket
 STREAM=TAPMAD - FHD
 TYPE=0
-URL=https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/
+URL=https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=South Africa vs Australia
+[2026-10-11 22:37:40] EVENT=South Africa vs Australia
 START=2026/10/12 07:30:00 +0000
 END=2026/10/12 15:30:00 +0000
 CATEGORY=Cricket
 STREAM=FANCODE - IN
 TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+URL=https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/index.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=WWE Money In The Bank
+[2026-10-11 22:37:40] EVENT=WWE Money In The Bank
 START=2026/10/10 22:00:00 +0000
 END=2026/10/11 03:00:00 +0000
 CATEGORY=WWE
 STREAM=PPV LIVE HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57858/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57858/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=WWE Money In The Bank
+[2026-10-11 22:37:40] EVENT=WWE Money In The Bank
 START=2026/10/10 22:00:00 +0000
 END=2026/10/11 03:00:00 +0000
 CATEGORY=WWE
@@ -1136,16 +1154,16 @@ TYPE=0
 URL=https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=WWE Money In The Bank
+[2026-10-11 22:37:40] EVENT=WWE Money In The Bank
 START=2026/10/10 22:00:00 +0000
 END=2026/10/11 03:00:00 +0000
 CATEGORY=WWE
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream3.pro/hls/hbfhzbfzak46.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream3.pro/hls/hbfhzbfzak46.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=WWE Money In The Bank
+[2026-10-11 22:37:40] EVENT=WWE Money In The Bank
 START=2026/10/10 22:00:00 +0000
 END=2026/10/11 03:00:00 +0000
 CATEGORY=WWE
@@ -1154,38 +1172,56 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/money-in-the-bank-new-orleans-30175
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Arizona Cardinals vs Detroit Lions
+[2026-10-11 22:37:40] EVENT=Arizona Cardinals vs Detroit Lions
 START=2026/10/11 20:25:00 +0000
 END=2026/10/11 23:45:00 +0000
 CATEGORY=NFL
 STREAM=TSN SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 DRM=YES
 KID=14eeabf30c14b7fbf3008c03099ce011
 KEY=17d2ac8dbc5429bd70af3433aa12158d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Arizona Cardinals vs Detroit Lions
+[2026-10-11 22:37:40] EVENT=Arizona Cardinals vs Detroit Lions
 START=2026/10/11 20:25:00 +0000
 END=2026/10/11 23:45:00 +0000
 CATEGORY=NFL
 STREAM=TSN4 SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 DRM=YES
 KID=abc5b2883121012850ebda05b528c5ec
 KEY=e5250924f4b738905f7163a0134587a7
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Arizona Cardinals vs Detroit Lions
+[2026-10-11 22:37:40] EVENT=Arizona Cardinals vs Detroit Lions
+START=2026/10/11 20:25:00 +0000
+END=2026/10/11 23:45:00 +0000
+CATEGORY=NFL
+STREAM=NFL LIVE FHD
+TYPE=0
+URL=https://broadcastelara.s3.us-east-1.amazonaws.com/lions.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Arizona Cardinals vs Detroit Lions
+START=2026/10/11 20:25:00 +0000
+END=2026/10/11 23:45:00 +0000
+CATEGORY=NFL
+STREAM=SportzX NFL HD
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/57952/load-playlist?
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Arizona Cardinals vs Detroit Lions
 START=2026/10/11 20:25:00 +0000
 END=2026/10/11 23:45:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream7.pro/hls/poertjnvnev40.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream7.pro/hls/poertjnvnev40.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Arizona Cardinals vs Detroit Lions
+[2026-10-11 22:37:40] EVENT=Arizona Cardinals vs Detroit Lions
 START=2026/10/11 20:25:00 +0000
 END=2026/10/11 23:45:00 +0000
 CATEGORY=NFL
@@ -1194,16 +1230,34 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/det-ari
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Seattle Seahawks vs San Francisco 49ers
+[2026-10-11 22:37:40] EVENT=Seattle Seahawks vs San Francisco 49ers
+START=2026/10/11 20:25:00 +0000
+END=2026/10/11 23:45:00 +0000
+CATEGORY=NFL
+STREAM=NFL LIVE FHD
+TYPE=0
+URL=https://broadcastelara.s3.us-east-1.amazonaws.com/seahawks.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Seattle Seahawks vs San Francisco 49ers
+START=2026/10/11 20:25:00 +0000
+END=2026/10/11 23:45:00 +0000
+CATEGORY=NFL
+STREAM=SportzX NFL HD
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/57947/load-playlist?
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Seattle Seahawks vs San Francisco 49ers
 START=2026/10/11 20:25:00 +0000
 END=2026/10/11 23:45:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream2.pro/hls/ijzriafaq41.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream2.pro/hls/ijzriafaq41.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Seattle Seahawks vs San Francisco 49ers
+[2026-10-11 22:37:40] EVENT=Seattle Seahawks vs San Francisco 49ers
 START=2026/10/11 20:25:00 +0000
 END=2026/10/11 23:45:00 +0000
 CATEGORY=NFL
@@ -1212,38 +1266,38 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/sf-sea
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Atlanta Falcons vs Baltimore Ravens
+[2026-10-11 22:37:40] EVENT=Atlanta Falcons vs Baltimore Ravens
 START=2026/10/12 00:20:00 +0000
 END=2026/10/12 03:40:00 +0000
 CATEGORY=NFL
 STREAM=TSN SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 DRM=YES
 KID=14eeabf30c14b7fbf3008c03099ce011
 KEY=17d2ac8dbc5429bd70af3433aa12158d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Atlanta Falcons vs Baltimore Ravens
+[2026-10-11 22:37:40] EVENT=Atlanta Falcons vs Baltimore Ravens
 START=2026/10/12 00:20:00 +0000
 END=2026/10/12 03:40:00 +0000
 CATEGORY=NFL
 STREAM=TSN5 SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 DRM=YES
 KID=385ceb9714b75e0cef61254f80b31002
 KEY=18dce92a2891fee68d21ede5173230f8
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Atlanta Falcons vs Baltimore Ravens
+[2026-10-11 22:37:40] EVENT=Atlanta Falcons vs Baltimore Ravens
 START=2026/10/12 00:20:00 +0000
 END=2026/10/12 03:40:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream4.pro/hls/wnbcnxbcs42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream4.pro/hls/wnbcnxbcs42.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Atlanta Falcons vs Baltimore Ravens
+[2026-10-11 22:37:40] EVENT=Atlanta Falcons vs Baltimore Ravens
 START=2026/10/12 00:20:00 +0000
 END=2026/10/12 03:40:00 +0000
 CATEGORY=NFL
@@ -1252,18 +1306,18 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/bal-atl
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=World Championship of Legends
+[2026-10-11 22:37:40] EVENT=World Championship of Legends
 START=2026/10/11 11:30:00 +0000
 END=2026/10/11 19:15:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2obepsx4jx/out/v1/0fd776498ea149a2893b6ba533f5a7aa/cenc.mpd
 DRM=YES
 KID=12cdb08af9c2f9c7667a3c3c58ed9443
 KEY=1679c9c3398400a552e34e9f5153bc78
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=World Championship of Legends
+[2026-10-11 22:37:40] EVENT=World Championship of Legends
 START=2026/10/11 11:30:00 +0000
 END=2026/10/11 19:15:00 +0000
 CATEGORY=Cricket
@@ -1274,7 +1328,7 @@ DRM=YES
 KID=12cdb08af9c2f9c7667a3c3c58ed9443
 KEY=1679c9c3398400a552e34e9f5153bc78
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=World Championship of Legends
+[2026-10-11 22:37:40] EVENT=World Championship of Legends
 START=2026/10/11 11:30:00 +0000
 END=2026/10/11 19:15:00 +0000
 CATEGORY=Cricket
@@ -1285,36 +1339,36 @@ DRM=YES
 KID=0ae4f162eec3e6f2b580a5bf0f4a64d4
 KEY=03483335db81cba5bbcf51b6d31196d9
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=World Championship of Legends
+[2026-10-11 22:37:40] EVENT=World Championship of Legends
 START=2026/10/11 11:30:00 +0000
 END=2026/10/11 19:15:00 +0000
 CATEGORY=Cricket
 STREAM=FANCODE - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 DRM=YES
 KID=1994b1df7dfd2e8a8d7b9bf3fb900285
 KEY=22a1444b3da18e139191665b3d652835
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=World Championship of Legends
+[2026-10-11 22:37:40] EVENT=World Championship of Legends
 START=2026/10/11 11:30:00 +0000
 END=2026/10/11 19:15:00 +0000
 CATEGORY=Cricket
 STREAM=FANCODE ENG - IN
 TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4249225_english_hls_b9b3ad34e157751_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+URL=https://dai-fancode.pages.dev/mumbai/4249225_english_hls_b9b3ad34e157751_1ta-di_h264/index.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Capitals vs Seattle Kraken
+[2026-10-11 22:37:40] EVENT=Washington Capitals vs Seattle Kraken
 START=2026/10/11 21:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NHL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream5.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream5.pro/hls/uyopzarf50.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Capitals vs Seattle Kraken
+[2026-10-11 22:37:40] EVENT=Washington Capitals vs Seattle Kraken
 START=2026/10/11 21:00:00 +0000
 END=2026/10/12 00:00:00 +0000
 CATEGORY=NHL
@@ -1323,16 +1377,16 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nhl/2026-10-11/sea-wsh
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Rangers vs Vancouver Canucks
+[2026-10-11 22:37:40] EVENT=New York Rangers vs Vancouver Canucks
 START=2026/10/11 22:00:00 +0000
 END=2026/10/12 01:00:00 +0000
 CATEGORY=NHL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream5.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream5.pro/hls/hjksgdfauzy51.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Rangers vs Vancouver Canucks
+[2026-10-11 22:37:40] EVENT=New York Rangers vs Vancouver Canucks
 START=2026/10/11 22:00:00 +0000
 END=2026/10/12 01:00:00 +0000
 CATEGORY=NHL
@@ -1341,16 +1395,16 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nhl/2026-10-11/van-nyr
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Philadelphia Flyers vs Carolina Hurricanes
+[2026-10-11 22:37:40] EVENT=Philadelphia Flyers vs Carolina Hurricanes
 START=2026/10/11 23:00:00 +0000
 END=2026/10/12 02:00:00 +0000
 CATEGORY=NHL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream2.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+URL=https://edgestream2.pro/hls/lmdsjkfgv52.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Philadelphia Flyers vs Carolina Hurricanes
+[2026-10-11 22:37:40] EVENT=Philadelphia Flyers vs Carolina Hurricanes
 START=2026/10/11 23:00:00 +0000
 END=2026/10/12 02:00:00 +0000
 CATEGORY=NHL
@@ -1359,18 +1413,18 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nhl/2026-10-11/car-phi
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Australia Women vs Bangladesh Women
+[2026-10-11 22:37:40] EVENT=Australia Women vs Bangladesh Women
 START=2026/10/11 03:50:00 +0000
 END=2026/10/11 11:20:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
 DRM=YES
 KID=7d9a00a9fc737d5ef4e05c9649eae1b4
 KEY=58fd9a8122f34cef93c6c4ac432bc1e5
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Australia Women vs Bangladesh Women
+[2026-10-11 22:37:40] EVENT=Australia Women vs Bangladesh Women
 START=2026/10/11 03:50:00 +0000
 END=2026/10/11 11:20:00 +0000
 CATEGORY=Cricket
@@ -1381,7 +1435,7 @@ DRM=YES
 KID=7d9a00a9fc737d5ef4e05c9649eae1b4
 KEY=58fd9a8122f34cef93c6c4ac432bc1e5
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Australia Women vs Bangladesh Women
+[2026-10-11 22:37:40] EVENT=Australia Women vs Bangladesh Women
 START=2026/10/11 03:50:00 +0000
 END=2026/10/11 11:20:00 +0000
 CATEGORY=Cricket
@@ -1392,361 +1446,164 @@ DRM=YES
 KID=290e09c837da78d5cd961978d390515c
 KEY=b748836c71e6a4ca68ef5b5652db6247
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Australia Women vs Bangladesh Women
+[2026-10-11 22:37:40] EVENT=Australia Women vs Bangladesh Women
 START=2026/10/11 03:50:00 +0000
 END=2026/10/11 11:20:00 +0000
 CATEGORY=Cricket
 STREAM=FANCODE - IN
 TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+URL=https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Flamengo vs Fluminense
+[2026-10-11 22:37:40] EVENT=Flamengo vs Fluminense
 START=2026/10/11 20:30:00 +0000
 END=2026/10/11 22:30:00 +0000
 CATEGORY=Brasileirão
 STREAM=PREMIERER BR
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 DRM=YES
 KID=9dc40460c93087aea84d6315f08ecb64
 KEY=f69c8d4624fddff4ca89bd0b31bdc4a7
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Palmeiras vs Corinthians
+[2026-10-11 22:37:40] EVENT=Palmeiras vs Corinthians
 START=2026/10/11 20:30:00 +0000
 END=2026/10/11 22:30:00 +0000
 CATEGORY=Brasileirão
 STREAM=PREMIER SPORTS
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 DRM=YES
 KID=1444f4235529f183f0a5a486befe9cdb
 KEY=e5e3fec67a1bb3472a2089c8a0a2557f
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Palmeiras vs Corinthians
+[2026-10-11 22:37:40] EVENT=Palmeiras vs Corinthians
 START=2026/10/11 20:30:00 +0000
 END=2026/10/11 22:30:00 +0000
 CATEGORY=Brasileirão
 STREAM=PREMIERER BR
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 DRM=YES
 KID=d23f7433798a652a7d4f6791d9e1036c
 KEY=4942eebd598b5727c5cc484cc62b52e8
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Bahia vs Mirassol
+[2026-10-11 22:37:40] EVENT=Bahia vs Mirassol
 START=2026/10/11 22:30:00 +0000
 END=2026/10/12 00:30:00 +0000
 CATEGORY=Brasileirão
 STREAM=PREMIERER BR
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 DRM=YES
 KID=332f62eb3cae824e98a4124da29a7d31
 KEY=d1698cda3d040f9051125a61745b596b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Indian Super League
+[2026-10-11 22:37:40] EVENT=Indian Super League
 START=2026/10/11 14:00:00 +0000
 END=2026/10/11 16:05:00 +0000
 CATEGORY=ISL
 STREAM=SonyLiv (ENG)
 TYPE=0
-URL=https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e3aff36e16bdb66ca1988ca43cb6490f-1791725404831
+URL=https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Indian Super League
+[2026-10-11 22:37:40] EVENT=Indian Super League
 START=2026/10/11 14:00:00 +0000
 END=2026/10/11 16:05:00 +0000
 CATEGORY=ISL
 STREAM=SonyLiv (HIN)
 TYPE=0
-URL=https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1110/HIN/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e3aff36e16bdb66ca1988ca43cb6490f-1791725404831
+URL=https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1110/HIN/master.m3u8?hdnea=exp=1791741018~acl=/*~id=49dac591eaab4650d60653332e078278-1791697800353~hmac=c3ffc49e5aedd665b0700dca8d232306ce9c111b599309eb90d442c7ccef1789
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=FUBO SPORTS ALT
+[2026-10-11 22:37:40] EVENT=Troyes vs Olympique de Marseille
+START=2026/10/11 18:45:00 +0000
+END=2026/10/11 20:50:00 +0000
+CATEGORY=Ligue 1 🇫🇷
+STREAM=beIN SPORTS FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nxmc2e3160/out/v1/7763c905a97d486ea1e9c36deb017e25/c0ae6615-2b20-4879-a8b8-e778b3e033b2-cenc.mpd?aws_sessionId=c3babe87-f2ea-4162-b9b3-7539fac55d20
 DRM=YES
-KID=42f72c025dd53039244adc13b7e31dad
-KEY=a7bd941a19f6dd14f3004a623a6ad3a1
+KID=27759a440e8ad821b800b3de00cd5851
+KEY=1b8743adee559f27845f55e8b4d639fe
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=PEACOCK TV FHD
+[2026-10-11 22:37:40] EVENT=Troyes vs Olympique de Marseille
+START=2026/10/11 18:45:00 +0000
+END=2026/10/11 20:50:00 +0000
+CATEGORY=Ligue 1 🇫🇷
+STREAM=HD SERVER
+TYPE=0
+URL=https://www.rtmpcdn.com/live/54739cd3-386e-458c-ac24-945b44b47c13.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
+START=2026/10/11 18:45:00 +0000
+END=2026/10/11 20:50:00 +0000
+CATEGORY=Serie A 🇮🇹
+STREAM=PARAMOUNT+ FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bsm5rkonu0/out/v1/9beb9de80ba049a58588b216bfed3175/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1vqntde2lm/out/v1/3d6fc1f6711c40c78dcd2ec9c304a48b/a5809c82-a068-4824-8a70-5ed1dc64aea9-cenc.mpd?aws_sessionId=31ef2a2a-0304-4cfc-8228-331c8f0e288f
 DRM=YES
-KID=aa3d87c6a4071d4e05f8f5602390134d
-KEY=8124927007f422b5116d572d845f202b
+KID=3e149b48b153c63fc986ae781e546df4
+KEY=78cf223dfbc92e7006304fa0b08b947a
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
+START=2026/10/11 18:45:00 +0000
+END=2026/10/11 20:50:00 +0000
+CATEGORY=Serie A 🇮🇹
 STREAM=FUBO SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/alw6uwbvan/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/bb20a1b7-6e82-43dd-a252-fb4626b25357-cenc.mpd?aws_sessionId=a0ca4f90-fe15-43a9-978c-d96d125ec28c
 DRM=YES
-KID=42f72c025dd53039244adc13b7e31dad
-KEY=a7bd941a19f6dd14f3004a623a6ad3a1
+KID=a45668ee9d66a696ffdb67cc7948e777
+KEY=110b1f3198bbec6a73d4a9c4412ba712
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=NBC SPORTS FHD
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
+START=2026/10/11 18:45:00 +0000
+END=2026/10/11 20:50:00 +0000
+CATEGORY=Serie A 🇮🇹
+STREAM=DAZN ITALIAN FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/syyqfy4fmu/out/v1/ec0b9cec0d884e2e89ba4528915a1c6f/cenc.mpd
 DRM=YES
-KID=36a385124dcdfb2f0969935065e03afa
-KEY=ccecd65514dff22eae493b975ccf9a9e
+KID=a03796938c76485c3f19baa10416ac1f
+KEY=3b23dc6eab5732bc861be4733ef9dbf6
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SKY PREMIER FHD
-TYPE=0
-URL=https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https|user-agent=Mozilla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=NBC SPORTS HD
-TYPE=0
-URL=https://matchzorion.s3.us-east-1.amazonaws.com/raptors.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=NOW SPORTS PL
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57941/load-playlist?|Referer=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=STAN SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/64f69df3dd9f26ebfde502e082d5b3be/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=ARENA SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/b4f76bca1288f8b98b23b869b62fc112/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=CANAL+ SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/8578d786d81e19886346defae3289d67/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=HD SERVER
-TYPE=0
-URL=https://www.rtmpcdn.com/live/fc18c739-3bd3-4753-b201-744fffa4b3bb.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Liverpool FC vs Manchester City
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:40:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=LOW SERVER
-TYPE=0
-URL=http://193.47.62.55/hls/M999.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=7995c724a13748ed970840a8ab5bb9b3
-KEY=67bdaf1e2175b9ff682fcdf0e2354b1e
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=FANCODE FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=82dfca238e8c4b430a3269db71965db9
-KEY=a00b28caf4ac628e77a553d440c0ddca
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=D Sports FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=f836853d8eac19446ed9535f5fc568b1
-KEY=b3bc5ef00602b29abac7e482d3d9fbf3
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=CAZE TV FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=ac7abaa9c9481aacfbdac64fc3ec3312
-KEY=c0c504a2ed2e70b879a650b8770a38c6
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=ESPN DEPORTES HD
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57826/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=SportzX Live
-TYPE=0
-URL=https://live.vivo155.com/live/hd-en-1-4565444.m3u8?txSecret=85444f19f957644c82945e86d9b980ff&txTime=6ACA9EF4|Referer=https://player.online909.com/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=ARENA SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/56516514794e21673b4c19ac23636f39/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=DAZN SPORTS PT
-TYPE=0
-URL=https://netanjahu.hls.st/t/1ab48cb50fcf099f0b14b15169e8b0f2/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=DAZN SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/c9fea7ce9477ee68a28612686cfc81d1/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=CANAL+ SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/32a4457e9184284346c5467cd1ee7c54/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=SportKlub HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/4ae5a797cd7bbd5758cb2f161aa4f110/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=HD SERVER
-TYPE=0
-URL=https://edgestream7.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Troyes vs Olympique de Marseille
-START=2026/10/11 18:45:00 +0000
-END=2026/10/11 20:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=Laliga TV [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/laliga/2026-10-10/rma-vil
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cagliari vs Juventus
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
 START=2026/10/11 18:45:00 +0000
 END=2026/10/11 20:50:00 +0000
 CATEGORY=Serie A 🇮🇹
 STREAM=TNT SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 DRM=YES
 KID=69a5aa835a061ce64a630d1046727e40
 KEY=d02feac8a999bd06bf4059bf33411749
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cagliari vs Juventus
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
 START=2026/10/11 18:45:00 +0000
 END=2026/10/11 20:50:00 +0000
 CATEGORY=Serie A 🇮🇹
 STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 DRM=YES
 KID=0b42be2664d7e811d04f3e504e0924c5
 KEY=ae24090123b8c72ac5404dc152847cb8
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cagliari vs Juventus
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
 START=2026/10/11 18:45:00 +0000
 END=2026/10/11 20:50:00 +0000
 CATEGORY=Serie A 🇮🇹
 STREAM=CBS NETWORK
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 DRM=YES
 KID=d9623774ac5c8c351aafe97c5fe70267
 KEY=5164e6d05164a2d65fa8fcc962aa4861
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cagliari vs Juventus
+[2026-10-11 22:37:40] EVENT=Cagliari vs Juventus
 START=2026/10/11 18:45:00 +0000
 END=2026/10/11 20:50:00 +0000
 CATEGORY=Serie A 🇮🇹
@@ -1757,18 +1614,18 @@ DRM=YES
 KID=11223344556677889900112233445566
 KEY=4b80724d0ef86bcb2c21f7999d67739d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Green Bay Packers vs Chicago Bears
+[2026-10-11 22:37:40] EVENT=Green Bay Packers vs Chicago Bears
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=NFL GAMEPASS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd
 DRM=YES
 KID=e056e9f9a151f5a9374b36bee3a37173
 KEY=6f2cde1ccce6e2e1f83b97e645d7d7fe
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Green Bay Packers vs Chicago Bears
+[2026-10-11 22:37:40] EVENT=Green Bay Packers vs Chicago Bears
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1777,25 +1634,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/packers.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Green Bay Packers vs Chicago Bears
+[2026-10-11 22:37:40] EVENT=Green Bay Packers vs Chicago Bears
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57944/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57944/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Green Bay Packers vs Chicago Bears
+[2026-10-11 22:37:40] EVENT=Green Bay Packers vs Chicago Bears
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Green Bay Packers vs Chicago Bears
+[2026-10-11 22:37:40] EVENT=Green Bay Packers vs Chicago Bears
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1804,27 +1661,27 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/chi-gb
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Miami Dolphins vs Cincinnati Bengals
+[2026-10-11 22:37:40] EVENT=Miami Dolphins vs Cincinnati Bengals
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f4ugzlojfc/out/v1/9f5e1cf62bee42d9b3686b32944c1a0a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f4ugzlojfc/out/v1/9f5e1cf62bee42d9b3686b32944c1a0a/cenc.mpd
 DRM=YES
 KID=4a8fb4f7eaa577e151dc2a6f06a15441
 KEY=6eb7326edc7b0696b44338c99dc61f76
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Miami Dolphins vs Cincinnati Bengals
+[2026-10-11 22:37:40] EVENT=Miami Dolphins vs Cincinnati Bengals
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57945/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57945/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Miami Dolphins vs Cincinnati Bengals
+[2026-10-11 22:37:40] EVENT=Miami Dolphins vs Cincinnati Bengals
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1833,25 +1690,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/bengals.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Miami Dolphins vs Cincinnati Bengals
+[2026-10-11 22:37:40] EVENT=Miami Dolphins vs Cincinnati Bengals
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 1 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57936/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57936/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Miami Dolphins vs Cincinnati Bengals
+[2026-10-11 22:37:40] EVENT=Miami Dolphins vs Cincinnati Bengals
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream7.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream7.pro/hls/sfjnzabacah31.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Miami Dolphins vs Cincinnati Bengals
+[2026-10-11 22:37:40] EVENT=Miami Dolphins vs Cincinnati Bengals
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1860,27 +1717,27 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/cin-mia
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New England Patriots vs Las Vegas Raiders
+[2026-10-11 22:37:40] EVENT=New England Patriots vs Las Vegas Raiders
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd
 DRM=YES
 KID=f775d0d519858976c3fcfcf57bc57678
 KEY=22c3c4539832a0c72545a47f3f4ea57d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New England Patriots vs Las Vegas Raiders
+[2026-10-11 22:37:40] EVENT=New England Patriots vs Las Vegas Raiders
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57927/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57927/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New England Patriots vs Las Vegas Raiders
+[2026-10-11 22:37:40] EVENT=New England Patriots vs Las Vegas Raiders
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1889,25 +1746,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/patriots.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New England Patriots vs Las Vegas Raiders
+[2026-10-11 22:37:40] EVENT=New England Patriots vs Las Vegas Raiders
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 1 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57926/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57926/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New England Patriots vs Las Vegas Raiders
+[2026-10-11 22:37:40] EVENT=New England Patriots vs Las Vegas Raiders
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream4.pro/hls/jnknjfzbk35.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New England Patriots vs Las Vegas Raiders
+[2026-10-11 22:37:40] EVENT=New England Patriots vs Las Vegas Raiders
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1916,27 +1773,27 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/lv-ne
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New Orleans Saints vs Minnesota Vikings
+[2026-10-11 22:37:40] EVENT=New Orleans Saints vs Minnesota Vikings
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uod57n2bll/out/v1/9f825dd687f24e09a90751baf25904b6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uod57n2bll/out/v1/9f825dd687f24e09a90751baf25904b6/cenc.mpd
 DRM=YES
 KID=d1d7e04ddd43fda2fc45be3baff5a94f
 KEY=5c6fedb92845fbf93aeb2560a9b83f45
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New Orleans Saints vs Minnesota Vikings
+[2026-10-11 22:37:40] EVENT=New Orleans Saints vs Minnesota Vikings
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57931/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57931/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New Orleans Saints vs Minnesota Vikings
+[2026-10-11 22:37:40] EVENT=New Orleans Saints vs Minnesota Vikings
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1945,25 +1802,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/vikings.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New Orleans Saints vs Minnesota Vikings
+[2026-10-11 22:37:40] EVENT=New Orleans Saints vs Minnesota Vikings
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 1 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57930/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57930/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New Orleans Saints vs Minnesota Vikings
+[2026-10-11 22:37:40] EVENT=New Orleans Saints vs Minnesota Vikings
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream5.pro/hls/jkhazabcka36.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream5.pro/hls/jkhazabcka36.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New Orleans Saints vs Minnesota Vikings
+[2026-10-11 22:37:40] EVENT=New Orleans Saints vs Minnesota Vikings
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1972,18 +1829,18 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/min-no
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Jets vs Cleveland Browns
+[2026-10-11 22:37:40] EVENT=New York Jets vs Cleveland Browns
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3yukueoibc/out/v1/07d1e7a2df604a70bdd7bb2e1bf79d16/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3yukueoibc/out/v1/07d1e7a2df604a70bdd7bb2e1bf79d16/cenc.mpd
 DRM=YES
 KID=ffb7adc1d3e4686c81a3f0058af82102
 KEY=6d23f1c8c74819970d69ec74f23a680b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Jets vs Cleveland Browns
+[2026-10-11 22:37:40] EVENT=New York Jets vs Cleveland Browns
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -1992,34 +1849,34 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/browns.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Jets vs Cleveland Browns
+[2026-10-11 22:37:40] EVENT=New York Jets vs Cleveland Browns
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57933/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57933/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Jets vs Cleveland Browns
+[2026-10-11 22:37:40] EVENT=New York Jets vs Cleveland Browns
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SERVER 1 HD [USA]
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57932/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57932/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Jets vs Cleveland Browns
+[2026-10-11 22:37:40] EVENT=New York Jets vs Cleveland Browns
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream5.pro/hls/qsdnajbq32.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream5.pro/hls/qsdnajbq32.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=New York Jets vs Cleveland Browns
+[2026-10-11 22:37:40] EVENT=New York Jets vs Cleveland Browns
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2028,40 +1885,40 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/cle-nyj
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/s7pn4tqrvk/out/v1/f4716182ceae4d98b5f402688bbebf1b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/s7pn4tqrvk/out/v1/f4716182ceae4d98b5f402688bbebf1b/cenc.mpd
 DRM=YES
 KID=a52a830e1b76c34e09037b79b6875f3a
 KEY=9c297b707638fc8b498754d4bb68771a
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=TSN SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 DRM=YES
 KID=14eeabf30c14b7fbf3008c03099ce011
 KEY=17d2ac8dbc5429bd70af3433aa12158d
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=TSN4 SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 DRM=YES
 KID=abc5b2883121012850ebda05b528c5ec
 KEY=e5250924f4b738905f7163a0134587a7
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2070,25 +1927,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/steelers.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57946/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57946/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream1.pro/hls/uheyztezgj34.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream1.pro/hls/uheyztezgj34.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Pittsburgh Steelers vs Indianapolis Colts
+[2026-10-11 22:37:40] EVENT=Pittsburgh Steelers vs Indianapolis Colts
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2097,7 +1954,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/ind-pit
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Tennessee Titans vs Houston Texans
+[2026-10-11 22:37:40] EVENT=Tennessee Titans vs Houston Texans
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2108,7 +1965,7 @@ DRM=YES
 KID=cd1c5091e5aa3d5ceaecd735dbd79d80
 KEY=9cbb20826e097123163447471227afb3
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Tennessee Titans vs Houston Texans
+[2026-10-11 22:37:40] EVENT=Tennessee Titans vs Houston Texans
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2117,25 +1974,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/texans.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Tennessee Titans vs Houston Texans
+[2026-10-11 22:37:40] EVENT=Tennessee Titans vs Houston Texans
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57938/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57938/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Tennessee Titans vs Houston Texans
+[2026-10-11 22:37:40] EVENT=Tennessee Titans vs Houston Texans
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream5.pro/hls/oipozuezeji33.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream5.pro/hls/oipozuezeji33.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Tennessee Titans vs Houston Texans
+[2026-10-11 22:37:40] EVENT=Tennessee Titans vs Houston Texans
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2144,18 +2001,18 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/hou-ten
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Commanders vs New York Giants
+[2026-10-11 22:37:40] EVENT=Washington Commanders vs New York Giants
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ivbn4gk6dy/out/v1/8de5800fa87245bbb63b50c015a2ff01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ivbn4gk6dy/out/v1/8de5800fa87245bbb63b50c015a2ff01/cenc.mpd
 DRM=YES
 KID=4ddd466263fb864a59327dac4e0bb836
 KEY=a7d9ed9df1bf62118246e48f1f7df151
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Commanders vs New York Giants
+[2026-10-11 22:37:40] EVENT=Washington Commanders vs New York Giants
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2164,25 +2021,25 @@ TYPE=0
 URL=https://veltristream.s3.us-east-1.amazonaws.com/giants.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Commanders vs New York Giants
+[2026-10-11 22:37:40] EVENT=Washington Commanders vs New York Giants
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX NFL HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57934/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57934/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Commanders vs New York Giants
+[2026-10-11 22:37:40] EVENT=Washington Commanders vs New York Giants
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
 STREAM=SportzX Live
 TYPE=0
-URL=https://edgestream3.pro/hls/yetehznecs37.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream3.pro/hls/yetehznecs37.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Washington Commanders vs New York Giants
+[2026-10-11 22:37:40] EVENT=Washington Commanders vs New York Giants
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 20:20:00 +0000
 CATEGORY=NFL
@@ -2191,621 +2048,315 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/nfl/2026-10-11/nyg-wsh
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Crystal Palace vs Nottingham Forest
+[2026-10-11 22:37:40] EVENT=Crystal Palace vs Nottingham Forest
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=FUBO SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t8yiqifbxt/out/v1/c47b141c14d041398b261ebd143aea6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t8yiqifbxt/out/v1/c47b141c14d041398b261ebd143aea6d/cenc.mpd
 DRM=YES
 KID=e09a0900100e5ac77d4adb45a602a86b
 KEY=7da511a38053d3e150d38f47ac7d8298
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Crystal Palace vs Nottingham Forest
+[2026-10-11 22:37:40] EVENT=Crystal Palace vs Nottingham Forest
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=HD SERVER 
 TYPE=0
-URL=https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Crystal Palace vs Nottingham Forest
+[2026-10-11 22:37:40] EVENT=Crystal Palace vs Nottingham Forest
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=SD SERVER
 TYPE=0
-URL=https://www.rtmpcdn.com/live/3d393c29-59de-4795-b63f-1eeba868403c.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+URL=https://www.rtmpcdn.com/live/3d393c29-59de-4795-b63f-1eeba868403c.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Crystal Palace vs Nottingham Forest
+[2026-10-11 22:37:40] EVENT=Crystal Palace vs Nottingham Forest
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=LOW SERVER
 TYPE=0
-URL=http://193.47.62.55/hls/J333AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+URL=http://193.47.62.55/hls/J333AAAA.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Hull City vs Everton
+[2026-10-11 22:37:40] EVENT=Hull City vs Everton
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=FUBO SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vvezz98vxk/out/v1/59a70a7d623d49618c91bb0cf936cb69/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vvezz98vxk/out/v1/59a70a7d623d49618c91bb0cf936cb69/cenc.mpd
 DRM=YES
 KID=925c539720a10e0745e9bd8fa76809b5
 KEY=2d791e20a47bbd447d556f931bfc7865
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Hull City vs Everton
+[2026-10-11 22:37:40] EVENT=Hull City vs Everton
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=PEACOCK TV HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57915/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57915/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Hull City vs Everton
+[2026-10-11 22:37:40] EVENT=Hull City vs Everton
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=HD SERVER 
 TYPE=0
-URL=https://edgestream6.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+URL=https://edgestream6.pro/hls/eJmauBDCIf.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Hull City vs Everton
+[2026-10-11 22:37:40] EVENT=Hull City vs Everton
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=SD SERVER
 TYPE=0
-URL=https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+URL=https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Hull City vs Everton
+[2026-10-11 22:37:40] EVENT=Hull City vs Everton
 START=2026/10/11 13:00:00 +0000
 END=2026/10/11 15:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=LOW SERVER
 TYPE=0
-URL=http://193.47.62.55/hls/J333AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+URL=http://193.47.62.55/hls/J333AAAAA.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Racing Club vs Valencia
+[2026-10-11 22:37:40] EVENT=Real Racing Club vs Valencia
 START=2026/10/11 19:00:00 +0000
 END=2026/10/11 21:05:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=PREMIER SPORTS
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 DRM=YES
 KID=1444f4235529f183f0a5a486befe9cdb
 KEY=e5e3fec67a1bb3472a2089c8a0a2557f
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Racing Club vs Valencia
+[2026-10-11 22:37:40] EVENT=Real Racing Club vs Valencia
 START=2026/10/11 19:00:00 +0000
 END=2026/10/11 21:05:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 DRM=YES
 KID=7995c724a13748ed970840a8ab5bb9b3
 KEY=67bdaf1e2175b9ff682fcdf0e2354b1e
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Racing Club vs Valencia
+[2026-10-11 22:37:40] EVENT=Real Racing Club vs Valencia
 START=2026/10/11 19:00:00 +0000
 END=2026/10/11 21:05:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=CAZE TV FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
 DRM=YES
-KID=34475edab991ad5e92548aebd710410a
-KEY=501b209cccd323ac00bf5ac15b406cb4
+KID=ba6aca5a550163c38d06646bb50f04e7
+KEY=516c3b471fce48a5b7a2e5ee7dd505f2
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Betis vs Osasuna
+[2026-10-11 22:37:40] EVENT=Real Racing Club vs Valencia
+START=2026/10/11 19:00:00 +0000
+END=2026/10/11 21:05:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=ESPN DEPORTES HD
+TYPE=0
+URL=https://edgestream4.pro/hls/377qj1h2727.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-11 22:37:40] EVENT=Real Betis vs Osasuna
 START=2026/10/11 16:30:00 +0000
 END=2026/10/11 18:35:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=PREMIER SPORTS
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 DRM=YES
 KID=1444f4235529f183f0a5a486befe9cdb
 KEY=e5e3fec67a1bb3472a2089c8a0a2557f
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Betis vs Osasuna
+[2026-10-11 22:37:40] EVENT=Real Betis vs Osasuna
 START=2026/10/11 16:30:00 +0000
 END=2026/10/11 18:35:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 DRM=YES
 KID=7995c724a13748ed970840a8ab5bb9b3
 KEY=67bdaf1e2175b9ff682fcdf0e2354b1e
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Betis vs Osasuna
+[2026-10-11 22:37:40] EVENT=Real Betis vs Osasuna
 START=2026/10/11 16:30:00 +0000
 END=2026/10/11 18:35:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=D Sports FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 DRM=YES
 KID=f836853d8eac19446ed9535f5fc568b1
 KEY=b3bc5ef00602b29abac7e482d3d9fbf3
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Betis vs Osasuna
+[2026-10-11 22:37:40] EVENT=Real Betis vs Osasuna
 START=2026/10/11 16:30:00 +0000
 END=2026/10/11 18:35:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=CAZE TV FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
 DRM=YES
 KID=34475edab991ad5e92548aebd710410a
 KEY=501b209cccd323ac00bf5ac15b406cb4
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Sociedad vs Deportivo
+[2026-10-11 22:37:40] EVENT=Real Sociedad vs Deportivo
 START=2026/10/11 14:15:00 +0000
 END=2026/10/11 16:20:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=PREMIER SPORTS
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 DRM=YES
 KID=1a5df53609ebc9857898c490f4724918
 KEY=77f62980d582ec541280796acf8b2d19
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Sociedad vs Deportivo
+[2026-10-11 22:37:40] EVENT=Real Sociedad vs Deportivo
 START=2026/10/11 14:15:00 +0000
 END=2026/10/11 16:20:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 DRM=YES
 KID=7995c724a13748ed970840a8ab5bb9b3
 KEY=67bdaf1e2175b9ff682fcdf0e2354b1e
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Sociedad vs Deportivo
+[2026-10-11 22:37:40] EVENT=Real Sociedad vs Deportivo
 START=2026/10/11 14:15:00 +0000
 END=2026/10/11 16:20:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=D Sports FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 DRM=YES
 KID=f836853d8eac19446ed9535f5fc568b1
 KEY=b3bc5ef00602b29abac7e482d3d9fbf3
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Sociedad vs Deportivo
+[2026-10-11 22:37:40] EVENT=Real Sociedad vs Deportivo
 START=2026/10/11 14:15:00 +0000
 END=2026/10/11 16:20:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=ESPN DEPORTES HD
 TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57920/load-playlist?|Referer=https://gooz.aapmains.net
+URL=https://chatgpt.hereisman.net/playlist/57920/load-playlist?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Real Sociedad vs Deportivo
+[2026-10-11 22:37:40] EVENT=Real Sociedad vs Deportivo
 START=2026/10/11 14:15:00 +0000
 END=2026/10/11 16:20:00 +0000
 CATEGORY=LaLiga 🇪🇸
 STREAM=LOW SERVER
 TYPE=0
-URL=http://193.47.62.59/hls/UFFFAAAAAAQQQA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+URL=http://193.47.62.59/hls/UFFFAAAAAAQQQA.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=SC Freiburg vs Schalke 04
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=SporTV BR FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=902e5ec0e3d05e665daa32fc23f4f59e
-KEY=7b2322a273843921a43e2c61dac7cae3
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=SC Freiburg vs Schalke 04
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=ELEVEN SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/ea8cbede387e35fa66df044495a45d5e/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=SC Freiburg vs Schalke 04
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=ARENA SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/2100d4b7ad2afe661d9d67d792dc4a95/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=SC Freiburg vs Schalke 04
-START=2026/10/11 15:30:00 +0000
-END=2026/10/11 17:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=SportKlub HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/cc2685bc6945df6f3c2e8cd57cb50ed8/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Köln vs Borussia M'gladbach
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 15:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=CAZE TV FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=ac7abaa9c9481aacfbdac64fc3ec3312
-KEY=c0c504a2ed2e70b879a650b8770a38c6
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Köln vs Borussia M'gladbach
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 15:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=HD SERVER
-TYPE=0
-URL=https://www.rtmpcdn.com/live/730724ec-614f-4553-ad93-463f03e2baea.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Köln vs Borussia M'gladbach
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 15:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=LOW SERVER
-TYPE=0
-URL=http://193.47.62.59/hls/NCCCAAQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=PARAMOUNT+ FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwvuc4troe/out/v1/895a3c32779c43fcb4af393bf35d1d5b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=1c47b1f2660792461856cbd7473d9510
-KEY=144139a924f927b6c0ceddb6ba53bbfb
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=FUBO SPORTS FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/7ft4fl7hsi/out/v1/b59284953fcd4c93a6977856612840ae/d35b199e-1033-4e99-a5ed-5e6678892a9a-cenc.mpd?aws_sessionId=0563ddfc-86b2-44cd-8f45-4d96f516a141|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=2cb279cf3d7eb88dc82d9b07e5d9e358
-KEY=31633848825f7cd6db41d69f1a6e6573
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=0b42be2664d7e811d04f3e504e0924c5
-KEY=ae24090123b8c72ac5404dc152847cb8
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=SPORT 1 CZ FHD
-TYPE=1
-URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-DRM=YES
-KID=11223344556677889900112233445566
-KEY=4b80724d0ef86bcb2c21f7999d67739d
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=PARAMOUNT+ HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/63885dc3c5deca6ad421caa860ed8387/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=Sport TV HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/663981a2b8c3dec58312e40dc2cee946/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=ELEVEN SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/a3caec5ad4f3dc40c90fce678512928e/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Sassuolo vs AC Milan
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:05:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=Ziggo Sports HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/dd11234465896664ec405fee0b019c26/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Jacksonville Jaguars vs Philadelphia Eagles
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 16:50:00 +0000
-CATEGORY=NFL
-STREAM=NFL NETWORK FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gygql9ozip/out/v1/12754c36f42e4a568c0b8c0153846a8a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=bbacd3faf04f995b98de0362cfcd29fe
-KEY=d2f447a855b697c63baf6587ae9550ea
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Jacksonville Jaguars vs Philadelphia Eagles
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 16:50:00 +0000
-CATEGORY=NFL
-STREAM=SporTV BR FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=9009b7189e3e68cc09d17811f2beb55a
-KEY=dd3f96a94c909da48ff40c92aabf8cf3
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Jacksonville Jaguars vs Philadelphia Eagles
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 16:50:00 +0000
-CATEGORY=NFL
-STREAM=SportzX NFL HD
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/57918/load-playlist?|Referer=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Jacksonville Jaguars vs Philadelphia Eagles
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 16:50:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Jacksonville Jaguars vs Philadelphia Eagles
-START=2026/10/11 13:30:00 +0000
-END=2026/10/11 16:50:00 +0000
-CATEGORY=NFL
-STREAM=SD SERVER
-TYPE=0
-URL=http://193.47.62.59/hls/NCCCAAQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Stade Rennais vs Auxerre
-START=2026/10/11 15:15:00 +0000
-END=2026/10/11 17:20:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=beIN SPORTS USA
-TYPE=0
-URL=https://edgestream7.pro/hls/dza5z8f69.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Stade Rennais vs Auxerre
-START=2026/10/11 15:15:00 +0000
-END=2026/10/11 17:20:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=ELEVEN SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/79b023c0edfc763c18555ed2a60fedd4/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Stade Rennais vs Auxerre
-START=2026/10/11 15:15:00 +0000
-END=2026/10/11 17:20:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=Sport TV HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/e599022bedec6878c055f990457fa07e/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Stade Rennais vs Auxerre
-START=2026/10/11 15:15:00 +0000
-END=2026/10/11 17:20:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=DAZN SPORTS HD
-TYPE=0
-URL=https://netanjahu.hls.st/t/f4f178a9ff3458089bfcf96c445b6bfe/index.m3u8?|Referer=https://iplayer.is/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Stade Rennais vs Auxerre
-START=2026/10/11 15:15:00 +0000
-END=2026/10/11 17:20:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=SD SERVER
-TYPE=0
-URL=http://193.47.62.56/hls/DYYYA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Arouca vs Estrela Amadora
+[2026-10-11 22:37:40] EVENT=Arouca vs Estrela Amadora
 START=2026/10/11 19:30:00 +0000
 END=2026/10/11 21:30:00 +0000
 CATEGORY=Liga Portugal
 STREAM=SportzX Live
 TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+URL=https://netanjahu.hls.st/t/20e782e293a5954180a99da2a5909887/index.m3u8?
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Benfica vs Vitória SC
+[2026-10-11 22:37:40] EVENT=Benfica vs Vitória SC
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 19:05:00 +0000
 CATEGORY=Liga Portugal
 STREAM=SportDigital Fussball
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 DRM=YES
 KID=0ad4080cdff8c60b1233b22087f0b340
 KEY=285f129c5eca01dd08a5d5a14ad801c8
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Benfica vs Vitória SC
+[2026-10-11 22:37:40] EVENT=Benfica vs Vitória SC
 START=2026/10/11 17:00:00 +0000
 END=2026/10/11 19:05:00 +0000
 CATEGORY=Liga Portugal
 STREAM=D Sports FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 DRM=YES
 KID=03f12d6a3dbfd3a6fa7dd7f6417e0c11
 KEY=ea07b87acdf2e45be824cde4a1cf3504
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Rio Ave vs CD Nacional
-START=2026/10/11 14:30:00 +0000
-END=2026/10/11 16:30:00 +0000
-CATEGORY=Liga Portugal
-STREAM=SportzX Live
-TYPE=0
-URL=http://193.47.62.56/hls/VRVRVRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Al-Shabab vs Al-Taawoun
+[2026-10-11 22:37:40] EVENT=Al-Shabab vs Al-Taawoun
 START=2026/10/11 18:00:00 +0000
 END=2026/10/11 20:05:00 +0000
 CATEGORY=Pro League 🇸🇦
 STREAM=SportzX Live
 TYPE=0
-URL=http://193.47.62.56/hls/ncccAAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+URL=http://193.47.62.56/hls/ncccAAAAAAA.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Abha vs Al Faisaly
-START=2026/10/11 15:25:00 +0000
-END=2026/10/11 17:30:00 +0000
-CATEGORY=Pro League 🇸🇦
-STREAM=SportzX Live
-TYPE=0
-URL=http://193.47.62.56/hls/DYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Al-Fayha vs Al-Riyadh
-START=2026/10/11 13:40:00 +0000
-END=2026/10/11 15:45:00 +0000
-CATEGORY=Pro League 🇸🇦
-STREAM=SportzX Live
-TYPE=0
-URL=http://193.47.62.59/hls/NCCCAAQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Atlético Mineiro vs Santos
+[2026-10-11 22:37:40] EVENT=Atlético Mineiro vs Santos
 START=2026/10/11 19:00:00 +0000
 END=2026/10/11 21:05:00 +0000
 CATEGORY=Brasileirão
 STREAM=SporTV BR FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 DRM=YES
 KID=51c0ef23b17297e5c01cd7f36dd0a6ce
 KEY=8823f713ba6fdb9bbe0a2ad82d309a4b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Atlético Mineiro vs Santos
+[2026-10-11 22:37:40] EVENT=Atlético Mineiro vs Santos
 START=2026/10/11 19:00:00 +0000
 END=2026/10/11 21:05:00 +0000
 CATEGORY=Brasileirão
 STREAM=PREMIERER BR
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 DRM=YES
 KID=332f62eb3cae824e98a4124da29a7d31
 KEY=d1698cda3d040f9051125a61745b596b
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Grêmio vs Internacional
+[2026-10-11 22:37:40] EVENT=Grêmio vs Internacional
 START=2026/10/11 20:30:00 +0000
 END=2026/10/11 22:35:00 +0000
 CATEGORY=Brasileirão
 STREAM=SportDigital Fussball
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 DRM=YES
 KID=0ad4080cdff8c60b1233b22087f0b340
 KEY=285f129c5eca01dd08a5d5a14ad801c8
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Grêmio vs Internacional
+[2026-10-11 22:37:40] EVENT=Grêmio vs Internacional
 START=2026/10/11 20:30:00 +0000
 END=2026/10/11 22:35:00 +0000
 CATEGORY=Brasileirão
 STREAM=PREMIERER BR
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 DRM=YES
 KID=56b79c1782b30e6b6fc973b0e8fd4104
 KEY=fa38aaa865a57eda7c77444697ba8ed3
 --------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Excelsior vs FC Groningen
-START=2026/10/11 14:45:00 +0000
-END=2026/10/11 16:45:00 +0000
-CATEGORY=Eredivisie
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Beşiktaş JK vs Kocaelispor
-START=2026/10/11 16:00:00 +0000
-END=2026/10/11 18:00:00 +0000
-CATEGORY=Super Lig
-STREAM=SportzX Live
-TYPE=0
-URL=http://193.47.62.56/hls/GLLLAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Motherwell vs Celtic
-START=2026/10/11 11:00:00 +0000
-END=2026/10/11 13:00:00 +0000
-CATEGORY=Scottish Premiership
-STREAM=SportDigital Fussball
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
-KID=0ad4080cdff8c60b1233b22087f0b340
-KEY=285f129c5eca01dd08a5d5a14ad801c8
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Cádiz vs Sporting Gijón
-START=2026/10/11 19:00:00 +0000
-END=2026/10/11 21:00:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-11 21:26:04] EVENT=Mallorca vs UD Las Palmas
-START=2026/10/11 16:30:00 +0000
-END=2026/10/11 18:30:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
 
 ================================================================================
-TOTAL_EVENTS=65
-TOTAL_STREAMS=288
-TOTAL_DRM_STREAMS=106
+TOTAL_EVENTS=51
+TOTAL_STREAMS=241
+TOTAL_DRM_STREAMS=93
 ================================================================================
