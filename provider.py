@@ -5,7 +5,17 @@ import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-SOURCE_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_6/live_events.json"
+# =========================
+# CONFIG
+# =========================
+
+SOURCE_URL = (
+    "https://raw.githubusercontent.com/"
+    "darkbyteprojects/iptv_png/main/provider_6/live_events.json"
+)
+
+M3U_FILE = "stv11.m3u"
+LOG_FILE = "stv11.log"
 
 HEADERS = {
     "User-Agent": (
@@ -15,215 +25,325 @@ HEADERS = {
     )
 }
 
-M3U_FILE = "stv11.m3u"
-LOG_FILE = "stv11.log"
-
 JAKARTA_TZ = ZoneInfo("Asia/Jakarta")
 
 
-def write_log(message):
+# =========================
+# HELPERS
+# =========================
+
+def log(message):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(message + "\n")
 
 
-def get_json():
-    r = requests.get(SOURCE_URL, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    return r.json()
+def now_wib():
+    return datetime.now(JAKARTA_TZ).strftime(
+        "%Y-%m-%d %H:%M:%S WIB"
+    )
 
 
 def clean_url(url):
     if not url:
         return ""
-    return url.replace("&amp;", "&").strip()
+
+    return (
+        url.strip()
+        .replace("&amp;", "&")
+    )
 
 
-def utc_to_jakarta(dt_str):
+def convert_time(time_str):
     try:
         utc_dt = datetime.strptime(
-            dt_str,
+            time_str,
             "%Y/%m/%d %H:%M:%S %z"
         )
-        return utc_dt.astimezone(JAKARTA_TZ)
+
+        return utc_dt.astimezone(
+            JAKARTA_TZ
+        )
+
     except Exception:
         return None
 
 
-def kodi_props(stream_type, drm):
-    props = []
+def format_wib(dt):
+    if not dt:
+        return ""
 
-    if str(stream_type) == "1" and drm and ":" in drm:
-        kid, key = drm.split(":", 1)
-
-        props.extend([
-            "#KODIPROP:inputstream=inputstream.adaptive",
-            "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
-            "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha",
-            f"#KODIPROP:inputstream.adaptive.license_key={kid}:{key}"
-        ])
-
-    return props
+    return dt.strftime(
+        "%Y-%m-%d %H:%M WIB"
+    )
 
 
-def build_files(events):
+def download_events():
+    r = requests.get(
+        SOURCE_URL,
+        headers=HEADERS,
+        timeout=30
+    )
 
+    r.raise_for_status()
+
+    return r.json()
+
+
+# =========================
+# KODI DRM SUPPORT
+# =========================
+
+def write_kodi_props(m3u, stream_type, drm):
+
+    if str(stream_type) != "1":
+        return
+
+    if not drm or ":" not in drm:
+        return
+
+    kid, key = drm.split(":", 1)
+
+    m3u.write(
+        "#KODIPROP:inputstream="
+        "inputstream.adaptive\n"
+    )
+
+    m3u.write(
+        "#KODIPROP:"
+        "inputstream.adaptive.manifest_type=mpd\n"
+    )
+
+    m3u.write(
+        "#KODIPROP:"
+        "inputstream.adaptive.license_type="
+        "com.widevine.alpha\n"
+    )
+
+    m3u.write(
+        "#KODIPROP:"
+        f"inputstream.adaptive.license_key={kid}:{key}\n"
+    )
+
+
+# =========================
+# PLAYLIST GENERATOR
+# =========================
+
+def build_playlist(events):
+
+    total_events = 0
     total_streams = 0
-    drm_streams = 0
+    total_drm = 0
 
     with open(M3U_FILE, "w", encoding="utf-8") as m3u:
 
-        m3u.write("#EXTM3U\n")
+        # REQUIRED HEADER
+        m3u.write(
+            '#EXTM3U '
+            'refresh="900" '
+            'generator="STVB"\n'
+        )
 
         for event in events:
 
+            total_events += 1
+
             event_id = event.get("id", "")
             category = event.get("cat", "LIVE")
-            event_title = event.get("title", "")
-            image = event.get("image", "")
 
             info = event.get("eventInfo", {})
 
-            event_name = info.get("eventName", event_title)
-            team_a = info.get("teamA", "")
-            team_b = info.get("teamB", "")
-            banner = info.get("eventBanner", "")
+            event_name = (
+                info.get("eventName")
+                or event.get("title", "")
+            )
 
-            start_dt = utc_to_jakarta(
+            start_dt = convert_time(
                 info.get("startTime", "")
             )
 
-            end_dt = utc_to_jakarta(
+            end_dt = convert_time(
                 info.get("endTime", "")
             )
 
-            start_str = (
-                start_dt.strftime("%Y-%m-%d %H:%M WIB")
-                if start_dt else ""
-            )
+            start_time = format_wib(start_dt)
+            end_time = format_wib(end_dt)
 
-            end_str = (
-                end_dt.strftime("%Y-%m-%d %H:%M WIB")
-                if end_dt else ""
-            )
-
-            for fmt in event.get("formats", []):
+            for stream in event.get("formats", []):
 
                 total_streams += 1
 
-                stream_title = fmt.get("title", "Unknown")
-                stream_url = clean_url(fmt.get("link", ""))
-                logo = fmt.get("logo", "")
-                drm = fmt.get("api", "")
-                stream_type = str(fmt.get("type", ""))
-
-                if drm:
-                    drm_streams += 1
-
-                display_title = (
-                    f"{event_name} [{start_str}] | "
-                    f"{stream_title}"
+                stream_title = stream.get(
+                    "title",
+                    "Unknown"
                 )
 
-                for prop in kodi_props(stream_type, drm):
-                    m3u.write(prop + "\n")
+                stream_type = str(
+                    stream.get("type", "")
+                )
 
+                stream_url = clean_url(
+                    stream.get("link", "")
+                )
+
+                stream_logo = stream.get(
+                    "logo",
+                    ""
+                )
+
+                drm = stream.get(
+                    "api",
+                    ""
+                )
+
+                if drm:
+                    total_drm += 1
+
+                #
+                # Kodi DRM tags
+                #
+                write_kodi_props(
+                    m3u,
+                    stream_type,
+                    drm
+                )
+
+                #
+                # EXTINF
+                #
                 m3u.write(
                     f'#EXTINF:-1 '
                     f'tvg-id="{event_id}" '
-                    f'tvg-name="{display_title}" '
-                    f'tvg-logo="{logo}" '
+                    f'tvg-name="{stream_title}" '
+                    f'tvg-logo="{stream_logo}" '
                     f'group-title="{category}",'
-                    f'{display_title}\n'
+                    f'{stream_title}\n'
                 )
 
-                m3u.write(stream_url + "\n")
-
-                timestamp = datetime.now(
-                    JAKARTA_TZ
-                ).strftime("%Y-%m-%d %H:%M:%S WIB")
-
-                write_log(
-                    f"[{timestamp}] "
-                    f"EVENT={event_name} "
-                    f"START={start_str} "
-                    f"END={end_str} "
-                    f"STREAM={stream_title} "
-                    f"TYPE={stream_type} "
-                    f"DRM={'YES' if drm else 'NO'}"
+                #
+                # IPTV group
+                #
+                m3u.write(
+                    f"#EXTGRP:{category}\n"
                 )
 
-                if drm and ":" in drm:
+                #
+                # VLC options
+                #
+                m3u.write(
+                    "#EXTVLCOPT:http-user-agent="
+                    f'{HEADERS["User-Agent"]}\n'
+                )
 
-                    try:
-                        kid, key = drm.split(":", 1)
+                #
+                # URL
+                #
+                m3u.write(
+                    stream_url + "\n\n"
+                )
 
-                        write_log(
-                            f"MPD={stream_url}"
+                #
+                # LOGGING
+                #
+                log(
+                    f"[{now_wib()}] "
+                    f"EVENT={event_name}"
+                )
+
+                log(
+                    f"START={start_time}"
+                )
+
+                log(
+                    f"END={end_time}"
+                )
+
+                log(
+                    f"CATEGORY={category}"
+                )
+
+                log(
+                    f"STREAM={stream_title}"
+                )
+
+                log(
+                    f"TYPE={stream_type}"
+                )
+
+                log(
+                    f"URL={stream_url}"
+                )
+
+                if drm:
+
+                    if ":" in drm:
+
+                        kid, key = drm.split(
+                            ":",
+                            1
                         )
 
-                        write_log(
+                        log(
                             f"KID={kid}"
                         )
 
-                        write_log(
+                        log(
                             f"KEY={key}"
                         )
 
-                    except Exception:
-                        pass
+                    log(
+                        "DRM=YES"
+                    )
 
-                write_log(
-                    f"EVENT_ID={event_id}"
-                )
-                write_log(
-                    f"CATEGORY={category}"
-                )
-                write_log(
-                    f"TEAM_A={team_a}"
-                )
-                write_log(
-                    f"TEAM_B={team_b}"
-                )
-                write_log(
-                    f"BANNER={banner}"
-                )
-                write_log("-" * 100)
+                else:
+                    log(
+                        "DRM=NO"
+                    )
 
-    write_log("")
-    write_log("=" * 100)
-    write_log(
-        f"TOTAL_EVENTS={len(events)}"
-    )
-    write_log(
-        f"TOTAL_STREAMS={total_streams}"
-    )
-    write_log(
-        f"TOTAL_DRM_STREAMS={drm_streams}"
-    )
-    write_log("=" * 100)
+                log(
+                    "-" * 80
+                )
 
+    log("")
+    log("=" * 80)
+    log(f"TOTAL_EVENTS={total_events}")
+    log(f"TOTAL_STREAMS={total_streams}")
+    log(f"TOTAL_DRM_STREAMS={total_drm}")
+    log("=" * 80)
+
+
+# =========================
+# MAIN
+# =========================
 
 def main():
 
-    open(LOG_FILE, "w", encoding="utf-8").close()
+    with open(
+        LOG_FILE,
+        "w",
+        encoding="utf-8"
+    ):
+        pass
 
-    print("Downloading events...")
+    print("Downloading feed...")
 
-    events = get_json()
-
-    print(
-        f"Events found: {len(events)}"
-    )
-
-    build_files(events)
-
-    print(
-        f"Playlist saved -> {M3U_FILE}"
-    )
+    events = download_events()
 
     print(
-        f"Log saved -> {LOG_FILE}"
+        f"Loaded {len(events)} events"
     )
+
+    build_playlist(events)
+
+    print(
+        f"Playlist written: {M3U_FILE}"
+    )
+
+    print(
+        f"Log written: {LOG_FILE}"
+    )
+
+    print("Done.")
 
 
 if __name__ == "__main__":
