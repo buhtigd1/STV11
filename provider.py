@@ -75,8 +75,7 @@ def build_playlist(events):
         # M3U HEADER
         m3u.write(
             '#EXTM3U '
-            'refresh="900" '
-            'generator="STVB"\n'
+            'refresh="900"\n'
         )
 
         for event in events:
