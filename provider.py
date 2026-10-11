@@ -16,14 +16,15 @@ SOURCE_URL = (
 M3U_FILE = "stv11.m3u"
 LOG_FILE = "stv11.log"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/149.0.0.0 Safari/537.36"
-    )
-}
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/149.0.0.0 Safari/537.36"
+)
 
+HEADERS = {
+    "User-Agent": USER_AGENT
+}
 
 # =====================================================
 # HELPERS
@@ -44,11 +45,57 @@ def clean_url(url):
 
     return (
         url.strip()
+        .replace("&amp;amp;", "&")
         .replace("&amp;", "&")
     )
 
 
+def extract_headers(url):
+    """
+    Extract URL and optional headers from:
+
+    https://test.mpd|user-agent=Mozilla|Referer=https://abc.com
+    """
+
+    if "|" not in url:
+        return url, {}
+
+    base, params = url.split("|", 1)
+
+    headers = {}
+
+    for item in params.split("&"):
+        if "=" in item:
+            k, v = item.split("=", 1)
+            headers[k.lower()] = v
+
+    return base, headers
+
+
+def write_vlc_options(m3u, headers):
+
+    if "user-agent" in headers:
+        m3u.write(
+            f"#EXTVLCOPT:http-user-agent={headers['user-agent']}\n"
+        )
+    else:
+        m3u.write(
+            f"#EXTVLCOPT:http-user-agent={USER_AGENT}\n"
+        )
+
+    if "referer" in headers:
+        m3u.write(
+            f"#EXTVLCOPT:http-referrer={headers['referer']}\n"
+        )
+
+    if "origin" in headers:
+        m3u.write(
+            f"#EXTVLCOPT:http-origin={headers['origin']}\n"
+        )
+
+
 def download_events():
+
     r = requests.get(
         SOURCE_URL,
         headers=HEADERS,
@@ -72,11 +119,8 @@ def build_playlist(events):
 
     with open(M3U_FILE, "w", encoding="utf-8") as m3u:
 
-        # M3U HEADER
-        m3u.write(
-            '#EXTM3U '
-            'refresh="900"\n'
-        )
+        # Standard M3U header
+        m3u.write("#EXTM3U\n")
 
         for event in events:
 
@@ -115,10 +159,6 @@ def build_playlist(events):
                     stream.get("type", "")
                 )
 
-                stream_url = clean_url(
-                    stream.get("link", "")
-                )
-
                 stream_logo = stream.get(
                     "logo",
                     ""
@@ -129,39 +169,59 @@ def build_playlist(events):
                     ""
                 )
 
-                if drm:
+                raw_url = clean_url(
+                    stream.get("link", "")
+                )
+
+                stream_url, url_headers = extract_headers(
+                    raw_url
+                )
+
+                channel_name = (
+                    f"{event_name} | {stream_title}"
+                )
+
+                # =====================================
+                # DRM COUNT
+                # =====================================
+
+                if drm and ":" in drm:
                     total_drm += 1
 
                 # =====================================
                 # EXTINF
                 # =====================================
+
                 m3u.write(
                     f'#EXTINF:-1 '
                     f'tvg-id="{event_id}" '
-                    f'tvg-name="{stream_title}" '
+                    f'tvg-name="{channel_name}" '
                     f'tvg-logo="{stream_logo}" '
                     f'group-title="{category}",'
-                    f'{stream_title}\n'
+                    f'{channel_name}\n'
                 )
 
                 # =====================================
                 # GROUP
                 # =====================================
+
                 m3u.write(
                     f"#EXTGRP:{category}\n"
                 )
 
                 # =====================================
-                # VLC OPTS
+                # VLC OPTIONS
                 # =====================================
-                m3u.write(
-                    "#EXTVLCOPT:http-user-agent="
-                    f'{HEADERS["User-Agent"]}\n'
+
+                write_vlc_options(
+                    m3u,
+                    url_headers
                 )
 
                 # =====================================
                 # KODI DRM
                 # =====================================
+
                 if (
                     stream_type == "1"
                     and drm
@@ -174,29 +234,26 @@ def build_playlist(events):
                     )
 
                     m3u.write(
-                        "#KODIPROP:inputstream="
-                        "inputstream.adaptive\n"
+                        "#KODIPROP:inputstream=inputstream.adaptive\n"
                     )
 
                     m3u.write(
-                        "#KODIPROP:"
-                        "inputstream.adaptive.manifest_type=mpd\n"
+                        "#KODIPROP:inputstream.adaptive.manifest_type=mpd\n"
                     )
 
                     m3u.write(
-                        "#KODIPROP:"
-                        "inputstream.adaptive.license_type="
-                        "com.widevine.alpha\n"
+                        "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n"
                     )
 
                     m3u.write(
-                        "#KODIPROP:"
-                        f"inputstream.adaptive.license_key={kid}:{key}\n"
+                        "#KODIPROP:inputstream.adaptive.license_key="
+                        f"{kid}:{key}\n"
                     )
 
                 # =====================================
                 # STREAM URL
                 # =====================================
+
                 m3u.write(
                     stream_url + "\n\n"
                 )
@@ -204,9 +261,9 @@ def build_playlist(events):
                 # =====================================
                 # LOGGING
                 # =====================================
+
                 log(
-                    f"[{now_log()}] "
-                    f"EVENT={event_name}"
+                    f"[{now_log()}] EVENT={event_name}"
                 )
 
                 log(
@@ -233,24 +290,16 @@ def build_playlist(events):
                     f"URL={stream_url}"
                 )
 
-                if drm:
+                if drm and ":" in drm:
+
+                    kid, key = drm.split(
+                        ":",
+                        1
+                    )
 
                     log("DRM=YES")
-
-                    if ":" in drm:
-
-                        kid, key = drm.split(
-                            ":",
-                            1
-                        )
-
-                        log(
-                            f"KID={kid}"
-                        )
-
-                        log(
-                            f"KEY={key}"
-                        )
+                    log(f"KID={kid}")
+                    log(f"KEY={key}")
 
                 else:
 
@@ -272,12 +321,11 @@ def build_playlist(events):
 
 def main():
 
-    with open(
+    open(
         LOG_FILE,
         "w",
         encoding="utf-8"
-    ):
-        pass
+    ).close()
 
     print("Downloading feed...")
 
