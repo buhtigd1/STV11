@@ -52,15 +52,14 @@ def clean_url(url):
 
 def extract_headers(url):
     """
-    Extract URL and optional headers from:
-
+    Example:
     https://test.mpd|user-agent=Mozilla|Referer=https://abc.com
     """
 
     if "|" not in url:
         return url, {}
 
-    base, params = url.split("|", 1)
+    base_url, params = url.split("|", 1)
 
     headers = {}
 
@@ -69,19 +68,15 @@ def extract_headers(url):
             k, v = item.split("=", 1)
             headers[k.lower()] = v
 
-    return base, headers
+    return base_url.strip(), headers
 
 
 def write_vlc_options(m3u, headers):
 
-    if "user-agent" in headers:
-        m3u.write(
-            f"#EXTVLCOPT:http-user-agent={headers['user-agent']}\n"
-        )
-    else:
-        m3u.write(
-            f"#EXTVLCOPT:http-user-agent={USER_AGENT}\n"
-        )
+    m3u.write(
+        f"#EXTVLCOPT:http-user-agent="
+        f"{headers.get('user-agent', USER_AGENT)}\n"
+    )
 
     if "referer" in headers:
         m3u.write(
@@ -96,31 +91,31 @@ def write_vlc_options(m3u, headers):
 
 def download_events():
 
-    r = requests.get(
+    response = requests.get(
         SOURCE_URL,
         headers=HEADERS,
         timeout=30
     )
 
-    r.raise_for_status()
+    response.raise_for_status()
 
-    return r.json()
+    return response.json()
 
 
 # =====================================================
-# PLAYLIST GENERATOR
+# PLAYLIST
 # =====================================================
 
 def build_playlist(events):
 
     total_events = 0
     total_streams = 0
-    total_drm = 0
+    total_drm_streams = 0
 
     with open(M3U_FILE, "w", encoding="utf-8") as m3u:
 
         # Standard M3U header
-        m3u.write("#EXTM3U\n")
+        m3u.write("#EXTM3U\n\n")
 
         for event in events:
 
@@ -129,7 +124,10 @@ def build_playlist(events):
             event_id = event.get("id", "")
             category = event.get("cat", "LIVE")
 
-            event_info = event.get("eventInfo", {})
+            event_info = event.get(
+                "eventInfo",
+                {}
+            )
 
             event_name = (
                 event_info.get("eventName")
@@ -146,7 +144,10 @@ def build_playlist(events):
                 ""
             )
 
-            for stream in event.get("formats", []):
+            for stream in event.get(
+                "formats",
+                []
+            ):
 
                 total_streams += 1
 
@@ -155,13 +156,16 @@ def build_playlist(events):
                     "Unknown"
                 )
 
-                stream_type = str(
-                    stream.get("type", "")
-                )
-
                 stream_logo = stream.get(
                     "logo",
                     ""
+                )
+
+                stream_type = str(
+                    stream.get(
+                        "type",
+                        ""
+                    )
                 )
 
                 drm = stream.get(
@@ -170,23 +174,29 @@ def build_playlist(events):
                 )
 
                 raw_url = clean_url(
-                    stream.get("link", "")
+                    stream.get(
+                        "link",
+                        ""
+                    )
                 )
 
-                stream_url, url_headers = extract_headers(
-                    raw_url
+                stream_url, url_headers = (
+                    extract_headers(
+                        raw_url
+                    )
                 )
 
                 channel_name = (
-                    f"{event_name} | {stream_title}"
+                    f"{event_name} | "
+                    f"{stream_title}"
                 )
 
                 # =====================================
-                # DRM COUNT
+                # COUNT DRM
                 # =====================================
 
                 if drm and ":" in drm:
-                    total_drm += 1
+                    total_drm_streams += 1
 
                 # =====================================
                 # EXTINF
@@ -202,15 +212,7 @@ def build_playlist(events):
                 )
 
                 # =====================================
-                # GROUP
-                # =====================================
-
-                m3u.write(
-                    f"#EXTGRP:{category}\n"
-                )
-
-                # =====================================
-                # VLC OPTIONS
+                # EXTVLCOPT
                 # =====================================
 
                 write_vlc_options(
@@ -263,7 +265,8 @@ def build_playlist(events):
                 # =====================================
 
                 log(
-                    f"[{now_log()}] EVENT={event_name}"
+                    f"[{now_log()}] "
+                    f"EVENT={event_name}"
                 )
 
                 log(
@@ -298,20 +301,33 @@ def build_playlist(events):
                     )
 
                     log("DRM=YES")
-                    log(f"KID={kid}")
-                    log(f"KEY={key}")
+                    log(
+                        f"KID={kid}"
+                    )
+                    log(
+                        f"KEY={key}"
+                    )
 
                 else:
 
                     log("DRM=NO")
 
-                log("-" * 80)
+                log(
+                    "-" * 80
+                )
 
     log("")
     log("=" * 80)
-    log(f"TOTAL_EVENTS={total_events}")
-    log(f"TOTAL_STREAMS={total_streams}")
-    log(f"TOTAL_DRM_STREAMS={total_drm}")
+    log(
+        f"TOTAL_EVENTS={total_events}"
+    )
+    log(
+        f"TOTAL_STREAMS={total_streams}"
+    )
+    log(
+        f"TOTAL_DRM_STREAMS="
+        f"{total_drm_streams}"
+    )
     log("=" * 80)
 
 
@@ -338,11 +354,13 @@ def main():
     build_playlist(events)
 
     print(
-        f"Playlist written: {M3U_FILE}"
+        f"Playlist written: "
+        f"{M3U_FILE}"
     )
 
     print(
-        f"Log written: {LOG_FILE}"
+        f"Log written: "
+        f"{LOG_FILE}"
     )
 
     print("Done.")
