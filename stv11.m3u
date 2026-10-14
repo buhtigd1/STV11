@@ -371,6 +371,22 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://papacito.cfd/m3u/uk-t3434334/live.m3u8
 
+#EXTINF:-1 tvg-id="50008" tvg-name="India vs West Indies | STAR SPORTS (ENG)" tvg-logo="" group-title="Cricket",India vs West Indies | STAR SPORTS (ENG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797 --key bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557 --key f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d --key eda3132244745c10920b01536bc8a75b:2b5f8bdba279032943a040078bb22b35 --key 06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1791984803~exp=1792006403~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=c488750067bf8f12a84c4d5ec7c211cac5bddea28b23e64dcd8cc7c72f1ea70f
+
+#EXTINF:-1 tvg-id="50008" tvg-name="India vs West Indies | STAR SPORTS (HIN)" tvg-logo="" group-title="Cricket",India vs West Indies | STAR SPORTS (HIN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9 --key dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9 --key 209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3 --key 7bdccdb3dd015c37a0c3bd70675c8e4c:6f1b59376090d1f7ce33cbd264e87c36 --key 11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1791984859~exp=1792006459~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=adee85466c0f3ce298506820bb1049e7a5a1bb3238065b5dd8443e4e50b75ac0
+
 #EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights | One Fight FHD" tvg-logo="" group-title="Boxing",ONE Friday Fights | One Fight FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -644,8 +660,8 @@ http://193.47.62.50/hls/HHHHRX.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d7c44d9beb4fa04b8cb04407e196948f:fb86cebb4a8e2ace241511636b237a25
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ngma7vyjoj/out/v1/28b8e68479294e3f87dd992bf8c94411/cenc.mpd
 
 #EXTINF:-1 tvg-id="50070" tvg-name="World Championship of Legends | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",World Championship of Legends | FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -668,8 +684,8 @@ https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d7c44d9beb4fa04b8cb04407e196948f:fb86cebb4a8e2ace241511636b237a25
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ngma7vyjoj/out/v1/28b8e68479294e3f87dd992bf8c94411/cenc.mpd
 
 #EXTINF:-1 tvg-id="50070" tvg-name="World Championship of Legends | WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",World Championship of Legends | WILLOW HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -757,7 +773,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
-#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | TNT SPORTS FHD" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Manchester City vs Paris Saint-Germain | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=d0f11e98bb0c3e883ee25ad5a259d3e9:f1dd1ef358927db26118f8b0e0f8dec0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",Manchester City vs Paris Saint-Germain | TNT SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -765,53 +789,484 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | TNT SPORTS FHD" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",Manchester City vs Paris Saint-Germain | TNT SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58034/load-playlist?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | TNT SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",Manchester City vs Paris Saint-Germain | TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://noblestatic.s3.us-east-1.amazonaws.com/mancity.m3u8
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | SportzX Live" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628456.m3u8?txSecret=82e30e03c8eaf8f4cc9e390a38d45406&txTime=6ACFE18F
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | SonyLiv (ASIA)" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | SonyLiv (ASIA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | beIN ARABIC FHD" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | beIN ARABIC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://cdn-v2.gamhed.online/hls/arena8x-3.m3u8
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | STAN SPORTS HD" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/9e7ea27590dfe6b6b581f0402a8d5d1e/index.m3u8?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Manchester City vs Paris Saint-Germain | PARAMOUNT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/f4acc3419041e8be1a18d86020b62675/index.m3u8?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | DAZN SPORTS HD" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/76fd68a8bf76c043d3451dc0c9c3f4b4/index.m3u8?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | ARENA SPORTS HD" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | ARENA SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/0850ecf7be1c1f3351b523d08cc5d178/index.m3u8?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | CANAL+ SPORTS HD" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | CANAL+ SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/d043b1a9efeb9c5c7a8c6e8e8fd6d3d7/index.m3u8?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | HD SERVER" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester City vs Paris Saint-Germain | SD SERVER" tvg-logo="" group-title="UCL",Manchester City vs Paris Saint-Germain | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/bd4de51a-b864-479b-a487-d6d2ea65ba17.m3u8
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",AS Roma vs Real Madrid | TNT SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",AS Roma vs Real Madrid | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=d0f11e98bb0c3e883ee25ad5a259d3e9:f1dd1ef358927db26118f8b0e0f8dec0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | TNT SPORTS HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",AS Roma vs Real Madrid | TNT SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58030/load-playlist?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="UCL",AS Roma vs Real Madrid | VIX SPANISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=31d58e7a2d8a693fc8f4193ae1a758db:70b3c31fab9918f891d32d3abfd74ae0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | TNT SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",AS Roma vs Real Madrid | TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://noblestatic.s3.us-east-1.amazonaws.com/realmadrid.m3u8
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SportzX Live" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628379.m3u8?txSecret=f8e48c761ff518dfb4a68ddec1602832&txTime=6ACFE148
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SonyLiv (ENG)" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SonyLiv (ENG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SonyLiv (HIN)" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SonyLiv (HIN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | beIN ARABIC FHD" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | beIN ARABIC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.arena8x.live/
+https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | STAN SPORTS HD" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/cdf5266b960693a96f2454ad546d2fb8/index.m3u8?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="UCL",AS Roma vs Real Madrid | CBS SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/2a8d11460060fe86b23a77efdd0afaa6/index.m3u8?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | DAZN SPORTS HD" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/73e6d0b4bef10948b5377e513ba5f3f8/index.m3u8?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | ARENA SPORTS HD" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | ARENA SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/6ab4b6381daf73f4e794dee8af4da3e0/index.m3u8?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | TVP SPORTS HD" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | TVP SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/98bcd7cb90a91e4d66f5222eb6902460/index.m3u8?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | HD SERVER" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream7.pro/hls/sqdahach1ax.m3u8
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SonyLiv - TAM" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SonyLiv - TAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SonyLiv - TEL" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SonyLiv - TEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SonyLiv - KAM" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SonyLiv - KAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive1410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b
+
+#EXTINF:-1 tvg-id="50091" tvg-name="AS Roma vs Real Madrid | SD SERVER" tvg-logo="" group-title="UCL",AS Roma vs Real Madrid | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/cd6a62e6-e684-49da-b7e5-3b3e7a1160f1.m3u8
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=09b0f927d76e70a901f7871e8a7bc85e:e6a6fb62a3482fe8f3cfe431031ec223
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xyzag3fuz4/out/v1/3c69feb3bb0b4653a88b3948081e40b5/f335c8fb-06e7-4a18-913d-28f2b8c60279-cenc.mpd?aws_sessionId=20699da2-a3d6-4800-b224-3c654ab49cd8
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | VIX SPANISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=62d1df932e149d0255ac1cbc1b9ea465:b721a49b8a029a77e871fb3a62f08692
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/09cbfpx3zg/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | CBS SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58033/load-playlist?
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | SportzX Live" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628405.m3u8?txSecret=f0c91d76d2c1fee3e577db8fbc1b1ff6&txTime=6ACFE25F
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | SonyLiv (Asia)" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | STAN SPORTS HD" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/54165a08064fb2f73a89da27b80ddbeb/index.m3u8?
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | PARAMOUNT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/1412562be5539f8848aaf33c55f1f9c5/index.m3u8?
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | ARENA SPORTS HD" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | ARENA SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/9d3c3f1499465eb29035bc7af6b9cd19/index.m3u8?
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | DAZN SPORTS HD" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/af31d0300ac31844ba0ee230f7cc8588/index.m3u8?
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | HD SERVER" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream1.pro/hls/b0h5fNwDKH.m3u8
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Bodø/Glimt vs Borussia Dortmund | SD SERVER" tvg-logo="" group-title="UCL",Bodø/Glimt vs Borussia Dortmund | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/cf67fc84-86d8-44c8-8d82-41825cd5242a.m3u8
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Real Betis vs FC Porto | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=dcdb2369816c7066ae9bac19634423d5:2e6067b2a62c4d3e45f69cd81dea3872
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="UCL",Real Betis vs FC Porto | VIX SPANISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=500a35565a8caf7e163d57d4e3a0a148:f863a58feb8b7e86caf60837fa1a5d71
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Real Betis vs FC Porto | PARAMOUNT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58032/load-playlist?
 
 #EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | SportzX Live" tvg-logo="" group-title="UCL",Real Betis vs FC Porto | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628401.m3u8?txSecret=b4be498457931c4bc710bd89dc2fdd23&txTime=6ACFE2B6
 
-#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | TNT SPORTS FHD" tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | STAN SPORTS HD" tvg-logo="" group-title="UCL",Real Betis vs FC Porto | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/c9ea9d3af7595b2dca99977dcc721743/index.m3u8?
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | CBS SPORTS HD" tvg-logo="https://iili.io/BtCdabj.png" group-title="UCL",Real Betis vs FC Porto | CBS SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/04dc1ef2b4b1558812e23326cae17c67/index.m3u8?
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | DAZN SPORTS HD" tvg-logo="" group-title="UCL",Real Betis vs FC Porto | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/8b04f3042a09b647e95dce8d4fca71f8/index.m3u8?
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | SPORT TV HD" tvg-logo="" group-title="UCL",Real Betis vs FC Porto | SPORT TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/2ef1606b0b094da59ac63f6fdeaceb47/index.m3u8?
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | SonyLiv " tvg-logo="" group-title="UCL",Real Betis vs FC Porto | SonyLiv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | HD QUALITY" tvg-logo="" group-title="UCL",Real Betis vs FC Porto | HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream1.pro/hls/ueyeztrazb4.m3u8
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Real Betis vs FC Porto | SD SERVER" tvg-logo="" group-title="UCL",Real Betis vs FC Porto | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/f8ade365-a9fc-4ba0-8310-057e91b3b63c.m3u8
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Aston Villa vs Fenerbahçe | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=be17ad21cf1044aedd14c1d288a37638:fe2cb67eefc3fa5670f35fa045cc600c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o4ewvpxhnn/out/v1/dcc1e86baab542bfac52ab056f7f82a1/7a393fd4-769f-49da-a47e-ef65459149d2-cenc.mpd?aws_sessionId=e274f240-9334-4980-991b-f0f31651769f
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",Aston Villa vs Fenerbahçe | TNT SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="UCL",Aston Villa vs Fenerbahçe | TNT SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58031/load-playlist?
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | SportzX Live" tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628386.m3u8?txSecret=20a5621f4ce289b4fba5691385a3c87d&txTime=6ACFE28F
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | SonyLiv (Asia)" tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | STAN SPORTS HD" tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/237a312c46f8d93ffd7b5e45f2c39831/index.m3u8?
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Aston Villa vs Fenerbahçe | PARAMOUNT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/67491e76b114a5ef4f293c47dcf75bd7/index.m3u8?
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | DAZN SPORTS HD" tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/1328e478f6adc524e1f5cdaf9b6cd965/index.m3u8?
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | HD SERVER " tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | HD SERVER 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream5.pro/hls/eJmauBDCIf.m3u8
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Aston Villa vs Fenerbahçe | SD SERVER" tvg-logo="" group-title="UCL",Aston Villa vs Fenerbahçe | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/9b2917fd-2b01-4c3f-bc52-2971d635c831.m3u8
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Slovan Bratislava vs Stuttgart | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=3b1a3552ee91f5143f9560b717041cad:07e22d2e13f4c1aad690072f75fd2dcc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=1cd1d81a-0999-40b3-8880-805e07afd0cd
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="UCL",Slovan Bratislava vs Stuttgart | VIX SPANISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1ef0f6ff8df735707a446e66ba47949d:16c2df2cbf147ca597dcbfa6316e7b2e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vc7krd2yei/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd
 
 #EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | SportzX Live" tvg-logo="" group-title="UCL",Slovan Bratislava vs Stuttgart | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628506.m3u8?txSecret=abe20ee1b054765d341d0b6eab59514f&txTime=6ACFE2F3
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | STAN SPORTS HD" tvg-logo="" group-title="UCL",Slovan Bratislava vs Stuttgart | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/709a8d88b643f6bcc004ab95ec2b5c48/index.m3u8?
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Slovan Bratislava vs Stuttgart | PARAMOUNT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/e9af53c0dfa6746c858a1bff11ed716b/index.m3u8?
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | DAZN SPORTS HD" tvg-logo="" group-title="UCL",Slovan Bratislava vs Stuttgart | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/a4b44cae69ba9308681df15bf7c13312/index.m3u8?
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | SonyLiv " tvg-logo="" group-title="UCL",Slovan Bratislava vs Stuttgart | SonyLiv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2022317/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | HD SERVER " tvg-logo="" group-title="UCL",Slovan Bratislava vs Stuttgart | HD SERVER 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream1.pro/hls/griogoehvn2.m3u8
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Slovan Bratislava vs Stuttgart | SD SERVER" tvg-logo="" group-title="UCL",Slovan Bratislava vs Stuttgart | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/3f1fc5a5-b93f-47a0-9f29-b5b248991f16.m3u8
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Shakhtar Donetsk vs AEK Athens | PARAMOUNT+ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=b8f4999f5f33c77f9ab28bb566b1ace4:1e2fb33b36c60a7d9b293df36f923e45
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | VIX SPANISH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png" group-title="UCL",Shakhtar Donetsk vs AEK Athens | VIX SPANISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=d22b38730e595728bffcde39874f540f:748c92492fe601ed5b83a7aa9f17bd86
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd
 
 #EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | SportzX Live" tvg-logo="" group-title="UCL",Shakhtar Donetsk vs AEK Athens | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4628498.m3u8?txSecret=1616c48510f498f376ab8fba52b308c5&txTime=6ACFE316
 
-#EXTINF:-1 tvg-id="50097" tvg-name="LASK vs Liverpool | TNT SPORTS FHD" tvg-logo="" group-title="UCL",LASK vs Liverpool | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | STAN SPORTS HD" tvg-logo="" group-title="UCL",Shakhtar Donetsk vs AEK Athens | STAN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/9cf5ccb59252c0a9ca4918e9ed4231bb/index.m3u8?
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | PARAMOUNT+ HD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Shakhtar Donetsk vs AEK Athens | PARAMOUNT+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/e6425c073f117b802d9654c15ac26ed5/index.m3u8?
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | DAZN SPORTS HD" tvg-logo="" group-title="UCL",Shakhtar Donetsk vs AEK Athens | DAZN SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/83d79ac6d334e721ebf6a278a9dda85d/index.m3u8?
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | SonyLiv (Asia)" tvg-logo="" group-title="UCL",Shakhtar Donetsk vs AEK Athens | SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | HD SERVER" tvg-logo="" group-title="UCL",Shakhtar Donetsk vs AEK Athens | HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream5.pro/hls/dza5z8f69.m3u8
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Shakhtar Donetsk vs AEK Athens | SD SERVER" tvg-logo="" group-title="UCL",Shakhtar Donetsk vs AEK Athens | SD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+https://www.rtmpcdn.com/live/8341cfd7-2beb-48c9-8d97-f9e2d970f43e.m3u8
+
+#EXTINF:-1 tvg-id="50098" tvg-name="Golazo Show | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="UCL",Golazo Show | PARAMOUNT+ FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9896b6a4790e0fe7d1b1253a5901949a:49dd5b421ca126b7d46daaebff358f13
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7
 
-#EXTINF:-1 tvg-id="50098" tvg-name="Feyenoord vs Como | TNT SPORTS FHD" tvg-logo="" group-title="UCL",Feyenoord vs Como | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="50098" tvg-name="Golazo Show | UCL MULTIVIEW" tvg-logo="" group-title="UCL",Golazo Show | UCL MULTIVIEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/45c2ad44ae2697fa0e82163b6cef0afc/index.m3u8?
 
 #EXTINF:-1 tvg-id="50099" tvg-name="Lincoln City vs West Ham United | beIN ENGLISH FHD" tvg-logo="" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Lincoln City vs West Ham United | beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -821,13 +1276,30 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="50099" tvg-name="Lincoln City vs West Ham United | SportzX Live" tvg-logo="" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Lincoln City vs West Ham United | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1
+
+#EXTINF:-1 tvg-id="50100" tvg-name="Portsmouth vs Sheffield United | CBS SPORTS HD" tvg-logo="" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Sheffield United | CBS SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?
+
 #EXTINF:-1 tvg-id="50100" tvg-name="Portsmouth vs Sheffield United | SportzX Live" tvg-logo="" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Sheffield United | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Norwich City vs Southampton | CBS SPORTS HD" tvg-logo="" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Norwich City vs Southampton | CBS SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/b51d93f8f43655bd11e0a63e963dd97c/index.m3u8?
 
 #EXTINF:-1 tvg-id="50101" tvg-name="Norwich City vs Southampton | SportzX Live" tvg-logo="" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Norwich City vs Southampton | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4
 
 #EXTINF:-1 tvg-id="50102" tvg-name="Atlético Mineiro vs Torque | beIN ENGLISH FHD" tvg-logo="" group-title="CON. Sudamericana",Atlético Mineiro vs Torque | beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -853,71 +1325,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-id="50103" tvg-name="Punjab vs Odisha | SportzX Live" tvg-logo="" group-title="ISL",Punjab vs Odisha | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrl-800300010.m3u8?hdnea=exp=1792000221~acl=/*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~hmac=6c2848c6fc116eba92ce640d5dde1230716184aa2aa9a680a8ff1ea87f502d3a
-
 #EXTINF:-1 tvg-id="50104" tvg-name="Al Faisaly SC vs Al Nahda SC | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Al Faisaly SC vs Al Nahda SC | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50105" tvg-name="Al-Taawoun vs Al-Rayyan | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Al-Taawoun vs Al-Rayyan | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50106" tvg-name="Al-Muharraq vs Gol Gohar | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Al-Muharraq vs Gol Gohar | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50107" tvg-name="Al-Jazira vs Arkadag FK | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Al-Jazira vs Arkadag FK | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50108" tvg-name="Al Kuwait SC vs Al Khaldiya | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Al Kuwait SC vs Al Khaldiya | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50109" tvg-name="Nasaf Qarshi vs Al-Wahda | HD SERVER " tvg-logo="" group-title="AFC Champions Two",Nasaf Qarshi vs Al-Wahda | HD SERVER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="50109" tvg-name="Nasaf Qarshi vs Al-Wahda | LOW SERVER" tvg-logo="" group-title="AFC Champions Two",Nasaf Qarshi vs Al-Wahda | LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/f333AA.m3u8
-
-#EXTINF:-1 tvg-id="50110" tvg-name="Persib Bandung vs Viettel | HD SERVER " tvg-logo="" group-title="AFC Champions Two",Persib Bandung vs Viettel | HD SERVER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="50110" tvg-name="Persib Bandung vs Viettel | LOW SERVER" tvg-logo="" group-title="AFC Champions Two",Persib Bandung vs Viettel | LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/bzzzq.m3u8
-
-#EXTINF:-1 tvg-id="50111" tvg-name="Melbourne Victory vs FC Seoul | HD SERVER " tvg-logo="" group-title="AFC Champions Two",Melbourne Victory vs FC Seoul | HD SERVER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="50112" tvg-name="Vissel Kobe vs Jeonbuk | SportzX Live" tvg-logo="" group-title="AFC Champions Elite",Vissel Kobe vs Jeonbuk | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/hd-en-1-4621519.m3u8?txSecret=f45df90d9fb95a91fe33353a2ab61d3b&txTime=6ACF634E
-
-#EXTINF:-1 tvg-id="50112" tvg-name="Vissel Kobe vs Jeonbuk | HD SERVER" tvg-logo="" group-title="AFC Champions Elite",Vissel Kobe vs Jeonbuk | HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="50113" tvg-name="Kashiwa Reysol vs Port FC | SportzX Live" tvg-logo="" group-title="AFC Champions Elite",Kashiwa Reysol vs Port FC | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/hd-en-1-4621538.m3u8?txSecret=68672f72ae79985c109a9ff0fe1adcd5&txTime=6ACF6386
-
-#EXTINF:-1 tvg-id="50113" tvg-name="Kashiwa Reysol vs Port FC | HD SERVER" tvg-logo="" group-title="AFC Champions Elite",Kashiwa Reysol vs Port FC | HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
+http://193.47.62.59/hls/BGBGBGA.m3u8
 
