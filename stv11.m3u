@@ -955,31 +955,53 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 
 #EXTINF:-1 tvg-id="50127" tvg-name="Al-Khaleej vs Al-Fayha | SportzX Live" tvg-logo="" group-title="Pro League 🇸🇦",Al-Khaleej vs Al-Fayha | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/sd-1-4599617.m3u8?txSecret=892932680a58d62db3e60d593993e224&txTime=6AD0FA8F
 
 #EXTINF:-1 tvg-id="50128" tvg-name="Al Faisaly vs Al-Kholood | SportzX Live" tvg-logo="" group-title="Pro League 🇸🇦",Al Faisaly vs Al-Kholood | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+https://live.vivo155.com/live/sd-1-4599614.m3u8?txSecret=6e9c9336a63652889c4437666c30eb35&txTime=6AD0EC3A
+
+#EXTINF:-1 tvg-id="50128" tvg-name="Al Faisaly vs Al-Kholood | LOW SERVER" tvg-logo="" group-title="Pro League 🇸🇦",Al Faisaly vs Al-Kholood | LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/B666AAAA.m3u8
 
 #EXTINF:-1 tvg-id="50129" tvg-name="Tai Po vs Lion City Sailors | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Tai Po vs Lion City Sailors | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.online878.com/
 https://live.vivo155.com/live/hd-en-1-4621372.m3u8?txSecret=d9c874ff63052c2b83d688feef33e72e&txTime=6AD0B567
 
+#EXTINF:-1 tvg-id="50129" tvg-name="Tai Po vs Lion City Sailors | HD SERVER" tvg-logo="" group-title="AFC Champions Two",Tai Po vs Lion City Sailors | HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
 #EXTINF:-1 tvg-id="50130" tvg-name="Gangwon FC vs Phnom Penh Crown | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Gangwon FC vs Phnom Penh Crown | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.online878.com/
 https://live.vivo155.com/live/hd-en-1-4621387.m3u8?txSecret=6e4bdb70b7e64ec16f8137285bb7a281&txTime=6AD0B5DE
 
-#EXTINF:-1 tvg-id="50131" tvg-name="BG Pathum United vs Adelaide United | SportzX Live" tvg-logo="" group-title="AFC Champions Two",BG Pathum United vs Adelaide United | SportzX Live
+#EXTINF:-1 tvg-id="50130" tvg-name="Gangwon FC vs Phnom Penh Crown | HD SERVER" tvg-logo="" group-title="AFC Champions Two",Gangwon FC vs Phnom Penh Crown | HD SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="50132" tvg-name="Kuching City vs Kitchee SC | SportzX Live" tvg-logo="" group-title="AFC Champions Two",Kuching City vs Kitchee SC | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="50131" tvg-name="BG Pathum United vs Adelaide United | LOW SERVER" tvg-logo="" group-title="AFC Champions Two",BG Pathum United vs Adelaide United | LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/B666A.m3u8
 
-#EXTINF:-1 tvg-id="50133" tvg-name="Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua | Default" tvg-logo="" group-title="AFC Champions Two",Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua | Default
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="50132" tvg-name="Kuching City vs Kitchee SC | LOW SERVER" tvg-logo="" group-title="AFC Champions Two",Kuching City vs Kitchee SC | LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/B666.m3u8
+
+#EXTINF:-1 tvg-id="50133" tvg-name="Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua | LOW SERVER" tvg-logo="" group-title="AFC Champions Two",Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua | LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/B666AA.m3u8
 
