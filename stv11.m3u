@@ -777,8 +777,8 @@ https://taifood-blog.asia/embed/nfl/2026-10-15/sea-den
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=d7c44d9beb4fa04b8cb04407e196948f:fb86cebb4a8e2ace241511636b237a25
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ngma7vyjoj/out/v1/28b8e68479294e3f87dd992bf8c94411/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oyud4mrrny/out/v1/ddf9b585888140dfb1431752b4f0b0d9/cenc.mpd
 
 #EXTINF:-1 tvg-id="50070" tvg-name="World Championship of Legends | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",World Championship of Legends | FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -801,8 +801,8 @@ https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=d7c44d9beb4fa04b8cb04407e196948f:fb86cebb4a8e2ace241511636b237a25
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ngma7vyjoj/out/v1/28b8e68479294e3f87dd992bf8c94411/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oyud4mrrny/out/v1/ddf9b585888140dfb1431752b4f0b0d9/cenc.mpd
 
 #EXTINF:-1 tvg-id="50070" tvg-name="World Championship of Legends | WILLOW HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",World Championship of Legends | WILLOW HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -811,7 +811,7 @@ https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96
 #EXTINF:-1 tvg-id="50070" tvg-name="World Championship of Legends | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",World Championship of Legends | FANCODE - IN
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4249239_english_hls_773d044bec81561_1ta-di_h264/index.m3u8
+https://dai-fancode.pages.dev/mumbai/4249234_english_hls_a20c9caab64583_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="50075" tvg-name="Colorado Avalanche vs Pittsburgh Penguins | SportzX Live" tvg-logo="" group-title="NHL",Colorado Avalanche vs Pittsburgh Penguins | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -833,34 +833,9 @@ https://edgestream3.pro/hls/bnvcxwhfg54.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://taifood-blog.asia/embed/nhl/2026-10-15/nyr-nj
 
-#EXTINF:-1 tvg-id="50084" tvg-name="Edmonton Oilers vs Utah Mammoth | SportzX Live" tvg-logo="" group-title="NHL",Edmonton Oilers vs Utah Mammoth | SportzX Live
+#EXTINF:-1 tvg-id="50085" tvg-name="India W vs Zimbabwe W | SportzX Live" tvg-logo="" group-title="Cricket",India W vs Zimbabwe W | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-#EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream3.pro/hls/bvnzadfvyt59.m3u8?
-
-#EXTINF:-1 tvg-id="50084" tvg-name="Edmonton Oilers vs Utah Mammoth | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Edmonton Oilers vs Utah Mammoth | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-10-15/uta-edm
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Vegas Golden Knights vs Calgary Flames | SportzX NHL HD" tvg-logo="" group-title="NHL",Vegas Golden Knights vs Calgary Flames | SportzX NHL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58097/load-playlist?
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Vegas Golden Knights vs Calgary Flames | NHL LIVE FHD" tvg-logo="" group-title="NHL",Vegas Golden Knights vs Calgary Flames | NHL LIVE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://loki.dulo.cc/play/GMn1KiUiC0qipIElAOWz_PxTtcBFixii/GugxR0x-7bTx30mF.m3u8
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Vegas Golden Knights vs Calgary Flames | SportzX Live" tvg-logo="" group-title="NHL",Vegas Golden Knights vs Calgary Flames | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-#EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream1.pro/hls/cwxvbnfghq60.m3u8?
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Vegas Golden Knights vs Calgary Flames | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Vegas Golden Knights vs Calgary Flames | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-10-15/cgy-vgk
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
 #EXTINF:-1 tvg-id="50090" tvg-name="Newcastle United vs Aston Villa | NBC SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle United vs Aston Villa | NBC SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
