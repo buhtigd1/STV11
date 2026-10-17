@@ -816,6 +816,31 @@ https://edgestream7.pro/hls/xcsfadafgzfg76.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://taifood-blog.asia/embed/nba/2026-10-16/den-lal
 
+#EXTINF:-1 tvg-id="50073" tvg-name="Atlante FC vs Pumas UNAM | Azteca 7 HD" tvg-logo="" group-title="Liga MX",Atlante FC vs Pumas UNAM | Azteca 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://la18hd.su/vivo/canales.php?stream=azteca7
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Atlante FC vs Pumas UNAM | LIGAMX LIVE [FHD]" tvg-logo="" group-title="Liga MX",Atlante FC vs Pumas UNAM | LIGAMX LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/liga-mx/2026-10-16/atl-unam
+
+#EXTINF:-1 tvg-id="50074" tvg-name="Club Necaxa vs Atlas FC | FOX DEPORTES FHD" tvg-logo="" group-title="Liga MX",Club Necaxa vs Atlas FC | FOX DEPORTES FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="50074" tvg-name="Club Necaxa vs Atlas FC | LIGAMX LIVE [FHD]" tvg-logo="" group-title="Liga MX",Club Necaxa vs Atlas FC | LIGAMX LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/liga-mx/2026-10-16/ncx-ats
+
+#EXTINF:-1 tvg-id="50074" tvg-name="Club Necaxa vs Atlas FC | SportzX Live" tvg-logo="" group-title="Liga MX",Club Necaxa vs Atlas FC | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.online878.com/
+
+
 #EXTINF:-1 tvg-id="50075" tvg-name="Colorado Avalanche vs Pittsburgh Penguins | SportzX Live" tvg-logo="" group-title="NHL",Colorado Avalanche vs Pittsburgh Penguins | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
@@ -905,6 +930,22 @@ https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd?
+
+#EXTINF:-1 tvg-id="50086" tvg-name="Mirassol vs Internacional | PREMIERER BR" tvg-logo="" group-title="Brasileirão",Mirassol vs Internacional | PREMIERER BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50089" tvg-name="Club Tijuana vs Club Puebla | TUDN MX HD" tvg-logo="" group-title="Liga MX",Club Tijuana vs Club Puebla | TUDN MX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://la18hd.su/vivo/canales.php?stream=tudn
+
+#EXTINF:-1 tvg-id="50089" tvg-name="Club Tijuana vs Club Puebla | LIGAMX LIVE [FHD]" tvg-logo="" group-title="Liga MX",Club Tijuana vs Club Puebla | LIGAMX LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/liga-mx/2026-10-16/tij-pue
 
 #EXTINF:-1 tvg-id="50090" tvg-name="Newcastle United vs Aston Villa | NBC SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle United vs Aston Villa | NBC SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
