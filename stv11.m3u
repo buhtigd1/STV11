@@ -446,21 +446,21 @@ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Liv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/afwmxgd4dp/out/v1/40ec86a6a3cd409a93bab83897ab5aa8/cenc.mpd
 
 #EXTINF:-1 tvg-id="50012" tvg-name="Pakistan vs England | TAPMAD - FHD" tvg-logo="" group-title="Cricket",Pakistan vs England | TAPMAD - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tapmad.com/
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?
 
 #EXTINF:-1 tvg-id="50012" tvg-name="Pakistan vs England | WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Pakistan vs England | WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/afwmxgd4dp/out/v1/40ec86a6a3cd409a93bab83897ab5aa8/cenc.mpd
 
 #EXTINF:-1 tvg-id="50012" tvg-name="Pakistan vs England | PTV SPORTS HD" tvg-logo="" group-title="Cricket",Pakistan vs England | PTV SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -532,8 +532,8 @@ https://taifood-blog.asia/embed/nba/2026-10-16/mia-orl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd
 
 #EXTINF:-1 tvg-id="50062" tvg-name="South Africa vs Australia | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",South Africa vs Australia | FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -548,8 +548,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd
 
 #EXTINF:-1 tvg-id="50062" tvg-name="South Africa vs Australia | SKY CRICKET - FHD" tvg-logo="" group-title="Cricket",South Africa vs Australia | SKY CRICKET - FHD
 #EXTVLCOPT:http-user-agent=Mozilla
@@ -559,7 +559,7 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 #EXTVLCOPT:http-origin=https://tapmad.com
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8?
 
 #EXTINF:-1 tvg-id="50062" tvg-name="South Africa vs Australia | FOX CRICKET HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="Cricket",South Africa vs Australia | FOX CRICKET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -821,7 +821,31 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="50106" tvg-name="Australia Women vs New Zealand Women | Willow HD" tvg-logo="" group-title="Cricket",Australia Women vs New Zealand Women | Willow HD
+#EXTINF:-1 tvg-id="50106" tvg-name="Australia Women vs New Zealand Women | WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Australia Women vs New Zealand Women | WILLOW - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd
+
+#EXTINF:-1 tvg-id="50106" tvg-name="Australia Women vs New Zealand Women | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Australia Women vs New Zealand Women | FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="50106" tvg-name="Australia Women vs New Zealand Women | WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Australia Women vs New Zealand Women | WILLOW - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd
+
+#EXTINF:-1 tvg-id="50106" tvg-name="Australia Women vs New Zealand Women | Willow HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Australia Women vs New Zealand Women | Willow HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
