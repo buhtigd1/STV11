@@ -441,17 +441,33 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
+#EXTINF:-1 tvg-id="50027" tvg-name="Golden State Valkyries vs Atlanta Dream | TSN SPORTS FHD" tvg-logo="" group-title="WNBA",Golden State Valkyries vs Atlanta Dream | TSN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
 #EXTINF:-1 tvg-id="50027" tvg-name="Golden State Valkyries vs Atlanta Dream | SportzX Live" tvg-logo="" group-title="WNBA",Golden State Valkyries vs Atlanta Dream | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream3.pro/hls/dzaugyvdgazc90.m3u8?
+https://edgestream7.pro/hls/mlkijfezag65.m3u8?
 
 #EXTINF:-1 tvg-id="50027" tvg-name="Golden State Valkyries vs Atlanta Dream | WNBA LIVE [FHD]" tvg-logo="" group-title="WNBA",Golden State Valkyries vs Atlanta Dream | WNBA LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/wnba/2026-10-17/atl-gs
+https://taifood-blog.asia/embed/wnba/2026-10-19/atl-gs
 
-#EXTINF:-1 tvg-id="50033" tvg-name="Tampa Bay Rays vs Cleveland Guardians | TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="MLB",Tampa Bay Rays vs Cleveland Guardians | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="50033" tvg-name="Tampa Bay Rays vs Cleveland Guardians | TNT SPORTS FHD" tvg-logo="" group-title="MLB",Tampa Bay Rays vs Cleveland Guardians | TNT SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="50033" tvg-name="Tampa Bay Rays vs Cleveland Guardians | TNT2 SPORTS FHD" tvg-logo="" group-title="MLB",Tampa Bay Rays vs Cleveland Guardians | TNT2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -463,11 +479,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream4.pro/hls/dazhfiach15.m3u8?
+https://edgestream7.pro/hls/dazhfiach15.m3u8?
 
 #EXTINF:-1 tvg-id="50033" tvg-name="Tampa Bay Rays vs Cleveland Guardians | MLB LIVE [FHD]" tvg-logo="" group-title="MLB",Tampa Bay Rays vs Cleveland Guardians | MLB LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/mlb/2026-10-18/tb-cle
+https://taifood-blog.asia/embed/mlb/2026-10-19/cle-tb
 
 #EXTINF:-1 tvg-id="50043" tvg-name="Detroit Pistons vs Boston Celtics | SportzX Live" tvg-logo="" group-title="NBA",Detroit Pistons vs Boston Celtics | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -552,35 +568,103 @@ https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f98565_1ta-di_
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.44/hls/BEEEEAAAA.m3u8
 
+#EXTINF:-1 tvg-id="50069" tvg-name="San Francisco 49ers vs Washington Commanders | TSN SPORTS FHD" tvg-logo="" group-title="NFL",San Francisco 49ers vs Washington Commanders | TSN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="50069" tvg-name="San Francisco 49ers vs Washington Commanders | TSN4 SPORTS FHD" tvg-logo="" group-title="NFL",San Francisco 49ers vs Washington Commanders | TSN4 SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="50069" tvg-name="San Francisco 49ers vs Washington Commanders | SportzX Live" tvg-logo="" group-title="NFL",San Francisco 49ers vs Washington Commanders | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+#EXTVLCOPT:http-origin=https://streamscenter.online
+https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8?
+
+#EXTINF:-1 tvg-id="50069" tvg-name="San Francisco 49ers vs Washington Commanders | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",San Francisco 49ers vs Washington Commanders | NFL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nfl/2026-10-19/wsh-sf
+
 #EXTINF:-1 tvg-id="50075" tvg-name="New York Rangers vs Anaheim Ducks | SportzX Live" tvg-logo="" group-title="NHL",New York Rangers vs Anaheim Ducks | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream3.pro/hls/uyopzarf50.m3u8?
+https://edgestream5.pro/hls/uyopzarf50.m3u8?
 
 #EXTINF:-1 tvg-id="50075" tvg-name="New York Rangers vs Anaheim Ducks | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",New York Rangers vs Anaheim Ducks | NHL LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-10-18/cbj-min
+https://taifood-blog.asia/embed/nhl/2026-10-19/ana-nyr
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Philadelphia Flyers vs Colorado Avalanche | PREMIER SPORTS" tvg-logo="" group-title="NHL",Philadelphia Flyers vs Colorado Avalanche | PREMIER SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Philadelphia Flyers vs Colorado Avalanche | SportzX Live" tvg-logo="" group-title="NHL",Philadelphia Flyers vs Colorado Avalanche | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream5.pro/hls/hjksgdfauzy51.m3u8?
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Philadelphia Flyers vs Colorado Avalanche | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Philadelphia Flyers vs Colorado Avalanche | NHL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embednhl/2026-10-19/col-phi
 
 #EXTINF:-1 tvg-id="50077" tvg-name="Toronto Maple Leafs vs San Jose Sharks | SportzX Live" tvg-logo="" group-title="NHL",Toronto Maple Leafs vs San Jose Sharks | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream3.pro/hls/ijfnakfidch22.m3u8?
+https://edgestream5.pro/hls/lmdsjkfgv52.m3u8?
 
 #EXTINF:-1 tvg-id="50077" tvg-name="Toronto Maple Leafs vs San Jose Sharks | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Toronto Maple Leafs vs San Jose Sharks | NHL LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-10-17/sj-det
+https://taifood-blog.asia/embed/nhl/2026-10-19/sj-tor
+
+#EXTINF:-1 tvg-id="50078" tvg-name="Utah Mammoth vs Pittsburgh Penguins | PREMIER SPORTS" tvg-logo="" group-title="NHL",Utah Mammoth vs Pittsburgh Penguins | PREMIER SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="50078" tvg-name="Utah Mammoth vs Pittsburgh Penguins | SportzX Live" tvg-logo="" group-title="NHL",Utah Mammoth vs Pittsburgh Penguins | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream3.pro/hls/ojzkajnach21.m3u8?
+https://edgestream5.pro/hls/rtzaeyvhb53.m3u8?
 
 #EXTINF:-1 tvg-id="50078" tvg-name="Utah Mammoth vs Pittsburgh Penguins | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Utah Mammoth vs Pittsburgh Penguins | NHL LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-10-17/buf-mtl
+https://taifood-blog.asia/embed/nhl/2026-10-19/pit-uta
+
+#EXTINF:-1 tvg-id="50087" tvg-name="Corinthians vs Vitória | SporTV BR FHD" tvg-logo="" group-title="Brasileirão",Corinthians vs Vitória | SporTV BR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 tvg-id="50087" tvg-name="Corinthians vs Vitória | PREMIERER BR" tvg-logo="" group-title="Brasileirão",Corinthians vs Vitória | PREMIERER BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
 #EXTINF:-1 tvg-id="50090" tvg-name="Tottenham Hotspur vs Coventry City | FUBO SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Tottenham Hotspur vs Coventry City | FUBO SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -810,73 +894,4 @@ https://www.rtmpcdn.com/live/85ffc4c7-4ad0-4257-a568-74bf0ca78791.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.41/hls/LFFFAAAAA.m3u8
-
-#EXTINF:-1 tvg-id="50095" tvg-name="Al-Hilal vs Al-Hazem | SportzX Live" tvg-logo="" group-title="Pro League 🇸🇦",Al-Hilal vs Al-Hazem | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/sd-1-4599626.m3u8?txSecret=c80a64a119495095f5b05cf41a00299d&txTime=6AD66EF3
-
-#EXTINF:-1 tvg-id="50095" tvg-name="Al-Hilal vs Al-Hazem | LOW SERVER" tvg-logo="" group-title="Pro League 🇸🇦",Al-Hilal vs Al-Hazem | LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/6HHHAA.m3u8
-
-#EXTINF:-1 tvg-id="50096" tvg-name="Al-Shabab vs Al Faisaly | SportzX Live" tvg-logo="" group-title="Pro League 🇸🇦",Al-Shabab vs Al Faisaly | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/sd-1-4599628.m3u8?txSecret=d2fd9eea387c9b08b7fc40785beb994e&txTime=6AD66F27
-
-#EXTINF:-1 tvg-id="50096" tvg-name="Al-Shabab vs Al Faisaly | LOW SERVER" tvg-logo="" group-title="Pro League 🇸🇦",Al-Shabab vs Al Faisaly | LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/6HHHAAA.m3u8
-
-#EXTINF:-1 tvg-id="50097" tvg-name="Sporting Braga vs Gil Vicente | SportzX Live" tvg-logo="" group-title="Liga Portugal",Sporting Braga vs Gil Vicente | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50098" tvg-name="Celta Fortuna vs CD Tenerife | SportzX Live" tvg-logo="" group-title="LaLiga 2",Celta Fortuna vs CD Tenerife | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-https://live.vivo155.com/live/sd-1-4567314.m3u8?txSecret=b5f3c86b34f1015841a1237ec34411e3&txTime=6AD6742C
-
-#EXTINF:-1 tvg-id="50098" tvg-name="Celta Fortuna vs CD Tenerife | LOW SERVER" tvg-logo="" group-title="LaLiga 2",Celta Fortuna vs CD Tenerife | LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/6HHHAAAAQ.m3u8
-
-#EXTINF:-1 tvg-id="50099" tvg-name="Al-Fayha vs Al-Ahli | FOX DEPORTES" tvg-logo="" group-title="Pro League 🇸🇦",Al-Fayha vs Al-Ahli | FOX DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="50099" tvg-name="Al-Fayha vs Al-Ahli | THMANYAH SD" tvg-logo="" group-title="Pro League 🇸🇦",Al-Fayha vs Al-Ahli | THMANYAH SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/ZNNNAAAAQQ.m3u8
-
-#EXTINF:-1 tvg-id="50100" tvg-name="Trabzonspor vs Beşiktaş JK | beIN SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Super Lig",Trabzonspor vs Beşiktaş JK | beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pd5s6lz0a8/out/v1/27aac1f9df984d65a9d4b95d234f4468/119614ca-db40-4ea0-b7bd-58d85088893c-cenc.mpd?aws_sessionId=379d5d83-91bf-4c17-aa67-2d7ee721e904
-
-#EXTINF:-1 tvg-id="50100" tvg-name="Trabzonspor vs Beşiktaş JK | HD SERVER" tvg-logo="" group-title="Super Lig",Trabzonspor vs Beşiktaş JK | HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="50100" tvg-name="Trabzonspor vs Beşiktaş JK | LOW SERVER" tvg-logo="" group-title="Super Lig",Trabzonspor vs Beşiktaş JK | LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/DDDDD.m3u8
 
