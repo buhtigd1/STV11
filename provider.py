@@ -244,7 +244,7 @@ def build_playlist(events):
                     )
 
                     m3u.write(
-                        "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n"
+                        "#KODIPROP:inputstream.adaptive.license_type=clearkey\n"
                     )
 
                     m3u.write(
