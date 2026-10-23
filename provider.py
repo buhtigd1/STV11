@@ -3,6 +3,7 @@
 
 import requests
 
+from html import unescape
 from datetime import datetime
 from concurrent.futures import (
     ThreadPoolExecutor,
@@ -64,21 +65,29 @@ def clean_url(url):
     if not url:
         return ""
 
-    return (
-        url.strip()
-        .replace("&amp;amp;amp;", "&amp;")
-        .replace("&amp;amp;", "&amp;")
-    )
+    url = url.strip()
+
+    while "&amp;" in url:
+        url = unescape(url)
+
+    return url
 
 
 def extract_headers(url):
     """
-    URL example:
+    Supported:
 
-    https://test.mpd
-    |user-agent=Mozilla/5.0
-    &amp;referer=https://site.com
+    https://stream.m3u8
+    |Referer=https://site.com
+    &Origin=https://site.com
+    &User-Agent=Mozilla/5.0
+
+    https://stream.m3u8
+    |http-user-agent=Mozilla/5.0
+    &referer=https://site.com
     """
+
+    url = clean_url(url)
 
     if "|" not in url:
         return url, {}
@@ -90,7 +99,7 @@ def extract_headers(url):
 
     headers = {}
 
-    for item in params.split("&amp;"):
+    for item in params.split("&"):
 
         if "=" not in item:
             continue
@@ -100,9 +109,25 @@ def extract_headers(url):
             1
         )
 
-        headers[
-            k.lower().strip()
-        ] = v.strip()
+        key = k.lower().strip()
+
+        if key in (
+            "user-agent",
+            "useragent",
+            "http-user-agent"
+        ):
+            key = "user-agent"
+
+        elif key in (
+            "referer",
+            "referrer"
+        ):
+            key = "referer"
+
+        elif key == "origin":
+            key = "origin"
+
+        headers[key] = v.strip()
 
     return (
         base_url.strip(),
@@ -118,9 +143,13 @@ def write_vlc_options(
     headers
 ):
 
+    user_agent = headers.get(
+        "user-agent",
+        USER_AGENT
+    )
+
     m3u.write(
-        f"#EXTVLCOPT:http-user-agent="
-        f"{headers.get('user-agent', USER_AGENT)}\n"
+        f"#EXTVLCOPT:http-user-agent={user_agent}\n"
     )
 
     if "referer" in headers:
@@ -171,9 +200,7 @@ def get_session():
             HEADERS
         )
 
-        _thread_local.session = (
-            session
-        )
+        _thread_local.session = session
 
     return _thread_local.session
 
@@ -223,11 +250,7 @@ def is_stream_alive(
                 timeout=CHECK_TIMEOUT
             )
 
-            if (
-                200
-                <= r.status_code
-                < 300
-            ):
+            if 200 <= r.status_code < 300:
                 return True
 
             if r.status_code in (
@@ -270,7 +293,6 @@ def is_stream_alive(
         requests.exceptions.SSLError,
         requests.exceptions.RequestException
     ):
-
         return False
 
 # =====================================================
@@ -460,37 +482,14 @@ def build_playlist(
 
             total_streams += 1
 
-            stream = item[
-                "stream"
-            ]
-
-            event_name = item[
-                "event_name"
-            ]
-
-            event_id = item[
-                "event_id"
-            ]
-
-            category = item[
-                "category"
-            ]
-
-            start_time = item[
-                "start_time"
-            ]
-
-            end_time = item[
-                "end_time"
-            ]
-
-            stream_url = item[
-                "stream_url"
-            ]
-
-            headers = item[
-                "headers"
-            ]
+            stream = item["stream"]
+            event_name = item["event_name"]
+            event_id = item["event_id"]
+            category = item["category"]
+            start_time = item["start_time"]
+            end_time = item["end_time"]
+            stream_url = item["stream_url"]
+            headers = item["headers"]
 
             stream_title = (
                 stream.get(
@@ -573,39 +572,61 @@ def build_playlist(
             )
 
             log(
-                f"[{now_log()}] "
-                f"EVENT={event_name}"
+                f"[{now_log()}] EVENT={event_name}"
             )
+
             log(
                 f"START={start_time}"
             )
+
             log(
                 f"END={end_time}"
             )
+
             log(
                 f"CATEGORY={category}"
             )
+
             log(
                 f"STREAM={stream_title}"
             )
+
             log(
                 f"TYPE={stream_type}"
             )
+
             log(
                 f"URL={stream_url}"
             )
+
+            if headers.get(
+                "referer"
+            ):
+                log(
+                    f"REFERER={headers['referer']}"
+                )
+
+            if headers.get(
+                "origin"
+            ):
+                log(
+                    f"ORIGIN={headers['origin']}"
+                )
+
+            if headers.get(
+                "user-agent"
+            ):
+                log(
+                    f"USER_AGENT={headers['user-agent']}"
+                )
 
             if (
                 drm
                 and ":" in drm
             ):
-                log(
-                    "DRM=YES"
-                )
+                log("DRM=YES")
             else:
-                log(
-                    "DRM=NO"
-                )
+                log("DRM=NO")
 
             log(
                 "-" * 80
@@ -614,12 +635,10 @@ def build_playlist(
     log("")
     log("=" * 80)
     log(
-        f"TOTAL_VALID_STREAMS="
-        f"{total_streams}"
+        f"TOTAL_VALID_STREAMS={total_streams}"
     )
     log(
-        f"TOTAL_DRM_STREAMS="
-        f"{total_drm}"
+        f"TOTAL_DRM_STREAMS={total_drm}"
     )
     log("=" * 80)
 
@@ -642,8 +661,7 @@ def main():
     events = download_events()
 
     print(
-        f"Loaded "
-        f"{len(events)} events"
+        f"Loaded {len(events)} events"
     )
 
     streams = collect_streams(
@@ -651,8 +669,7 @@ def main():
     )
 
     print(
-        f"Found "
-        f"{len(streams)} streams"
+        f"Found {len(streams)} streams"
     )
 
     print(
@@ -666,8 +683,7 @@ def main():
     )
 
     print(
-        f"Alive streams: "
-        f"{len(valid_streams)}"
+        f"Alive streams: {len(valid_streams)}"
     )
 
     build_playlist(
@@ -675,13 +691,11 @@ def main():
     )
 
     print(
-        f"Playlist written: "
-        f"{M3U_FILE}"
+        f"Playlist written: {M3U_FILE}"
     )
 
     print(
-        f"Log written: "
-        f"{LOG_FILE}"
+        f"Log written: {LOG_FILE}"
     )
 
     print("Done.")
