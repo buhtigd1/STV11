@@ -1,4 +1,4 @@
-[2026-10-31 07:54:42] EVENT=Afghanistan vs Zimbabwe
+[2026-10-31 14:14:34] EVENT=Afghanistan vs Zimbabwe
 START=2026/11/01 14:30:00 +0000
 END=2026/11/01 18:15:00 +0000
 CATEGORY=Cricket
@@ -9,237 +9,7 @@ REFERER=https://fancode.com/
 USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=CANAL5 FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=New Zealand vs India
-START=2026/11/01 07:00:00 +0000
-END=2026/11/01 10:45:00 +0000
-CATEGORY=Cricket
-STREAM=CRICBUZZ HD
-TYPE=0
-URL=https://baila-lentoo.pages.dev/all-sp/809382.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=New Zealand vs India
-START=2026/11/01 07:00:00 +0000
-END=2026/11/01 10:45:00 +0000
-CATEGORY=Cricket
-STREAM=TNT SPORTS FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=ONE Friday Fights
-START=2026/10/30 12:30:00 +0000
-END=2026/10/30 16:30:00 +0000
-CATEGORY=Boxing
-STREAM=One Fight FHD
-TYPE=1
-URL=https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=MotoGP - Grand Prix of Malaysia
-START=2026/10/31 02:10:00 +0000
-END=2026/10/31 08:00:00 +0000
-CATEGORY=MotoGP
-STREAM=SP0TV FHD
-TYPE=1
-URL=https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=Sky Sports F1 HD
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/58842/load-playlist-multi?
-REFERER=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=SporTV BR FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=MotoGP - Grand Prix of Malaysia
-START=2026/10/31 02:10:00 +0000
-END=2026/10/31 08:00:00 +0000
-CATEGORY=MotoGP
-STREAM=FANCODE FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=FANCODE - FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Afghanistan vs Zimbabwe
-START=2026/11/01 14:30:00 +0000
-END=2026/11/01 18:15:00 +0000
-CATEGORY=Cricket
-STREAM=FANCODE - FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=SKY ITALIA [FHD]
-TYPE=0
-URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31367
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=UFC Fight Night: Moicano vs Nolan
-START=2026/10/31 21:00:00 +0000
-END=2026/11/01 04:30:00 +0000
-CATEGORY=UFC
-STREAM=PARAMOUNT+ ES [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30930
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=UFC Fight Night: Moicano vs Nolan
-START=2026/10/31 21:00:00 +0000
-END=2026/11/01 04:30:00 +0000
-CATEGORY=UFC
-STREAM=PARAMOUNT+ PT [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30931
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=SKY SPORTS [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/f1/2026/mexico/fp1
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE Monday Night RAW
-START=2026/11/03 00:00:00 +0000
-END=2026/11/03 02:30:00 +0000
-CATEGORY=WWE
-STREAM=HD SERVER
-TYPE=0
-URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
-REFERER=https://26hrwgorfcmh.windows-devs.top/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE Monday Night RAW
-START=2026/11/03 00:00:00 +0000
-END=2026/11/03 02:30:00 +0000
-CATEGORY=WWE
-STREAM=SportzX HD
-TYPE=0
-URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
-REFERER=https://26hrwgorfcmh.windows-devs.top/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=VIAPLAY NL [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31369
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=APPLE TV [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31363
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=UFC Fight Night: Moicano vs Nolan
-START=2026/10/31 21:00:00 +0000
-END=2026/11/01 04:30:00 +0000
-CATEGORY=UFC
-STREAM=TNT SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=UFC Fight Night: Moicano vs Nolan
-START=2026/10/31 21:00:00 +0000
-END=2026/11/01 04:30:00 +0000
-CATEGORY=UFC
-STREAM=PARAMOUNT+ [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30929
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=MotoGP - Grand Prix of Malaysia
-START=2026/10/31 02:10:00 +0000
-END=2026/10/31 08:00:00 +0000
-CATEGORY=MotoGP
-STREAM=TNT SPORTS
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=DAZN ESPANOL [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31365
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AEW Dynamite
-START=2026/11/05 00:00:00 +0000
-END=2026/11/05 02:00:00 +0000
-CATEGORY=WWE
-STREAM=TSN SPORTS
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=F1
-STREAM=TSN SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=UFC Fight Night: Moicano vs Nolan
+[2026-10-31 14:14:34] EVENT=UFC Fight Night: Moicano vs Nolan
 START=2026/10/31 21:00:00 +0000
 END=2026/11/01 04:30:00 +0000
 CATEGORY=UFC
@@ -249,7 +19,17 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=MotoGP - Grand Prix of Malaysia
+[2026-10-31 14:14:34] EVENT=Afghanistan vs Zimbabwe
+START=2026/11/01 14:30:00 +0000
+END=2026/11/01 18:15:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=MotoGP - Grand Prix of Malaysia
 START=2026/10/31 02:10:00 +0000
 END=2026/10/31 08:00:00 +0000
 CATEGORY=MotoGP
@@ -259,26 +39,193 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Formula 1 -  Mexico Grand Prix
+[2026-10-31 14:14:34] EVENT=MotoGP - Grand Prix of Malaysia
+START=2026/10/31 02:10:00 +0000
+END=2026/10/31 08:00:00 +0000
+CATEGORY=MotoGP
+STREAM=FANCODE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
 START=2026/10/31 17:30:00 +0000
 END=2026/10/31 22:30:00 +0000
 CATEGORY=F1
-STREAM=Sportscast FHD
+STREAM=FANCODE - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=New Zealand vs India
+START=2026/11/01 07:00:00 +0000
+END=2026/11/01 10:45:00 +0000
+CATEGORY=Cricket
+STREAM=CRICBUZZ HD
 TYPE=0
-URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
+URL=https://baila-lentoo.pages.dev/all-sp/809382.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE Friday Night SmackDown
-START=2026/10/31 00:00:00 +0000
-END=2026/10/31 03:00:00 +0000
+[2026-10-31 14:14:34] EVENT=AEW Dynamite
+START=2026/11/05 00:00:00 +0000
+END=2026/11/05 02:00:00 +0000
 CATEGORY=WWE
-STREAM=SportzX TV+ HD
+STREAM=Fox Sports Premium
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=New Zealand vs India
+START=2026/11/01 07:00:00 +0000
+END=2026/11/01 10:45:00 +0000
+CATEGORY=Cricket
+STREAM=TNT SPORTS FHD
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=SporTV BR FHD
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=Sky Sports F1 HD
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/58842/load-playlist-multi?
+REFERER=https://gooz.aapmains.net
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=ONE Friday Fights
+START=2026/10/30 12:30:00 +0000
+END=2026/10/30 16:30:00 +0000
+CATEGORY=Boxing
+STREAM=One Fight FHD
+TYPE=1
+URL=https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=TSN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=AEW Dynamite
+START=2026/11/05 00:00:00 +0000
+END=2026/11/05 02:00:00 +0000
+CATEGORY=WWE
+STREAM=TSN SPORTS
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Pakistan vs Sri Lanka
+START=2026/10/31 08:00:00 +0000
+END=2026/10/31 15:30:00 +0000
+CATEGORY=Cricket
+STREAM=WILLOW - ALT
+TYPE=1
+URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Pakistan vs Sri Lanka
+START=2026/10/31 08:00:00 +0000
+END=2026/10/31 15:30:00 +0000
+CATEGORY=Cricket
+STREAM=WILLOW - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=MotoGP - Grand Prix of Malaysia
+START=2026/10/31 02:10:00 +0000
+END=2026/10/31 08:00:00 +0000
+CATEGORY=MotoGP
+STREAM=SP0TV FHD
+TYPE=1
+URL=https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Golden State Valkyries vs Atlanta Dream
+START=2026/11/01 00:00:00 +0000
+END=2026/11/01 02:45:00 +0000
+CATEGORY=WNBA
+STREAM=TSN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Toronto Argonauts vs Winnipeg Blue Bombers
+START=2026/10/31 17:00:00 +0000
+END=2026/10/31 20:00:00 +0000
+CATEGORY=CFL
+STREAM=TSN4 SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=MotoGP - Grand Prix of Malaysia
+START=2026/10/31 02:10:00 +0000
+END=2026/10/31 08:00:00 +0000
+CATEGORY=MotoGP
+STREAM=TNT SPORTS
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=🥊 WWE Monday Night RAW
+START=2026/11/03 00:00:00 +0000
+END=2026/11/03 02:30:00 +0000
+CATEGORY=WWE
+STREAM=SportzX HD
+TYPE=0
+URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
+REFERER=https://26hrwgorfcmh.windows-devs.top/
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=🥊 WWE Monday Night RAW
+START=2026/11/03 00:00:00 +0000
+END=2026/11/03 02:30:00 +0000
+CATEGORY=WWE
+STREAM=HD SERVER
 TYPE=0
 URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 REFERER=https://26hrwgorfcmh.windows-devs.top/
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
+[2026-10-31 14:14:34] EVENT=UFC Fight Night: Moicano vs Nolan
+START=2026/10/31 21:00:00 +0000
+END=2026/11/01 04:30:00 +0000
+CATEGORY=UFC
+STREAM=TNT SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=South Africa vs Australia
 START=2026/10/31 08:30:00 +0000
 END=2026/10/31 16:00:00 +0000
 CATEGORY=Cricket
@@ -288,25 +235,83 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Pakistan vs Sri Lanka
-START=2026/10/31 08:00:00 +0000
-END=2026/10/31 15:30:00 +0000
-CATEGORY=Cricket
-STREAM=PTV SPORTS HD
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=Sportscast FHD
 TYPE=0
-URL=https://baila-lentoo.pages.dev/all-sp/809398.m3u8
+URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Utah Jazz vs Portland Trail Blazers
-START=2026/10/31 19:00:00 +0000
-END=2026/10/31 22:00:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/cha-wsh
+[2026-10-31 14:14:34] EVENT=South Africa vs Australia
+START=2026/10/31 08:30:00 +0000
+END=2026/10/31 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=WILLOW - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=CANAL5 FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=South Africa vs Australia
+START=2026/10/31 08:30:00 +0000
+END=2026/10/31 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE - IN
+TYPE=0
+URL=https://dai-fancode.pages.dev/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/index.m3u8
+REFERER=https://fancode.com/
+USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE Friday Night SmackDown
+[2026-10-31 14:14:34] EVENT=South Africa vs Australia
+START=2026/10/31 08:30:00 +0000
+END=2026/10/31 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE - SD
+TYPE=1
+URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Nepal Premier League
+START=2026/10/31 06:45:00 +0000
+END=2026/10/31 15:30:00 +0000
+CATEGORY=NPL
+STREAM=STAR SPORTS HD
+TYPE=0
+URL=https://baila-lentoo.pages.dev/all-sp/373201.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=South Africa vs Australia
+START=2026/10/31 08:30:00 +0000
+END=2026/10/31 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=FOX CRICKET HD
+TYPE=0
+URL=https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=South Africa vs Australia
+START=2026/10/31 08:30:00 +0000
+END=2026/10/31 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=WILLOW - ALT
+TYPE=1
+URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=🥊 WWE Friday Night SmackDown
 START=2026/10/31 00:00:00 +0000
 END=2026/10/31 03:00:00 +0000
 CATEGORY=WWE
@@ -316,267 +321,178 @@ URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8?
 REFERER=https://26hrwgorfcmh.windows-devs.top/
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Memphis Grizzlies vs Sacramento Kings
-START=2026/11/01 00:00:00 +0000
-END=2026/11/01 03:00:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
+[2026-10-31 14:14:34] EVENT=UFC Fight Night: Moicano vs Nolan
+START=2026/10/31 21:00:00 +0000
+END=2026/11/01 04:30:00 +0000
+CATEGORY=UFC
+STREAM=PARAMOUNT+ PT [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/ny-phi
+URL=https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30931
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Toronto Argonauts vs Winnipeg Blue Bombers
-START=2026/10/31 17:00:00 +0000
-END=2026/10/31 20:00:00 +0000
-CATEGORY=CFL
-STREAM=CFL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/cfl/2026-10-23/mtl-tor
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AEW Dynamite
-START=2026/11/05 00:00:00 +0000
-END=2026/11/05 02:00:00 +0000
+[2026-10-31 14:14:34] EVENT=🥊 WWE Friday Night SmackDown
+START=2026/10/31 00:00:00 +0000
+END=2026/10/31 03:00:00 +0000
 CATEGORY=WWE
-STREAM=Fox Sports Premium
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=San Antonio Spurs vs Minnesota Timberwolves
-START=2026/11/01 00:00:00 +0000
-END=2026/11/01 03:00:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/hou-dal
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Toronto Argonauts vs Winnipeg Blue Bombers
-START=2026/10/31 17:00:00 +0000
-END=2026/10/31 20:00:00 +0000
-CATEGORY=CFL
-STREAM=TSN SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
-START=2026/10/31 08:30:00 +0000
-END=2026/10/31 16:00:00 +0000
-CATEGORY=Cricket
-STREAM=FOX CRICKET HD
+STREAM=SportzX TV+ HD
 TYPE=0
-URL=https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+URL=https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
+REFERER=https://26hrwgorfcmh.windows-devs.top/
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
-START=2026/10/31 08:30:00 +0000
-END=2026/10/31 16:00:00 +0000
-CATEGORY=Cricket
-STREAM=FANCODE - SD
-TYPE=1
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-DRM=YES
+[2026-10-31 14:14:34] EVENT=UFC Fight Night: Moicano vs Nolan
+START=2026/10/31 21:00:00 +0000
+END=2026/11/01 04:30:00 +0000
+CATEGORY=UFC
+STREAM=PARAMOUNT+ [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30929
+DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Womens Big Bash League
-START=2026/10/31 04:40:00 +0000
-END=2026/10/31 12:00:00 +0000
-CATEGORY=WBBL
-STREAM=WILLOW - FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
-START=2026/10/31 08:30:00 +0000
-END=2026/10/31 16:00:00 +0000
-CATEGORY=Cricket
+[2026-10-31 14:14:34] EVENT=Nepal Premier League
+START=2026/10/31 06:45:00 +0000
+END=2026/10/31 15:30:00 +0000
+CATEGORY=NPL
 STREAM=FANCODE - IN
 TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/index.m3u8
+URL=https://dai-fancode.pages.dev/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/index.m3u8
 REFERER=https://fancode.com/
 USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
-START=2026/10/31 08:30:00 +0000
-END=2026/10/31 16:00:00 +0000
+[2026-10-31 14:14:34] EVENT=Pakistan vs Sri Lanka
+START=2026/10/31 08:00:00 +0000
+END=2026/10/31 15:30:00 +0000
 CATEGORY=Cricket
-STREAM=LOW SERVER
+STREAM=TAPMAD - FHD
 TYPE=0
-URL=http://193.47.62.44/hls/XAXAXAAX.m3u8
-REFERER=http://www.fawanews.sc/
-ORIGIN=http://www.fawanews.sc
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+REFERER=https://tapmad.com/
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Club Puebla vs Pumas UNAM
-START=2026/10/31 03:00:00 +0000
-END=2026/10/31 05:05:00 +0000
-CATEGORY=Liga MX
-STREAM=LIGAMX LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/liga-mx/2026-10-30/pue-unam
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Womens Big Bash League
-START=2026/10/31 04:40:00 +0000
-END=2026/10/31 12:00:00 +0000
-CATEGORY=WBBL
-STREAM=FANCODE - IN
-TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/index.m3u8
-REFERER=https://fancode.com/
-USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Womens Big Bash League
-START=2026/10/31 04:40:00 +0000
-END=2026/10/31 12:00:00 +0000
-CATEGORY=WBBL
-STREAM=FOX CRICKET HD
-TYPE=0
-URL=https://baila-lentoo.pages.dev/all-sp/809389.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bayern Munchen vs Borussia Dortmund
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
 START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=CAZE TV FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Nashville Predators vs Tampa Bay Lightning
-START=2026/10/31 18:00:00 +0000
-END=2026/10/31 21:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=APPLE TV [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-30/sea-cgy
+URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31363
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Hong Kong Sixes
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=SKY SPORTS [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/f1/2026/mexico/fp1
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=SKY ITALIA [FHD]
+TYPE=0
+URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31367
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Hong Kong Sixes
 START=2026/10/31 00:45:00 +0000
-END=2026/10/31 09:45:00 +0000
+END=2026/10/31 09:30:00 +0000
 CATEGORY=Cricket
 STREAM=WILLOW - FHD
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nu7kjdrsmr/out/v1/2074ea6e3a4241c1b35884570c8ecb2e/cenc.mpd
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bizhukou2w/out/v1/23d9c0ff831542e288e3e0562a76781a/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AC Milan vs Inter
-START=2026/10/31 19:45:00 +0000
-END=2026/10/31 21:50:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=CBS NETWORK
+[2026-10-31 14:14:34] EVENT=Womens Big Bash League
+START=2026/10/31 08:10:00 +0000
+END=2026/10/31 12:00:00 +0000
+CATEGORY=WBBL
+STREAM=FANCODE - IN
+TYPE=0
+URL=https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8
+REFERER=https://fancode.com/
+USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=DAZN ESPANOL [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31365
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=UFC Fight Night: Moicano vs Nolan
+START=2026/10/31 21:00:00 +0000
+END=2026/11/01 04:30:00 +0000
+CATEGORY=UFC
+STREAM=PARAMOUNT+ ES [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30930
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Formula 1 -  Mexico Grand Prix
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=F1
+STREAM=VIAPLAY NL [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31369
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Womens Big Bash League
+START=2026/10/31 08:10:00 +0000
+END=2026/10/31 12:00:00 +0000
+CATEGORY=WBBL
+STREAM=WILLOW - ALT
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=FC Barcelona vs Deportivo Alavés
-START=2026/10/31 20:00:00 +0000
-END=2026/10/31 22:05:00 +0000
-CATEGORY=LaLiga 🇪🇸
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Hong Kong Sixes
+[2026-10-31 14:14:34] EVENT=Hong Kong Sixes
 START=2026/10/31 00:45:00 +0000
-END=2026/10/31 09:45:00 +0000
+END=2026/10/31 09:30:00 +0000
 CATEGORY=Cricket
 STREAM=Cricbuzz FHD
 TYPE=0
 URL=https://baila-lentoo.pages.dev/all-sp/809382.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bangladesh vs West Indies
-START=2026/10/31 03:30:00 +0000
-END=2026/10/31 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=FANCODE HD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bangladesh vs West Indies
-START=2026/10/31 03:30:00 +0000
-END=2026/10/31 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=FANCODE - FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Hong Kong Sixes
-START=2026/10/31 00:45:00 +0000
-END=2026/10/31 09:45:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - ALT
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Womens Big Bash League
-START=2026/10/31 04:40:00 +0000
-END=2026/10/31 12:00:00 +0000
-CATEGORY=WBBL
-STREAM=WILLOW - ALT
-TYPE=1
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bayern Munchen vs Borussia Dortmund
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE Friday Night SmackDown
-START=2026/10/31 00:00:00 +0000
-END=2026/10/31 03:00:00 +0000
-CATEGORY=WWE
-STREAM=SPX LIVE [FHD]
+[2026-10-31 14:14:34] EVENT=Colorado Avalanche vs Calgary Flames
+START=2026/11/01 02:00:00 +0000
+END=2026/11/01 05:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/wwe/2026-10-23
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/ott-la
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bayern Munchen vs Borussia Dortmund
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=SporTV BR FHD
+[2026-10-31 14:14:34] EVENT=Hong Kong Sixes
+START=2026/10/31 00:45:00 +0000
+END=2026/10/31 09:30:00 +0000
+CATEGORY=Cricket
+STREAM=TAPMAD - FHD
+TYPE=0
+URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+REFERER=https://tapmad.com/
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Aston Villa vs Fulham
+START=2026/10/31 20:00:00 +0000
+END=2026/10/31 22:05:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=FUBO SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Womens Big Bash League
-START=2026/10/31 04:40:00 +0000
-END=2026/10/31 12:00:00 +0000
-CATEGORY=WBBL
-STREAM=EUROSPORTS - FHD
-TYPE=1
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Golden State Valkyries vs Atlanta Dream
+[2026-10-31 14:14:34] EVENT=Golden State Valkyries vs Atlanta Dream
 START=2026/11/01 00:00:00 +0000
 END=2026/11/01 02:45:00 +0000
 CATEGORY=WNBA
@@ -585,94 +501,7 @@ TYPE=2
 URL=https://taifood-blog.asia/embed/wnba/2026-10-29/gs-atl
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
-START=2026/10/31 08:30:00 +0000
-END=2026/10/31 16:00:00 +0000
-CATEGORY=Cricket
-STREAM=SKY CRICKET FHD
-TYPE=0
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-USER_AGENT=Mozilla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Pakistan vs Sri Lanka
-START=2026/10/31 08:00:00 +0000
-END=2026/10/31 15:30:00 +0000
-CATEGORY=Cricket
-STREAM=SKY CRICKET - FHD
-TYPE=0
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-USER_AGENT=Mozilla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Brentford vs Nottingham Forest
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AC Milan vs Inter
-START=2026/10/31 19:45:00 +0000
-END=2026/10/31 21:50:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Coventry City vs Sunderland
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bournemouth vs Leeds United
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Levante UD vs Atlético Madrid
-START=2026/10/31 13:00:00 +0000
-END=2026/10/31 15:05:00 +0000
-CATEGORY=LaLiga 🇪🇸
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Womens Big Bash League
-START=2026/10/31 04:40:00 +0000
-END=2026/10/31 12:00:00 +0000
-CATEGORY=WBBL
-STREAM=SKY CRICKET FHD
-TYPE=0
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-USER_AGENT=Mozilla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Tottenham Hotspur vs Crystal Palace
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:35:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=FUBO SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Manchester City vs Brighton
+[2026-10-31 14:14:34] EVENT=Manchester City vs Brighton
 START=2026/10/31 15:00:00 +0000
 END=2026/10/31 17:05:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -682,17 +511,34 @@ URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Udinese vs AS Roma
-START=2026/10/31 17:00:00 +0000
-END=2026/10/31 19:00:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
+[2026-10-31 14:14:34] EVENT=New Orleans Pelicans vs Atlanta Hawks
+START=2026/10/31 23:00:00 +0000
+END=2026/11/01 02:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/det-bkn
+DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AC Milan vs Inter
+[2026-10-31 14:14:34] EVENT=Milwaukee Bucks vs Cleveland Cavaliers
+START=2026/11/01 00:00:00 +0000
+END=2026/11/01 03:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/orl-tor
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=San Antonio Spurs vs Minnesota Timberwolves
+START=2026/11/01 00:00:00 +0000
+END=2026/11/01 03:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/hou-dal
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=AC Milan vs Inter
 START=2026/10/31 19:45:00 +0000
 END=2026/10/31 21:50:00 +0000
 CATEGORY=Serie A 🇮🇹
@@ -702,27 +548,38 @@ URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Hull City vs Ipswich Town
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SportzX Live
+[2026-10-31 14:14:34] EVENT=Bangladesh vs West Indies
+START=2026/10/31 03:30:00 +0000
+END=2026/10/31 11:30:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Bangladesh vs West Indies
+START=2026/10/31 03:30:00 +0000
+END=2026/10/31 11:30:00 +0000
+CATEGORY=Cricket
+STREAM=TAPMAD - FHD
 TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+REFERER=https://tapmad.com/
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Borussia M'gladbach vs Paderborn
-START=2026/10/31 14:30:00 +0000
-END=2026/10/31 16:30:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+[2026-10-31 14:14:34] EVENT=Houston Rockets vs Thunder
+START=2026/11/01 00:30:00 +0000
+END=2026/11/01 03:30:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/ind-mia
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Aston Villa vs Fulham
-START=2026/10/31 20:00:00 +0000
-END=2026/10/31 22:05:00 +0000
+[2026-10-31 14:14:34] EVENT=Tottenham Hotspur vs Crystal Palace
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:35:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=FUBO SPORTS FHD
 TYPE=1
@@ -730,16 +587,34 @@ URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Troyes vs Le Mans
-START=2026/10/31 19:45:00 +0000
-END=2026/10/31 21:50:00 +0000
-CATEGORY=Ligue 1 🇫🇷
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+[2026-10-31 14:14:34] EVENT=Toronto Argonauts vs Winnipeg Blue Bombers
+START=2026/10/31 17:00:00 +0000
+END=2026/10/31 20:00:00 +0000
+CATEGORY=CFL
+STREAM=CFL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/cfl/2026-10-23/mtl-tor
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bangladesh vs West Indies
+[2026-10-31 14:14:34] EVENT=Utah Jazz vs Portland Trail Blazers
+START=2026/10/31 19:00:00 +0000
+END=2026/10/31 22:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/cha-wsh
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Memphis Grizzlies vs Sacramento Kings
+START=2026/11/01 00:00:00 +0000
+END=2026/11/01 03:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/ny-phi
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Bangladesh vs West Indies
 START=2026/10/31 03:30:00 +0000
 END=2026/10/31 11:30:00 +0000
 CATEGORY=Cricket
@@ -750,16 +625,45 @@ REFERER=https://fancode.com/
 USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=New Orleans Pelicans vs Atlanta Hawks
-START=2026/10/31 23:00:00 +0000
-END=2026/11/01 02:00:00 +0000
+[2026-10-31 14:14:34] EVENT=Charlotte Hornets vs Philadelphia 76ers
+START=2026/10/31 22:00:00 +0000
+END=2026/11/01 01:00:00 +0000
 CATEGORY=NBA
 STREAM=NBA LIVE [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/det-bkn
+URL=https://taifood-blog.asia/embed/nba/2026-10-30/chi-bos
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Rayo Vallecano vs Celta Vigo
+[2026-10-31 14:14:34] EVENT=🥊 WWE Friday Night SmackDown
+START=2026/10/31 00:00:00 +0000
+END=2026/10/31 03:00:00 +0000
+CATEGORY=WWE
+STREAM=SPX LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/wwe/2026-10-23
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Toronto Argonauts vs Winnipeg Blue Bombers
+START=2026/10/31 17:00:00 +0000
+END=2026/10/31 20:00:00 +0000
+CATEGORY=CFL
+STREAM=TSN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Womens Big Bash League
+START=2026/10/31 08:10:00 +0000
+END=2026/10/31 12:00:00 +0000
+CATEGORY=WBBL
+STREAM=WILLOW - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Rayo Vallecano vs Celta Vigo
 START=2026/10/31 15:15:00 +0000
 END=2026/10/31 17:20:00 +0000
 CATEGORY=LaLiga 🇪🇸
@@ -769,7 +673,26 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Real Betis vs Málaga CF
+[2026-10-31 14:14:34] EVENT=Levante UD vs Atlético Madrid
+START=2026/10/31 13:00:00 +0000
+END=2026/10/31 15:05:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=FANCODE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Pakistan vs Sri Lanka
+START=2026/10/31 08:00:00 +0000
+END=2026/10/31 15:30:00 +0000
+CATEGORY=Cricket
+STREAM=PTV SPORTS HD
+TYPE=0
+URL=https://live.msnetworks.net/ptv-sports/master.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Real Betis vs Málaga CF
 START=2026/10/31 17:30:00 +0000
 END=2026/10/31 19:35:00 +0000
 CATEGORY=LaLiga 🇪🇸
@@ -779,128 +702,56 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Boston Bruins vs Chicago Blackhawks
-START=2026/10/31 17:00:00 +0000
-END=2026/10/31 20:00:00 +0000
+[2026-10-31 14:14:34] EVENT=Real Betis vs Málaga CF
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:35:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=D Sports FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Levante UD vs Atlético Madrid
+START=2026/10/31 13:00:00 +0000
+END=2026/10/31 15:05:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=D Sports FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=San Jose Sharks vs Ottawa Senators
+START=2026/10/31 20:00:00 +0000
+END=2026/10/31 23:00:00 +0000
 CATEGORY=NHL
 STREAM=NHL LIVE [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/nyi-min
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Houston Rockets vs Thunder
-START=2026/11/01 00:30:00 +0000
-END=2026/11/01 03:30:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/ind-mia
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Charlotte Hornets vs Philadelphia 76ers
-START=2026/10/31 22:00:00 +0000
-END=2026/11/01 01:00:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/chi-bos
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Levante UD vs Atlético Madrid
-START=2026/10/31 13:00:00 +0000
-END=2026/10/31 15:05:00 +0000
+[2026-10-31 14:14:34] EVENT=FC Barcelona vs Deportivo Alavés
+START=2026/10/31 20:00:00 +0000
+END=2026/10/31 22:05:00 +0000
 CATEGORY=LaLiga 🇪🇸
-STREAM=FANCODE FHD
+STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Al-Fayha vs Al Faisaly
-START=2026/10/31 14:55:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=Pro League 🇸🇦
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Al-Taawoun vs Al-Ettifaq
-START=2026/10/31 13:30:00 +0000
-END=2026/10/31 15:30:00 +0000
-CATEGORY=Pro League 🇸🇦
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Milwaukee Bucks vs Cleveland Cavaliers
-START=2026/11/01 00:00:00 +0000
-END=2026/11/01 03:00:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-10-30/orl-tor
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Fenerbahçe vs Göztepe
-START=2026/10/31 16:00:00 +0000
-END=2026/10/31 18:05:00 +0000
-CATEGORY=Super Lig
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Erzurumspor vs Çorum
-START=2026/10/31 10:30:00 +0000
-END=2026/10/31 12:30:00 +0000
-CATEGORY=Super Lig
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=FC Porto vs Estoril Praia
-START=2026/10/31 20:30:00 +0000
-END=2026/10/31 22:30:00 +0000
-CATEGORY=Liga Portugal
-STREAM=D Sports FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Levante UD vs Atlético Madrid
-START=2026/10/31 13:00:00 +0000
-END=2026/10/31 15:05:00 +0000
-CATEGORY=LaLiga 🇪🇸
-STREAM=D Sports FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bayer Leverkusen vs Stuttgart
-START=2026/10/31 14:30:00 +0000
-END=2026/10/31 16:35:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Real Betis vs Málaga CF
+[2026-10-31 14:14:34] EVENT=Bayern Munchen vs Borussia Dortmund
 START=2026/10/31 17:30:00 +0000
 END=2026/10/31 19:35:00 +0000
-CATEGORY=LaLiga 🇪🇸
-STREAM=D Sports FHD
+CATEGORY=Bundesliga 🇩🇪
+STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bologna vs Monza
+[2026-10-31 14:14:34] EVENT=Bologna vs Monza
 START=2026/10/31 14:00:00 +0000
 END=2026/10/31 16:00:00 +0000
 CATEGORY=Serie A 🇮🇹
@@ -910,221 +761,17 @@ URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Chelsea vs Manchester United
-START=2026/10/31 12:30:00 +0000
-END=2026/10/31 14:35:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=TNT SPORTS FHD
+[2026-10-31 14:14:34] EVENT=FC Porto vs Estoril Praia
+START=2026/10/31 20:30:00 +0000
+END=2026/10/31 22:30:00 +0000
+CATEGORY=Liga Portugal
+STREAM=D Sports FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=San Jose Sharks vs Ottawa Senators
-START=2026/10/31 20:00:00 +0000
-END=2026/10/31 23:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/nyi-min
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Cambuur vs GA Eagles
-START=2026/10/31 20:00:00 +0000
-END=2026/10/31 22:00:00 +0000
-CATEGORY=Eredivisie
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Los Angeles Kings vs Buffalo Sabres
-START=2026/10/31 20:00:00 +0000
-END=2026/10/31 23:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/mtl-dal
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Montréal Canadiens vs Pittsburgh Penguins
-START=2026/10/31 23:00:00 +0000
-END=2026/11/01 02:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/wsh-nsh
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Albacete Balompié vs CE Sabadell
-START=2026/10/31 20:00:00 +0000
-END=2026/10/31 22:05:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Dallas Stars vs Columbus Blue Jackets
-START=2026/11/01 00:00:00 +0000
-END=2026/11/01 03:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/buf-ana
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Celta Fortuna vs Córdoba
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:30:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Colorado Avalanche vs Calgary Flames
-START=2026/11/01 02:00:00 +0000
-END=2026/11/01 05:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/ott-la
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=West Ham vs West Bromwich
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=CBS NETWORK
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Real Sociedad B vs Girona FC
-START=2026/10/31 13:00:00 +0000
-END=2026/10/31 15:00:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Lincoln City vs Birmingham City
-START=2026/10/31 12:30:00 +0000
-END=2026/10/31 14:30:00 +0000
-CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=CBS NETWORK
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=New York Islanders vs Edmonton Oilers
-START=2026/10/31 18:00:00 +0000
-END=2026/10/31 21:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/chi-det
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Millwall vs Derby County
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Rangers vs Aberdeen
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:30:00 +0000
-CATEGORY=Scottish Premiership
-STREAM=PREMIER SPORTS
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AC Milan vs Inter
-START=2026/10/31 19:45:00 +0000
-END=2026/10/31 21:50:00 +0000
-CATEGORY=Serie A 🇮🇹
-STREAM=SPORT 1 CZ FHD
-TYPE=1
-URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Detroit Red Wings vs St. Louis Blues
-START=2026/10/31 17:00:00 +0000
-END=2026/10/31 20:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-30/wpg-fla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Bangladesh vs West Indies
-START=2026/10/31 03:30:00 +0000
-END=2026/10/31 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=TAPMAD - FHD
-TYPE=0
-URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-REFERER=https://tapmad.com/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Hong Kong Sixes
-START=2026/10/31 00:45:00 +0000
-END=2026/10/31 09:45:00 +0000
-CATEGORY=Cricket
-STREAM=TAPMAD - FHD
-TYPE=0
-URL=https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-REFERER=https://tapmad.com/
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Vancouver Canucks vs Toronto Maple Leafs
-START=2026/10/31 23:00:00 +0000
-END=2026/11/01 02:00:00 +0000
-CATEGORY=NHL
-STREAM=NHL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nhl/2026-10-29/bos-stl
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Werder Bremen vs Hoffenheim
-START=2026/10/31 14:30:00 +0000
-END=2026/10/31 16:30:00 +0000
-CATEGORY=Bundesliga 🇩🇪
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=PSV Eindhoven vs Willem II
-START=2026/10/31 17:45:00 +0000
-END=2026/10/31 19:45:00 +0000
-CATEGORY=Eredivisie
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Kocaelispor vs Çaykur Rizespor
-START=2026/10/31 13:00:00 +0000
-END=2026/10/31 15:00:00 +0000
-CATEGORY=Super Lig
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Tottenham Hotspur vs Crystal Palace
+[2026-10-31 14:14:34] EVENT=Tottenham Hotspur vs Crystal Palace
 START=2026/10/31 17:30:00 +0000
 END=2026/10/31 19:35:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -1134,7 +781,70 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Augsburg vs Freiburg
+[2026-10-31 14:14:34] EVENT=New York Islanders vs Edmonton Oilers
+START=2026/10/31 18:00:00 +0000
+END=2026/10/31 21:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/chi-det
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Hong Kong Sixes
+START=2026/10/31 00:45:00 +0000
+END=2026/10/31 09:30:00 +0000
+CATEGORY=Cricket
+STREAM=WILLOW - ALT
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Detroit Red Wings vs St. Louis Blues
+START=2026/10/31 17:00:00 +0000
+END=2026/10/31 20:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-30/wpg-fla
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Nashville Predators vs Tampa Bay Lightning
+START=2026/10/31 18:00:00 +0000
+END=2026/10/31 21:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-30/sea-cgy
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Brentford vs Nottingham Forest
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Los Angeles Kings vs Buffalo Sabres
+START=2026/10/31 20:00:00 +0000
+END=2026/10/31 23:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/mtl-dal
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Boston Bruins vs Chicago Blackhawks
+START=2026/10/31 17:00:00 +0000
+END=2026/10/31 20:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Werder Bremen vs Hoffenheim
 START=2026/10/31 14:30:00 +0000
 END=2026/10/31 16:30:00 +0000
 CATEGORY=Bundesliga 🇩🇪
@@ -1143,25 +853,64 @@ TYPE=0
 URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Karlsruher vs Heidenheim
-START=2026/10/31 19:30:00 +0000
-END=2026/10/31 21:30:00 +0000
-CATEGORY=2. Bundesliga
+[2026-10-31 14:14:34] EVENT=Levante UD vs Atlético Madrid
+START=2026/10/31 13:00:00 +0000
+END=2026/10/31 15:05:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=beIN ENGLISH FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Udinese vs AS Roma
+START=2026/10/31 17:00:00 +0000
+END=2026/10/31 19:00:00 +0000
+CATEGORY=Serie A 🇮🇹
+STREAM=beIN ENGLISH FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=AC Milan vs Inter
+START=2026/10/31 19:45:00 +0000
+END=2026/10/31 21:50:00 +0000
+CATEGORY=Serie A 🇮🇹
+STREAM=beIN ENGLISH FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Kocaelispor vs Çaykur Rizespor
+START=2026/10/31 13:00:00 +0000
+END=2026/10/31 15:00:00 +0000
+CATEGORY=Super Lig
 STREAM=SportzX Live
 TYPE=0
 URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Al-Hilal vs Al-Fateh
-START=2026/10/31 18:00:00 +0000
-END=2026/10/31 20:05:00 +0000
-CATEGORY=Pro League 🇸🇦
+[2026-10-31 14:14:34] EVENT=Coventry City vs Sunderland
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 STREAM=SportzX Live
 TYPE=0
 URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Chelsea vs Manchester United
+[2026-10-31 14:14:34] EVENT=Borussia M'gladbach vs Paderborn
+START=2026/10/31 14:30:00 +0000
+END=2026/10/31 16:30:00 +0000
+CATEGORY=Bundesliga 🇩🇪
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Chelsea vs Manchester United
 START=2026/10/31 12:30:00 +0000
 END=2026/10/31 14:35:00 +0000
 CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -1171,44 +920,63 @@ URL=https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Wolverhampton vs Cardiff City
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+[2026-10-31 14:14:34] EVENT=Bayer Leverkusen vs Stuttgart
+START=2026/10/31 14:30:00 +0000
+END=2026/10/31 16:35:00 +0000
+CATEGORY=Bundesliga 🇩🇪
 STREAM=SportzX Live
 TYPE=0
 URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=SC Heerenveen vs NEC Nijmegen
-START=2026/10/31 17:45:00 +0000
-END=2026/10/31 19:45:00 +0000
-CATEGORY=Eredivisie
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Darmstadt vs Magdeburg
-START=2026/10/31 12:00:00 +0000
-END=2026/10/31 14:00:00 +0000
-CATEGORY=2. Bundesliga
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Golden State Valkyries vs Atlanta Dream
-START=2026/11/01 00:00:00 +0000
-END=2026/11/01 02:45:00 +0000
-CATEGORY=WNBA
-STREAM=TSN SPORTS FHD
+[2026-10-31 14:14:34] EVENT=Chelsea vs Manchester United
+START=2026/10/31 12:30:00 +0000
+END=2026/10/31 14:35:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=TNT SPORTS FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Southampton vs Queens Park Rangers
+[2026-10-31 14:14:34] EVENT=Troyes vs Le Mans
+START=2026/10/31 19:45:00 +0000
+END=2026/10/31 21:50:00 +0000
+CATEGORY=Ligue 1 🇫🇷
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Hull City vs Ipswich Town
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Bournemouth vs Leeds United
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Millwall vs Derby County
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=beIN ENGLISH FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Southampton vs Queens Park Rangers
 START=2026/10/31 15:00:00 +0000
 END=2026/10/31 17:00:00 +0000
 CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -1217,52 +985,7 @@ TYPE=0
 URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Middlesbrough vs Charlton Athletic
-START=2026/10/31 15:00:00 +0000
-END=2026/10/31 17:00:00 +0000
-CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Wolfsburg vs Osnabrück
-START=2026/10/31 12:00:00 +0000
-END=2026/10/31 14:00:00 +0000
-CATEGORY=2. Bundesliga
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Indian Super League
-START=2026/10/31 11:30:00 +0000
-END=2026/10/31 16:00:00 +0000
-CATEGORY=ISL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Eibar vs Almería
-START=2026/10/31 15:15:00 +0000
-END=2026/10/31 17:15:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Kaiserslautern vs Hertha
-START=2026/10/31 12:00:00 +0000
-END=2026/10/31 14:00:00 +0000
-CATEGORY=2. Bundesliga
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Stoke City vs Preston North End
+[2026-10-31 14:14:34] EVENT=Stoke City vs Preston North End
 START=2026/10/31 12:30:00 +0000
 END=2026/10/31 14:30:00 +0000
 CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -1272,95 +995,284 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Club Puebla vs Pumas UNAM
-START=2026/10/31 03:00:00 +0000
-END=2026/10/31 05:05:00 +0000
-CATEGORY=Liga MX
-STREAM=HD SERVER
+[2026-10-31 14:14:34] EVENT=Middlesbrough vs Charlton Athletic
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=SportzX Live
 TYPE=0
-URL=https://live2.jorvakstreamcache.com/live/channel13.m3u8?
-REFERER=https://xlz.domainkqt.cc/
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=South Africa vs Australia
-START=2026/10/31 08:30:00 +0000
-END=2026/10/31 16:00:00 +0000
-CATEGORY=Cricket
-STREAM=A SPORTS HD
-TYPE=0
-URL=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
-DRM=NO
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Real Betis vs Málaga CF
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:35:00 +0000
-CATEGORY=LaLiga 🇪🇸
-STREAM=CAZE TV FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Schalke 04 vs RB Leipzig
+[2026-10-31 14:14:34] EVENT=Augsburg vs Freiburg
 START=2026/10/31 14:30:00 +0000
 END=2026/10/31 16:30:00 +0000
 CATEGORY=Bundesliga 🇩🇪
-STREAM=CAZE TV FHD
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Wolfsburg vs Osnabrück
+START=2026/10/31 12:00:00 +0000
+END=2026/10/31 14:00:00 +0000
+CATEGORY=2. Bundesliga
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Eibar vs Almería
+START=2026/10/31 15:15:00 +0000
+END=2026/10/31 17:15:00 +0000
+CATEGORY=LaLiga 2
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Kaiserslautern vs Hertha
+START=2026/10/31 12:00:00 +0000
+END=2026/10/31 14:00:00 +0000
+CATEGORY=2. Bundesliga
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Bangladesh vs West Indies
+START=2026/10/31 03:30:00 +0000
+END=2026/10/31 11:30:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE HD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Chelsea vs Manchester United
+[2026-10-31 14:14:34] EVENT=Celta Fortuna vs Córdoba
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:30:00 +0000
+CATEGORY=LaLiga 2
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Al-Hilal vs Al-Fateh
+START=2026/10/31 18:00:00 +0000
+END=2026/10/31 20:05:00 +0000
+CATEGORY=Pro League 🇸🇦
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=PSV Eindhoven vs Willem II
+START=2026/10/31 17:45:00 +0000
+END=2026/10/31 19:45:00 +0000
+CATEGORY=Eredivisie
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Cambuur vs GA Eagles
+START=2026/10/31 20:00:00 +0000
+END=2026/10/31 22:00:00 +0000
+CATEGORY=Eredivisie
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Karlsruher vs Heidenheim
+START=2026/10/31 19:30:00 +0000
+END=2026/10/31 21:30:00 +0000
+CATEGORY=2. Bundesliga
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=SC Heerenveen vs NEC Nijmegen
+START=2026/10/31 17:45:00 +0000
+END=2026/10/31 19:45:00 +0000
+CATEGORY=Eredivisie
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Albacete Balompié vs CE Sabadell
+START=2026/10/31 20:00:00 +0000
+END=2026/10/31 22:05:00 +0000
+CATEGORY=LaLiga 2
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=AC Milan vs Inter
+START=2026/10/31 19:45:00 +0000
+END=2026/10/31 21:50:00 +0000
+CATEGORY=Serie A 🇮🇹
+STREAM=CBS NETWORK
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=West Ham vs West Bromwich
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=CBS NETWORK
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Al-Fayha vs Al Faisaly
+START=2026/10/31 14:55:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=Pro League 🇸🇦
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Fenerbahçe vs Göztepe
+START=2026/10/31 16:00:00 +0000
+END=2026/10/31 18:05:00 +0000
+CATEGORY=Super Lig
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Al-Taawoun vs Al-Ettifaq
+START=2026/10/31 13:30:00 +0000
+END=2026/10/31 15:30:00 +0000
+CATEGORY=Pro League 🇸🇦
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Indian Super League
+START=2026/10/31 11:30:00 +0000
+END=2026/10/31 16:00:00 +0000
+CATEGORY=ISL
+STREAM=PRIME VIDEO FHD
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Wolverhampton vs Cardiff City
+START=2026/10/31 15:00:00 +0000
+END=2026/10/31 17:00:00 +0000
+CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Lincoln City vs Birmingham City
 START=2026/10/31 12:30:00 +0000
-END=2026/10/31 14:35:00 +0000
-CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=CAZE TV FHD
+END=2026/10/31 14:30:00 +0000
+CATEGORY=Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=CBS NETWORK
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Hong Kong Sixes
+[2026-10-31 14:14:34] EVENT=Bayern Munchen vs Borussia Dortmund
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:35:00 +0000
+CATEGORY=Bundesliga 🇩🇪
+STREAM=SporTV BR FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Rangers vs Aberdeen
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:30:00 +0000
+CATEGORY=Scottish Premiership
+STREAM=PREMIER SPORTS
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Darmstadt vs Magdeburg
+START=2026/10/31 12:00:00 +0000
+END=2026/10/31 14:00:00 +0000
+CATEGORY=2. Bundesliga
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Real Sociedad B vs Girona FC
+START=2026/10/31 13:00:00 +0000
+END=2026/10/31 15:00:00 +0000
+CATEGORY=LaLiga 2
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=AC Milan vs Inter
+START=2026/10/31 19:45:00 +0000
+END=2026/10/31 21:50:00 +0000
+CATEGORY=Serie A 🇮🇹
+STREAM=SPORT 1 CZ FHD
+TYPE=1
+URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Hong Kong Sixes
 START=2026/10/31 00:45:00 +0000
-END=2026/10/31 09:45:00 +0000
+END=2026/10/31 09:30:00 +0000
 CATEGORY=Cricket
 STREAM=A SPORTS HD
 TYPE=0
 URL=https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Rayo Vallecano vs Celta Vigo
-START=2026/10/31 15:15:00 +0000
-END=2026/10/31 17:20:00 +0000
-CATEGORY=LaLiga 🇪🇸
-STREAM=CAZE TV FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
+[2026-10-31 14:14:34] EVENT=Dallas Stars vs Columbus Blue Jackets
+START=2026/11/01 00:00:00 +0000
+END=2026/11/01 03:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/buf-ana
+DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Feyenoord vs Fortuna Sittard
-START=2026/10/31 15:30:00 +0000
-END=2026/10/31 17:30:00 +0000
-CATEGORY=Eredivisie
-STREAM=SportDigital Fussball
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
+[2026-10-31 14:14:34] EVENT=Montréal Canadiens vs Pittsburgh Penguins
+START=2026/10/31 23:00:00 +0000
+END=2026/11/01 02:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/wsh-nsh
+DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Rangers vs Aberdeen
-START=2026/10/31 17:30:00 +0000
-END=2026/10/31 19:30:00 +0000
-CATEGORY=Scottish Premiership
-STREAM=SportDigital Fussball
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
+[2026-10-31 14:14:34] EVENT=Vancouver Canucks vs Toronto Maple Leafs
+START=2026/10/31 23:00:00 +0000
+END=2026/11/01 02:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-10-29/bos-stl
+DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=AFC Ajax vs AZ Alkmaar
+[2026-10-31 14:14:34] EVENT=AFC Ajax vs AZ Alkmaar
 START=2026/10/31 20:00:00 +0000
 END=2026/10/31 22:00:00 +0000
 CATEGORY=Eredivisie
@@ -1370,17 +1282,77 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=Toronto Argonauts vs Winnipeg Blue Bombers
-START=2026/10/31 17:00:00 +0000
-END=2026/10/31 20:00:00 +0000
-CATEGORY=CFL
-STREAM=TSN4 SPORTS FHD
+[2026-10-31 14:14:34] EVENT=Rangers vs Aberdeen
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:30:00 +0000
+CATEGORY=Scottish Premiership
+STREAM=SportDigital Fussball
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=FC Barcelona vs Deportivo Alavés
+[2026-10-31 14:14:34] EVENT=Feyenoord vs Fortuna Sittard
+START=2026/10/31 15:30:00 +0000
+END=2026/10/31 17:30:00 +0000
+CATEGORY=Eredivisie
+STREAM=SportDigital Fussball
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Erzurumspor vs Çorum
+START=2026/10/31 10:30:00 +0000
+END=2026/10/31 12:30:00 +0000
+CATEGORY=Super Lig
+STREAM=HD SERVER
+TYPE=0
+URL=https://live2.jorvakstreamcache.com/live/channel13.m3u8?
+REFERER=https://xlz.domainkqt.cc/
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Schalke 04 vs RB Leipzig
+START=2026/10/31 14:30:00 +0000
+END=2026/10/31 16:30:00 +0000
+CATEGORY=Bundesliga 🇩🇪
+STREAM=CAZE TV FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Rayo Vallecano vs Celta Vigo
+START=2026/10/31 15:15:00 +0000
+END=2026/10/31 17:20:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=CAZE TV FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Chelsea vs Manchester United
+START=2026/10/31 12:30:00 +0000
+END=2026/10/31 14:35:00 +0000
+CATEGORY=EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+STREAM=CAZE TV FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=Bayern Munchen vs Borussia Dortmund
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:35:00 +0000
+CATEGORY=Bundesliga 🇩🇪
+STREAM=CAZE TV FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=FC Barcelona vs Deportivo Alavés
 START=2026/10/31 20:00:00 +0000
 END=2026/10/31 22:05:00 +0000
 CATEGORY=LaLiga 🇪🇸
@@ -1390,7 +1362,17 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE NXT
+[2026-10-31 14:14:34] EVENT=Real Betis vs Málaga CF
+START=2026/10/31 17:30:00 +0000
+END=2026/10/31 19:35:00 +0000
+CATEGORY=LaLiga 🇪🇸
+STREAM=CAZE TV FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-10-31 14:14:34] EVENT=🥊 WWE NXT
 START=2026/11/04 00:00:00 +0000
 END=2026/11/04 02:00:00 +0000
 CATEGORY=WWE
@@ -1399,7 +1381,7 @@ TYPE=2
 URL=https://embedindia.st/embed/wwe/2026-09-29
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-10-31 07:54:42] EVENT=🥊 WWE Monday Night RAW
+[2026-10-31 14:14:34] EVENT=🥊 WWE Monday Night RAW
 START=2026/11/03 00:00:00 +0000
 END=2026/11/03 02:30:00 +0000
 CATEGORY=WWE
@@ -1410,6 +1392,6 @@ DRM=NO
 --------------------------------------------------------------------------------
 
 ================================================================================
-TOTAL_VALID_STREAMS=148
-TOTAL_DRM_STREAMS=63
+TOTAL_VALID_STREAMS=146
+TOTAL_DRM_STREAMS=67
 ================================================================================
