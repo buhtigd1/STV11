@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="50007" tvg-name="Afghanistan vs Zimbabwe | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Afghanistan vs Zimbabwe | FANCODE - IN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights | One Friday Fights FHD" tvg-logo="" group-title="Boxing",ONE Friday Fights | One Friday Fights FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SKY SPORTS F1 DE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 -  Brazil Grand Prix | SKY SPORTS F1 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -20,14 +7,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="F1",Formula 1 -  Brazil Grand Prix | SporTV BR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
 #EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | SKY TOP EVENT" tvg-logo="" group-title="MotoGP",MotoGP - Grand Prix of Qatar | SKY TOP EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -37,29 +16,26 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
 
-#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | SKY SPORT TENNIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Tennis",ATP Paris & WTA Hong Kong | SKY SPORT TENNIS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8d550a86ee5c31e6b62f5fa287db43d:11184b37c42d384033b966dbea535b4f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd
+#EXTINF:-1 tvg-id="50007" tvg-name="Afghanistan vs Zimbabwe | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Afghanistan vs Zimbabwe | FANCODE - IN
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | ATP PARIS FHD" tvg-logo="" group-title="Tennis",ATP Paris & WTA Hong Kong | ATP PARIS FHD
+#EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights | beIN SPORTS FHD" tvg-logo="" group-title="Boxing",ONE Friday Fights | beIN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | TSN3 SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Tennis",ATP Paris & WTA Hong Kong | TSN3 SPORTS FHD
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | RedZone FHD" tvg-logo="" group-title="NFL",NFL REDZONE | RedZone FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f60169a33f5c94aca22d7d93079bbfa1:888e18968c39f6e3b7fcada59b87e857
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?
 
 #EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | REDZONE FHD" tvg-logo="" group-title="NFL",NFL REDZONE | REDZONE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -69,13 +45,26 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 #KODIPROP:inputstream.adaptive.license_key=85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd
 
-#EXTINF:-1 tvg-id="50007" tvg-name="Afghanistan vs Zimbabwe | WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Afghanistan vs Zimbabwe | WILLOW - ALT
+#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | SKY SPORT TENNIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Tennis",ATP Paris & WTA Hong Kong | SKY SPORT TENNIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e8d550a86ee5c31e6b62f5fa287db43d:11184b37c42d384033b966dbea535b4f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="50010" tvg-name="🥊 WWE Monday Night RAW | SportzX HD" tvg-logo="" group-title="WWE",🥊 WWE Monday Night RAW | SportzX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://26hrwgorfcmh.windows-devs.top/
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
+
+#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | TSN3 SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Tennis",ATP Paris & WTA Hong Kong | TSN3 SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 
 #EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | WTA HONG KONG" tvg-logo="" group-title="Tennis",ATP Paris & WTA Hong Kong | WTA HONG KONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -85,21 +74,42 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | TENNIS CHANNEL 2" tvg-logo="" group-title="Tennis",ATP Paris & WTA Hong Kong | TENNIS CHANNEL 2
+#EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | SKY SPORTS MIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="MotoGP",MotoGP - Grand Prix of Qatar | SKY SPORTS MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd
 
-#EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights | beIN SPORTS FHD" tvg-logo="" group-title="Boxing",ONE Friday Fights | beIN SPORTS FHD
+#EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights | One Friday Fights FHD" tvg-logo="" group-title="Boxing",ONE Friday Fights | One Friday Fights FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+#EXTINF:-1 tvg-id="50010" tvg-name="🥊 WWE Monday Night RAW | HD SERVER" tvg-logo="" group-title="WWE",🥊 WWE Monday Night RAW | HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://26hrwgorfcmh.windows-devs.top/
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="F1",Formula 1 -  Brazil Grand Prix | SporTV BR FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="MotoGP",MotoGP - Grand Prix of Qatar | FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="50033" tvg-name="Abu Dhabi T10 League | WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Abu Dhabi T10 League | WILLOW - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
@@ -111,32 +121,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/
 #KODIPROP:inputstream.adaptive.license_key=2b64d396af9a77e84f76a5bd66b9c901:7715f79f8c4e798959bf61e0885f364d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/02gukgvdze/out/v1/2d5390acafa74401a327061967e19558/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50007" tvg-name="Afghanistan vs Zimbabwe | WILLOW - FHD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Afghanistan vs Zimbabwe | WILLOW - FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99674fd07c70b730f03ab2030c9c5545:0f26d9265d01af9cfbd142d37afcda93
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gsqrpyixaj/out/v1/0db655cab1094df59028406df55c59fa/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50010" tvg-name="🥊 WWE Monday Night RAW | SportzX HD" tvg-logo="" group-title="WWE",🥊 WWE Monday Night RAW | SportzX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://26hrwgorfcmh.windows-devs.top/
-https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
-
-#EXTINF:-1 tvg-id="50010" tvg-name="🥊 WWE Monday Night RAW | HD SERVER" tvg-logo="" group-title="WWE",🥊 WWE Monday Night RAW | HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://26hrwgorfcmh.windows-devs.top/
-https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
-
-#EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | SKY SPORTS MIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="MotoGP",MotoGP - Grand Prix of Qatar | SKY SPORTS MIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd
-
 #EXTINF:-1 tvg-id="50033" tvg-name="Abu Dhabi T10 League | WILLOW - ALT" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Abu Dhabi T10 League | WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -144,6 +128,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b64d396af9a77e84f76a5bd66b9c901:7715f79f8c4e798959bf61e0885f364d
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/02gukgvdze/out/v1/2d5390acafa74401a327061967e19558/cenc.mpd
+
+#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | TENNIS CHANNEL 2" tvg-logo="" group-title="Tennis",ATP Paris & WTA Hong Kong | TENNIS CHANNEL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | FANCODE - FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="F1",Formula 1 -  Brazil Grand Prix | FANCODE - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -153,6 +145,27 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="50064" tvg-name="Nepal Premier League | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="NPL",Nepal Premier League | FANCODE - IN
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4250368_english_hls_7ea136c62c30127_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="50069" tvg-name="Washington Commanders vs Los Angeles Rams | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",Washington Commanders vs Los Angeles Rams | NFL GAMEPASS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8d6f2e45853bf63c8ab5a8847e65848:24337c3810c69c3f4dddf40313dd724c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thtfvk4jpv/out/v1/b6ede061cd8b4751b8d9b1ba75d3926c/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50069" tvg-name="Washington Commanders vs Los Angeles Rams | SKY SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="NFL",Washington Commanders vs Los Angeles Rams | SKY SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6143636ed31683e00c86c4e1db64fcbf:bf6b251177b6b056366150d2ee8e40ad
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ecaigwgyua/out/v1/2ee814e65dda404693ce51fb41bd53a8/cenc.mpd?
+
 #EXTINF:-1 tvg-id="50065" tvg-name="San Francisco 49ers vs Las Vegas Raiders | TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="NFL",San Francisco 49ers vs Las Vegas Raiders | TSN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -161,47 +174,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="MotoGP",MotoGP - Grand Prix of Qatar | FANCODE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="50064" tvg-name="Nepal Premier League | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="NPL",Nepal Premier League | FANCODE - IN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4250368_english_hls_7ea136c62c30127_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | Sky Sports F1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 -  Brazil Grand Prix | Sky Sports F1 HD
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | SportzX NFL REDZONE" tvg-logo="" group-title="NFL",NFL REDZONE | SportzX NFL REDZONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/59362/load-playlist-multi?
-
-#EXTINF:-1 tvg-id="50011" tvg-name="🥊 WWE Friday Night SmackDown | SPX LIVE [FHD]" tvg-logo="" group-title="WWE",🥊 WWE Friday Night SmackDown | SPX LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/wwe/2026-10-23
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | DAZN ESPANOL [FHD]" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | DAZN ESPANOL [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31409
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | APPLE TV [FHD]" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | APPLE TV [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31407
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SKY SPORTS [FHD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 -  Brazil Grand Prix | SKY SPORTS [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/f1/2026/mexico/race
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | FUBO SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | FUBO SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
-https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+https://chatgpt.hereisman.net/playlist/59596/load-playlist?
 
 #EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="MotoGP",MotoGP - Grand Prix of Qatar | TNT SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -211,166 +187,27 @@ https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="50070" tvg-name="Womens Big Bash League | FANCODE (IND)" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="WBBL",Womens Big Bash League | FANCODE (IND)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="F1",Formula 1 -  Brazil Grand Prix | TSN SPORTS FHD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | APPLE TV [FHD]" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | APPLE TV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?
+https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31865
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | beIN ENGLISH FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | beIN ENGLISH FHD
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | SERVER 2 HD [USA]" tvg-logo="" group-title="NFL",NFL REDZONE | SERVER 2 HD [USA]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59598/load-playlist?
 
-#EXTINF:-1 tvg-id="50006" tvg-name="AEW Dynamite | Fox Sports Premium" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="WWE",AEW Dynamite | Fox Sports Premium
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | NFL NETWORK HD" tvg-logo="" group-title="NFL",NFL REDZONE | NFL NETWORK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59596/load-playlist?
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | PREMIER SPORTS FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | PREMIER SPORTS FHD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SKY ITALIA [FHD]" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | SKY ITALIA [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31869
 
-#EXTINF:-1 tvg-id="50012" tvg-name="Pakistan vs Sri Lanka | PTV SPORTS HD" tvg-logo="" group-title="Cricket",Pakistan vs Sri Lanka | PTV SPORTS HD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | DAZN ESPANOL [FHD]" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | DAZN ESPANOL [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.msnetworks.net/ptv-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Afghanistan vs Zimbabwe | A Sports FHD" tvg-logo="" group-title="Cricket",Afghanistan vs Zimbabwe | A Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.msnetworks.net/a-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="50079" tvg-name="Toronto Maple Leafs vs New Jersey Devils | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Toronto Maple Leafs vs New Jersey Devils | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-07/mtl-tor
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | TNT SPORTS FHD" tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | TNT SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50080" tvg-name="Anaheim Ducks vs Pittsburgh Penguins | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Anaheim Ducks vs Pittsburgh Penguins | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-07/chi-car
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Edmonton Oilers vs Vancouver Canucks | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Edmonton Oilers vs Vancouver Canucks | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-07/van-edm
-
-#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | beIN SPORTS FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | FANCODE FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | FANCODE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | SKY SPORTS PL FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | SKY SPORTS PL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50043" tvg-name="Chicago Bulls vs Philadelphia 76ers | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Chicago Bulls vs Philadelphia 76ers | NBA LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nba/2026-11-07/den-ind
-
-#EXTINF:-1 tvg-id="50006" tvg-name="AEW Dynamite | TSN SPORTS" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="WWE",AEW Dynamite | TSN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | REDZONE [FHD]" tvg-logo="" group-title="NFL",NFL REDZONE | REDZONE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nfl-redzone-31494
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | CBS NETWORK FHD" tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | CBS NETWORK FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Bangladesh vs West Indies | FANCODE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="50118" tvg-name="Sunderland vs Chelsea | FUBO SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Chelsea | FUBO SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f53e95350f79e7cf780e4409ef996399:a5cbb7650616359dbc0de252f254c472
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2m8jgddrr9/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50044" tvg-name="Detroit Pistons vs Los Angeles Lakers | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Detroit Pistons vs Los Angeles Lakers | NBA LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nba/2026-11-07/bkn-atl
-
-#EXTINF:-1 tvg-id="50070" tvg-name="Womens Big Bash League | WILLOW - HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="WBBL",Womens Big Bash League | WILLOW - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="50048" tvg-name="Minnesota Timberwolves vs Utah Jazz | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Minnesota Timberwolves vs Utah Jazz | NBA LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nba/2026-11-07/ny-cle
-
-#EXTINF:-1 tvg-id="50119" tvg-name="Crystal Palace vs Liverpool FC | SKY SPORTS PL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Liverpool FC | SKY SPORTS PL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50042" tvg-name="Seattle Seahawks vs Arizona Cardinals | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",Seattle Seahawks vs Arizona Cardinals | NFL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nfl/2026-11-01/ne-mia
-
-#EXTINF:-1 tvg-id="50051" tvg-name="Dallas Mavericks vs Brooklyn Nets | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Dallas Mavericks vs Brooklyn Nets | NBA LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nba/2026-11-07/wsh-okc
+https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31867
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | CANAL5 FHD" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | CANAL5 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -380,6 +217,32 @@ https://taifood-blog.asia/embed/nba/2026-11-07/wsh-okc
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SKY SPORTS [FHD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 -  Brazil Grand Prix | SKY SPORTS [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/f1/2026/brazil/race
+
+#EXTINF:-1 tvg-id="50011" tvg-name="🥊 WWE Friday Night SmackDown | SPX LIVE [FHD]" tvg-logo="" group-title="WWE",🥊 WWE Friday Night SmackDown | SPX LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/wwe/2026-10-23
+
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | SERVER 3 HD [USA]" tvg-logo="" group-title="NFL",NFL REDZONE | SERVER 3 HD [USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59597/load-playlist?
+
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | SERVER 1 HD [USA]" tvg-logo="" group-title="NFL",NFL REDZONE | SERVER 1 HD [USA]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59601/load-playlist?
+
+#EXTINF:-1 tvg-id="50019" tvg-name="ATP Paris & WTA Hong Kong | ATP PARIS FHD" tvg-logo="" group-title="Tennis",ATP Paris & WTA Hong Kong | ATP PARIS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
 #EXTINF:-1 tvg-id="50003" tvg-name="MotoGP - Grand Prix of Qatar | MotoGP FHD" tvg-logo="https://img.sofascore.com/api/v1/category/1325/image" group-title="MotoGP",MotoGP - Grand Prix of Qatar | MotoGP FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -388,172 +251,126 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="50118" tvg-name="Sunderland vs Chelsea | SKY SPORTS MIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Chelsea | SKY SPORTS MIX
+#EXTINF:-1 tvg-id="50006" tvg-name="AEW Dynamite | TSN SPORTS" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="WWE",AEW Dynamite | TSN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | CAZE TV FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | CAZE TV FHD
+#EXTINF:-1 tvg-id="50075" tvg-name="Boston Bruins vs Florida Panthers | SKY SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="NHL",Boston Bruins vs Florida Panthers | SKY SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=8cd50695fb14e27dfd8908637f1da467:2bbe80619ec5e303ef1b79781bf3b757
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1kw2e0yi13/out/v1/575f67f6b552422dba30742c7f965bcb/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50119" tvg-name="Crystal Palace vs Liverpool FC | FUBO SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Liverpool FC | FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="50006" tvg-name="AEW Dynamite | Fox Sports Premium" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="WWE",AEW Dynamite | Fox Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af4fd680ddeb823a64c66659e9f52587:677c3938bd5b906c462a80e727a99d41
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bpsbblktxa/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="50012" tvg-name="Pakistan vs Sri Lanka | PTV SPORTS HD" tvg-logo="" group-title="Cricket",Pakistan vs Sri Lanka | PTV SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live.msnetworks.net/ptv-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | FUBO SPORTS FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | FUBO SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50007" tvg-name="Afghanistan vs Zimbabwe | A Sports FHD" tvg-logo="" group-title="Cricket",Afghanistan vs Zimbabwe | A Sports FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live.msnetworks.net/a-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="50070" tvg-name="Womens Big Bash League | FANCODE (IND)" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="WBBL",Womens Big Bash League | FANCODE (IND)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="50070" tvg-name="Womens Big Bash League | WILLOW - HD" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="WBBL",Womens Big Bash League | WILLOW - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="50043" tvg-name="Chicago Bulls vs Philadelphia 76ers | SportzX Live" tvg-logo="" group-title="NBA",Chicago Bulls vs Philadelphia 76ers | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59652/load-playlist-multi?
+
+#EXTINF:-1 tvg-id="50075" tvg-name="Boston Bruins vs Florida Panthers | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Boston Bruins vs Florida Panthers | NHL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nhl/2026-11-06/cbj-buf
+
+#EXTINF:-1 tvg-id="50043" tvg-name="Chicago Bulls vs Philadelphia 76ers | NBA LIVE HD" tvg-logo="" group-title="NBA",Chicago Bulls vs Philadelphia 76ers | NBA LIVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59656/load-playlist-multi?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | SKY SPORTS PL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | SKY SPORTS PL FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | DAZN SPORTS FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a43935c991dc8e6a035706a908e6f4:34d67267e116671a6216be066093a3b2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2he6yoxvnk/out/v1/03bbc4458f904566867b3d9edf4562e0/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | FUBO SPORTS ALT" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | FUBO SPORTS ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | Sportscast FHD" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | Sportscast FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/905162a2-0f7f-4fc6-910c-61e01bb526fd/master.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8
 
-#EXTINF:-1 tvg-id="50122" tvg-name="Villarreal vs Getafe | PREMIER SPORTS FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Villarreal vs Getafe | PREMIER SPORTS FHD
+#EXTINF:-1 tvg-id="50077" tvg-name="Winnipeg Jets vs Tampa Bay Lightning | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Winnipeg Jets vs Tampa Bay Lightning | NHL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nhl/2026-11-07/nj-nyi
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | FANCODE - SD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | FANCODE - SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | beIN ESPANOL FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | beIN ESPANOL FHD
+#EXTINF:-1 tvg-id="50078" tvg-name="Calgary Flames vs Philadelphia Flyers | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Calgary Flames vs Philadelphia Flyers | NHL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nhl/2026-11-07/uta-ott
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | DAZN SPORTS DE" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | DAZN SPORTS DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=b24c292436ae84178eea604e6e3578c6:6c88f1be55496b455f217372c717ac0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diw10svamz/out/v1/632e30dd88a84b74a430d0903b256245/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50119" tvg-name="Crystal Palace vs Liverpool FC | CAZE TV FHD" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Liverpool FC | CAZE TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-
-#EXTINF:-1 tvg-id="50122" tvg-name="Villarreal vs Getafe | D Sports FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Villarreal vs Getafe | D Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="50005" tvg-name="🥊 WWE NXT | NXT LIVE [FHD]" tvg-logo="" group-title="WWE",🥊 WWE NXT | NXT LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://embedindia.st/embed/wwe/2026-09-29
-
-#EXTINF:-1 tvg-id="50124" tvg-name="Real Sociedad vs Rayo Vallecano | DAZN SPORTS FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Real Sociedad vs Rayo Vallecano | DAZN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fed7261e588286f63bab48798998067d:0cfd675affcaf88e265b6ba7a8c8c8bf
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yeljykgcvm/out/v1/52114609883c4e1fabe313de0a1434b9/cenc.mpd
-
-#EXTINF:-1 tvg-id="50124" tvg-name="Real Sociedad vs Rayo Vallecano | beIN ENGLISH FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Real Sociedad vs Rayo Vallecano | beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50124" tvg-name="Real Sociedad vs Rayo Vallecano | PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="LaLiga 🇪🇸",Real Sociedad vs Rayo Vallecano | PREMIER SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Bangladesh vs West Indies | FANCODE - IN
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="50123" tvg-name="Celta Vigo vs Levante UD | CAZE TV FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Celta Vigo vs Levante UD | CAZE TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50122" tvg-name="Villarreal vs Getafe | beIN ENGLISH FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Villarreal vs Getafe | beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50067" tvg-name="New England Patriots vs Green Bay Packers | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",New England Patriots vs Green Bay Packers | NFL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nfl/2026-11-01/lac-lar
-
-#EXTINF:-1 tvg-id="50126" tvg-name="Inter vs Como | TNT SPORTS FHD" tvg-logo="" group-title="Serie A 🇮🇹",Inter vs Como | TNT SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 tvg-id="50069" tvg-name="Washington Commanders vs Los Angeles Rams | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",Washington Commanders vs Los Angeles Rams | NFL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nfl/2026-11-01/cle-pit
-
-#EXTINF:-1 tvg-id="50126" tvg-name="Inter vs Como | beIN ENGLISH FHD" tvg-logo="" group-title="Serie A 🇮🇹",Inter vs Como | beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | beIN ENGLISH FHD" tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50068" tvg-name="Los Angeles Chargers vs Houston Texans | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",Los Angeles Chargers vs Houston Texans | NFL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nfl/2026-11-01/atl-tb
-
-#EXTINF:-1 tvg-id="50065" tvg-name="San Francisco 49ers vs Las Vegas Raiders | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",San Francisco 49ers vs Las Vegas Raiders | NFL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nfl/2026-11-01/kc-den
-
-#EXTINF:-1 tvg-id="50119" tvg-name="Crystal Palace vs Liverpool FC | PEACOCK ENG FHD" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Liverpool FC | PEACOCK ENG FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48da485752c758fc5a1be1d3f49fb6ab:12be8cc1e11f76b2e8875eb8c8fb4206
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tzvttna77o/out/v1/aca4a2d65fd24dcbb81e7ad1f14338d2/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | CAZE TV FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | CAZE TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | TSN SPORTS FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | TSN SPORTS FHD
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | TSN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -561,107 +378,47 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 
-#EXTINF:-1 tvg-id="50127" tvg-name="Genoa vs AC Milan | FUBO SPORTS FHD" tvg-logo="" group-title="Serie A 🇮🇹",Genoa vs AC Milan | FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="50080" tvg-name="Anaheim Ducks vs Pittsburgh Penguins | PREMIER SPORTS" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="NHL",Anaheim Ducks vs Pittsburgh Penguins | PREMIER SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48fb7237ec9141e9190472a5480fd77f:cfcb31f3872784c0c76c271295b0bd01
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmcoljvkzm/out/v1/959c0e797f864fd5a2acfbf924cca5c2/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="50033" tvg-name="Abu Dhabi T10 League | A Sports FHD" tvg-logo="" group-title="Cricket",Abu Dhabi T10 League | A Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.msnetworks.net/a-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | FUBO SPORTS FHD" tvg-logo="" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | DAZN SPORTS FHD " tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | DAZN SPORTS FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=623cf27873ec1d0e07641e517358b49f:386dfdaa9e9824908ff8c5938abfef75
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r88d2pdp9j/out/v1/d2747fb3865c40e5aa159dac4dabc099/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50124" tvg-name="Real Sociedad vs Rayo Vallecano | CAZE TV FHD" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="LaLiga 🇪🇸",Real Sociedad vs Rayo Vallecano | CAZE TV FHD
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | CAZE TV FHD" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | CAZE TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50128" tvg-name="Monza vs Atalanta | PARAMOUNT+ FHD" tvg-logo="" group-title="Serie A 🇮🇹",Monza vs Atalanta | PARAMOUNT+ FHD
+#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | DAZN SPORTS FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | DAZN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68a6f73f95fa60c688adfa19a0c99eda:dcb7ec022c9d3daa13f336823a4abd3d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9jpgyztduu/out/v1/457d9db334ca46b8a64757fa6954d963/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a6ebb55a865d1939e0e7778351299ba0:218e2ecbd170cd9521d3838749156f24
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3hhqflz9jw/out/v1/98648640c82541bd9dd175bc61c3c1b7/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50127" tvg-name="Genoa vs AC Milan | beIN ENGLISH FHD" tvg-logo="" group-title="Serie A 🇮🇹",Genoa vs AC Milan | beIN ENGLISH FHD
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | beIN ENGLISH FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | beIN ENGLISH FHD" tvg-logo="" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="50010" tvg-name="🥊 WWE Monday Night RAW | WWE RAW [FHD]" tvg-logo="" group-title="WWE",🥊 WWE Monday Night RAW | WWE RAW [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://embedindia.st/embed/wwe/2026-08-24
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1 -  Brazil Grand Prix | SKY ITALIA [FHD]" tvg-logo="" group-title="F1",Formula 1 -  Brazil Grand Prix | SKY ITALIA [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31411
-
-#EXTINF:-1 tvg-id="50126" tvg-name="Inter vs Como | CBS NETWORK" tvg-logo="" group-title="Serie A 🇮🇹",Inter vs Como | CBS NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="50127" tvg-name="Genoa vs AC Milan | PARAMOUNT+ FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="Serie A 🇮🇹",Genoa vs AC Milan | PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=285eaa3bb641a11c7190877e945ebabd:d253e08b2c3a3b148374814cb01b3bf0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkhi8wtlmy/out/v1/fdae499977c04957a358d7be53cdc4f0/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50130" tvg-name="Köln vs Bayer Leverkusen | DAZN SPORTS FHD" tvg-logo="" group-title="Bundesliga 🇩🇪",Köln vs Bayer Leverkusen | DAZN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f80bd1af6f690babee33ca904a6963:1c266b79d9282476ee6cd7bffa209571
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50127" tvg-name="Genoa vs AC Milan | DAZN ITALIAN FHD" tvg-logo="" group-title="Serie A 🇮🇹",Genoa vs AC Milan | DAZN ITALIAN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8efdcc0bee08d54c860d5f854e3d026e:da139b5b10908c15b475eff374d2ba0c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4nqkrcl7mx/out/v1/1c6ef55c7d7a43a09751bedfff3da4ed/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50130" tvg-name="Köln vs Bayer Leverkusen | DAZN SPORTS DE" tvg-logo="" group-title="Bundesliga 🇩🇪",Köln vs Bayer Leverkusen | DAZN SPORTS DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7edfc1581ef7f5d7d290b99458ff7b4e:c04cf30c7da76c474d111cc599d272ad
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wylvflvruk/out/v1/9660b42e566043ab8e6ef14b24a9f181/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50132" tvg-name="Le Mans vs AS Monaco | beIN SPORTS FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",Le Mans vs AS Monaco | beIN SPORTS FHD
+#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | beIN SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | beIN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -669,37 +426,54 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wylvflvruk/
 #KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50133" tvg-name="Stade Brestois vs Olympique Lyonnais | beIN SPORTS FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",Stade Brestois vs Olympique Lyonnais | beIN SPORTS FHD
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | beIN ENGLISH FHD" tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="50075" tvg-name="Boston Bruins vs Florida Panthers | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Boston Bruins vs Florida Panthers | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-06/cbj-buf
-
-#EXTINF:-1 tvg-id="50128" tvg-name="Monza vs Atalanta | DAZN ITALIAN FHD" tvg-logo="" group-title="Serie A 🇮🇹",Monza vs Atalanta | DAZN ITALIAN FHD
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=817848ca00fe1192fe29b973aa883209:7ab0de74c2cef1c5c290b5eca63293f3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9d6pjtjoj/out/v1/c6f25773bcff4803bf082ef5013ec9fb/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50078" tvg-name="Calgary Flames vs Philadelphia Flyers | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Calgary Flames vs Philadelphia Flyers | NHL LIVE [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-07/uta-ott
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | CBS SPORTS FHD" tvg-logo="https://iili.io/BtCdabj.png" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | CBS SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="50076" tvg-name="Buffalo Sabres vs Vegas Golden Knights | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Buffalo Sabres vs Vegas Golden Knights | NHL LIVE [FHD]
+#EXTINF:-1 tvg-id="50065" tvg-name="San Francisco 49ers vs Las Vegas Raiders | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",San Francisco 49ers vs Las Vegas Raiders | NFL LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-07/nyr-sea
+https://taifood-blog.asia/embed/nfl/2026-11-01/kc-den
 
-#EXTINF:-1 tvg-id="50077" tvg-name="Winnipeg Jets vs Tampa Bay Lightning | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Winnipeg Jets vs Tampa Bay Lightning | NHL LIVE [FHD]
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | PEACOCK FHD" tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | PEACOCK FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://taifood-blog.asia/embed/nhl/2026-11-07/nj-nyi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d6e7dcdee376d426fbebc296618b49b:15674716de0a81eb5a09ae362eba9640
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wp0tjgwyax/out/v1/7c06e98232194753be1f636a9cd3ec36/cenc.mpd
+
+#EXTINF:-1 tvg-id="50042" tvg-name="Seattle Seahawks vs Arizona Cardinals | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",Seattle Seahawks vs Arizona Cardinals | NFL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nfl/2026-11-01/ne-mia
+
+#EXTINF:-1 tvg-id="50044" tvg-name="Detroit Pistons vs Los Angeles Lakers | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Detroit Pistons vs Los Angeles Lakers | NBA LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nba/2026-11-07/bkn-atl
+
+#EXTINF:-1 tvg-id="50067" tvg-name="New England Patriots vs Green Bay Packers | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",New England Patriots vs Green Bay Packers | NFL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nfl/2026-11-01/lac-lar
 
 #EXTINF:-1 tvg-id="50137" tvg-name="Estrela Amadora vs Benfica | SportDigital Fussball" tvg-logo="" group-title="Liga Portugal",Estrela Amadora vs Benfica | SportDigital Fussball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -709,49 +483,61 @@ https://taifood-blog.asia/embed/nhl/2026-11-07/nj-nyi
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | FUBO SPORTS ALT" tvg-logo="" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | FUBO SPORTS ALT
+#EXTINF:-1 tvg-id="50055" tvg-name="Milwaukee Bucks vs Boston Celtics | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Milwaukee Bucks vs Boston Celtics | NBA LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nba/2026-11-07/orl-gs
+
+#EXTINF:-1 tvg-id="50048" tvg-name="Minnesota Timberwolves vs Utah Jazz | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Minnesota Timberwolves vs Utah Jazz | NBA LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nba/2026-11-07/ny-cle
+
+#EXTINF:-1 tvg-id="50023" tvg-name="NFL REDZONE | REDZONE [FHD]" tvg-logo="" group-title="NFL",NFL REDZONE | REDZONE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nfl-redzone-31494
+
+#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | beIN ESPANOL FHD" tvg-logo="" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | beIN ESPANOL FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
-https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | DAZN SPORTS FHD" tvg-logo="" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | DAZN SPORTS FHD
+#EXTINF:-1 tvg-id="50068" tvg-name="Los Angeles Chargers vs Houston Texans | NFL LIVE [FHD]" tvg-logo="" group-title="NFL",Los Angeles Chargers vs Houston Texans | NFL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nfl/2026-11-01/atl-tb
+
+#EXTINF:-1 tvg-id="50043" tvg-name="Chicago Bulls vs Philadelphia 76ers | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Chicago Bulls vs Philadelphia 76ers | NBA LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nba/2026-11-07/den-ind
+
+#EXTINF:-1 tvg-id="50051" tvg-name="Dallas Mavericks vs Brooklyn Nets | NBA LIVE [FHD]" tvg-logo="" group-title="NBA",Dallas Mavericks vs Brooklyn Nets | NBA LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nba/2026-11-07/wsh-okc
+
+#EXTINF:-1 tvg-id="50157" tvg-name="Philadelphia Eagles vs New York Giants | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",Philadelphia Eagles vs New York Giants | NFL GAMEPASS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a3612d07b988704b2f85e9d205d8155:97ed43a6bcf98ef345f3164e3dea7242
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3c139et4qh/out/v1/576c656ec7944cf6a7dcd38a93554c64/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bd326e8451403c9e54ce60006d737b61:8355ac29f297ed469052cccfdeaa726e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl0i1x3xdx/out/v1/86e550a55a7a4a5cbe7b863b3b435726/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | PARAMOUNT+ FHD " tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | PARAMOUNT+ FHD 
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | PARAMOUNT+ FHD " tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | PARAMOUNT+ FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da9a1f83b9894600230b08e846e6d912:8d6def9b7a51d059b06b55a97d7c67e5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sd0jrfrl6f/out/v1/ebfbbac143874943b3f946e8c1d303a1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1d6e7dcdee376d426fbebc296618b49b:15674716de0a81eb5a09ae362eba9640
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzmf5zluhh/out/v1/094afe7ad5a84d4cac4199f30aa43215/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50135" tvg-name="Angers vs OGC Nice | SportzX Live" tvg-logo="" group-title="Ligue 1 🇫🇷",Angers vs OGC Nice | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50134" tvg-name="Le Havre vs Lorient | SportzX Live" tvg-logo="" group-title="Ligue 1 🇫🇷",Le Havre vs Lorient | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50128" tvg-name="Monza vs Atalanta | FUBO SPORTS FHD" tvg-logo="" group-title="Serie A 🇮🇹",Monza vs Atalanta | FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="50158" tvg-name="New Orleans Saints vs Cleveland Browns | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",New Orleans Saints vs Cleveland Browns | NFL GAMEPASS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=388f14a59253a3472efa6a23bb38f8fc:c2c86c468ea03b213c7ce500b729db5d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zo5nruftvt/out/v1/b59284953fcd4c93a6977856612840ae/cenc.mpd
-
-#EXTINF:-1 tvg-id="50139" tvg-name="Rio Ave vs Sporting Braga | SportzX Live" tvg-logo="" group-title="Liga Portugal",Rio Ave vs Sporting Braga | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#KODIPROP:inputstream.adaptive.license_key=0d5116ab55295ab050fc243d6d8ec0b6:8e4d33b3330d78d87abad9af742905cb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cdy1wbszpf/out/v1/191e81cbc1114092b5425375049500b1/cenc.mpd?
 
 #EXTINF:-1 tvg-id="50146" tvg-name="Beşiktaş JK vs Gençlerbirliği | beIN SPORTS FHD" tvg-logo="" group-title="Super Lig",Beşiktaş JK vs Gençlerbirliği | beIN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -761,33 +547,124 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 #KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50147" tvg-name="Alanyaspor vs Trabzonspor | beIN SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Super Lig",Alanyaspor vs Trabzonspor | beIN SPORTS FHD
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | FUBO SPORTS FHD " tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | FUBO SPORTS FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=589001796b4413ba7a0f777726394262:4357a8663574f5e9fa3aca6ff28ca3ad
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4e3ds5dcr9/out/v1/65981ddb85a7494ca4d49accea19fcdd/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50143" tvg-name="FC Twente vs AFC Ajax | SportDigital Fussball" tvg-logo="" group-title="Eredivisie",FC Twente vs AFC Ajax | SportDigital Fussball
+#EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | FANCODE - IN" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Bangladesh vs West Indies | FANCODE - IN
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="50005" tvg-name="🥊 WWE NXT | NXT LIVE [FHD]" tvg-logo="" group-title="WWE",🥊 WWE NXT | NXT LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://embedindia.st/embed/wwe/2026-09-29
+
+#EXTINF:-1 tvg-id="50033" tvg-name="Abu Dhabi T10 League | A Sports FHD" tvg-logo="" group-title="Cricket",Abu Dhabi T10 League | A Sports FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://live.msnetworks.net/a-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="50092" tvg-name="RC Lens vs Olympique de Marseille | LOW SERVER " tvg-logo="" group-title="Ligue 1 🇫🇷",RC Lens vs Olympique de Marseille | LOW SERVER 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/ZMMM.m3u8
+
+#EXTINF:-1 tvg-id="50159" tvg-name="Miami Dolphins vs Detroit Lions | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",Miami Dolphins vs Detroit Lions | NFL GAMEPASS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=443318d9e0eae73cdc0ebd18365c7dcf:987a693511d2d60a2fda7a7777f85d0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/irtroleutj/out/v1/f46efddca1284beb9cbaa65b98829403/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50154" tvg-name="UD Las Palmas vs CD Eldense | SportzX Live" tvg-logo="" group-title="LaLiga 2",UD Las Palmas vs CD Eldense | SportzX Live
+#EXTINF:-1 tvg-id="50010" tvg-name="🥊 WWE Monday Night RAW | WWE RAW [FHD]" tvg-logo="" group-title="WWE",🥊 WWE Monday Night RAW | WWE RAW [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://embedindia.st/embed/wwe/2026-08-24
 
-#EXTINF:-1 tvg-id="50158" tvg-name="New Orleans Saints vs Cleveland Browns | SportzX Live" tvg-logo="" group-title="NFL",New Orleans Saints vs Cleveland Browns | SportzX Live
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | PREMIER SPORTS FHD" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | PREMIER SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="50161" tvg-name="Indianapolis Colts vs Dallas Cowboys | SportzX Live" tvg-logo="" group-title="NFL",Indianapolis Colts vs Dallas Cowboys | SportzX Live
+#EXTINF:-1 tvg-id="50079" tvg-name="Toronto Maple Leafs vs New Jersey Devils | PREMIER SPORTS" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="NHL",Toronto Maple Leafs vs New Jersey Devils | PREMIER SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="50159" tvg-name="Miami Dolphins vs Detroit Lions | TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="NFL",Miami Dolphins vs Detroit Lions | TSN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | TNT SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Buffalo Sabres vs Vegas Golden Knights | SportzX Live" tvg-logo="" group-title="NHL",Buffalo Sabres vs Vegas Golden Knights | SportzX Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59651/load-playlist-multi?
+
+#EXTINF:-1 tvg-id="50161" tvg-name="Indianapolis Colts vs Dallas Cowboys | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",Indianapolis Colts vs Dallas Cowboys | NFL GAMEPASS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8b9f85a440a23d6f8bdec8ee7c3a476:74a802cc5a153ee6651e8d54edb75e8d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3fnzbb5b5f/out/v1/1d8ea6fed91d44789d94a59f1d75e10b/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | FANCODE FHD" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Bangladesh vs West Indies | FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | LOW QUALITY " tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | LOW QUALITY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/ZMMMA.m3u8
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Atlético Madrid vs Barcelona | beIN ARABIC FHD" tvg-logo="" group-title="LaLiga 🇪🇸",Atlético Madrid vs Barcelona | beIN ARABIC FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.arena-koora.online/
+https://live-cdn.ryazanslah3.space/hls/bein6.m3u8?
+
+#EXTINF:-1 tvg-id="50160" tvg-name="Kansas City Chiefs vs New York Jets | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",Kansas City Chiefs vs New York Jets | NFL GAMEPASS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b50a29e61a88975a5c86be7c51c0bc0:8eb66fdb6761304d125b95b03a840ae1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehx0igo3ga/out/v1/b6c4c4f810984a5097d7c4ef7de42e18/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50163" tvg-name="TSG Hoffenheim vs FC Schalke 04 | DAZN SPORTS FHD" tvg-logo="" group-title="Bundesliga 🇩🇪",TSG Hoffenheim vs FC Schalke 04 | DAZN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e25d10551883acc40dcb71e47eebd489:892509ea654a668fd71a04f54c30efec
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vuzaaxxem1/out/v1/e94aa80abc75481084c80546b0f77980/cenc.mpd?
 
 #EXTINF:-1 tvg-id="50138" tvg-name="Vitória SC vs FC Porto | D Sports FHD" tvg-logo="" group-title="Liga Portugal",Vitória SC vs FC Porto | D Sports FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -805,59 +682,63 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50159" tvg-name="Miami Dolphins vs Detroit Lions | TSN SPORTS FHD" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="NFL",Miami Dolphins vs Detroit Lions | TSN SPORTS FHD
+#EXTINF:-1 tvg-id="50162" tvg-name="Carolina Panthers vs Denver Broncos | NFL GAMEPASS FHD" tvg-logo="" group-title="NFL",Carolina Panthers vs Denver Broncos | NFL GAMEPASS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=28fa6eb7d698c9e16d54b130459e9f29:3e3614f2d0d7fbe8da1f8381f55c7c13
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t7vnogp2bl/out/v1/ba95b6795bbc4f8fa3959b1fb79e1902/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | NFL NETWORK FHD" tvg-logo="https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | NFL NETWORK FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42a3946f97dd9304eccf00b769261c8e:947067e7d5f233542225a236a10f422d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jq7xtmrld4/out/v1/95dfdfa733784f1fb1800a060fad4e96/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | SporTV BR FHD" tvg-logo="https://iili.io/CFFRvqJ.png" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | SporTV BR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?
-
-#EXTINF:-1 tvg-id="50127" tvg-name="Genoa vs AC Milan | SPORT 1 CZ" tvg-logo="" group-title="Serie A 🇮🇹",Genoa vs AC Milan | SPORT 1 CZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="50147" tvg-name="Alanyaspor vs Trabzonspor | LOW SERVER " tvg-logo="" group-title="Super Lig",Alanyaspor vs Trabzonspor | LOW SERVER 
+#EXTINF:-1 tvg-id="50139" tvg-name="Rio Ave vs Sporting Braga | LOW SERVER " tvg-logo="" group-title="Liga Portugal",Rio Ave vs Sporting Braga | LOW SERVER 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/K777F.m3u8
+http://193.47.62.44/hls/FYYYQQ.m3u8
 
-#EXTINF:-1 tvg-id="50160" tvg-name="Kansas City Chiefs vs New York Jets | SportzX Live" tvg-logo="" group-title="NFL",Kansas City Chiefs vs New York Jets | SportzX Live
+#EXTINF:-1 tvg-id="50161" tvg-name="Indianapolis Colts vs Dallas Cowboys | SportzX Live" tvg-logo="" group-title="NFL",Indianapolis Colts vs Dallas Cowboys | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59610/load-playlist-multi?
 
-#EXTINF:-1 tvg-id="50126" tvg-name="Inter vs Como | SPORT 1 CZ" tvg-logo="" group-title="Serie A 🇮🇹",Inter vs Como | SPORT 1 CZ
+#EXTINF:-1 tvg-id="50161" tvg-name="Indianapolis Colts vs Dallas Cowboys | NFL LIVE (USA)" tvg-logo="" group-title="NFL",Indianapolis Colts vs Dallas Cowboys | NFL LIVE (USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59611/load-playlist-multi?
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Buffalo Sabres vs Vegas Golden Knights | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Buffalo Sabres vs Vegas Golden Knights | NHL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nhl/2026-11-07/nyr-sea
+
+#EXTINF:-1 tvg-id="50080" tvg-name="Anaheim Ducks vs Pittsburgh Penguins | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Anaheim Ducks vs Pittsburgh Penguins | NHL LIVE [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://taifood-blog.asia/embed/nhl/2026-11-07/chi-car
+
+#EXTINF:-1 tvg-id="50163" tvg-name="TSG Hoffenheim vs FC Schalke 04 | PEACOCK ES FHD" tvg-logo="" group-title="Bundesliga 🇩🇪",TSG Hoffenheim vs FC Schalke 04 | PEACOCK ES FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb4ba2f6a3667bb086116570ed56a9fd:31f36919eb3705936718c1fa18bf4998
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z2axvo6izi/out/v1/7865fac6859d404c9dac5c5a7c589b1e/cenc.mpd?
 
-#EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | T Sports FHD" tvg-logo="" group-title="Cricket",Bangladesh vs West Indies | T Sports FHD
+#EXTINF:-1 tvg-id="50163" tvg-name="TSG Hoffenheim vs FC Schalke 04 | DAZN DE FHD" tvg-logo="" group-title="Bundesliga 🇩🇪",TSG Hoffenheim vs FC Schalke 04 | DAZN DE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://103.16.24.4:8083/14.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43cc4d82eb9afa82c539228715687b0c:ee8658a2ae68af6e6e490caa29242af3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgsjthpk9s/out/v1/cf2461b87edc43dfa9283591ea2c9357/cenc.mpd?
+
+#EXTINF:-1 tvg-id="50158" tvg-name="New Orleans Saints vs Cleveland Browns | NFL LIVE (USA)" tvg-logo="" group-title="NFL",New Orleans Saints vs Cleveland Browns | NFL LIVE (USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59608/load-playlist-multi?
+
+#EXTINF:-1 tvg-id="50158" tvg-name="New Orleans Saints vs Cleveland Browns | SportzX NFL HD" tvg-logo="" group-title="NFL",New Orleans Saints vs Cleveland Browns | SportzX NFL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/59627/load-playlist-multi?
 
 #EXTINF:-1 tvg-id="50093" tvg-name="Fiorentina vs Juventus | SPORT 1 CZ FHD" tvg-logo="" group-title="Serie A 🇮🇹",Fiorentina vs Juventus | SPORT 1 CZ FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -867,156 +748,45 @@ http://103.16.24.4:8083/14.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="50142" tvg-name="SC Cambuur vs PSV Eindhoven | SportDigital Fussball" tvg-logo="" group-title="Eredivisie",SC Cambuur vs PSV Eindhoven | SportDigital Fussball
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50157" tvg-name="Philadelphia Eagles vs New York Giants | SportzX Live" tvg-logo="" group-title="NFL",Philadelphia Eagles vs New York Giants | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | PARAMOUNT+ FHD" tvg-logo="" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42a3946f97dd9304eccf00b769261c8e:947067e7d5f233542225a236a10f422d
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jq7xtmrld4/out/v1/95dfdfa733784f1fb1800a060fad4e96/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50144" tvg-name="SC Heerenveen vs Feyenoord | SportDigital Fussball" tvg-logo="" group-title="Eredivisie",SC Heerenveen vs Feyenoord | SportDigital Fussball
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-
-#EXTINF:-1 tvg-id="50162" tvg-name="Carolina Panthers vs Denver Broncos | SportzX Live" tvg-logo="" group-title="NFL",Carolina Panthers vs Denver Broncos | SportzX Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="50131" tvg-name="SC Freiburg vs Union Berlin | SporTV BR FHD" tvg-logo="" group-title="Bundesliga 🇩🇪",SC Freiburg vs Union Berlin | SporTV BR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-
-#EXTINF:-1 tvg-id="50150" tvg-name="Oldham Athletic vs Sheffield Wednesday | TNT Sports FHD" tvg-logo="" group-title="FA Cup",Oldham Athletic vs Sheffield Wednesday | TNT Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="50151" tvg-name="Wimborne Town vs Crawley Town | TNT Sports FHD" tvg-logo="" group-title="FA Cup",Wimborne Town vs Crawley Town | TNT Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="50140" tvg-name="Santa Clara vs Gil Vicente | LOW SERVER " tvg-logo="" group-title="Liga Portugal",Santa Clara vs Gil Vicente | LOW SERVER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/S666AAA.m3u8
-
-#EXTINF:-1 tvg-id="50142" tvg-name="SC Cambuur vs PSV Eindhoven | LOW SERVER " tvg-logo="" group-title="Eredivisie",SC Cambuur vs PSV Eindhoven | LOW SERVER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/JJJJAAAAA.m3u8
-
-#EXTINF:-1 tvg-id="50145" tvg-name="AZ Alkmaar vs FC Groningen | LOW SERVER " tvg-logo="" group-title="Eredivisie",AZ Alkmaar vs FC Groningen | LOW SERVER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/JJJJAAAA.m3u8
-
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | CBS SPORTS FHD" tvg-logo="https://iili.io/BtCdabj.png" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | CBS SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="50129" tvg-name="SSC Napoli vs Lazio | SPORT 1 CZ" tvg-logo="" group-title="Serie A 🇮🇹",SSC Napoli vs Lazio | SPORT 1 CZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="50153" tvg-name="Cray Wanderers vs Stockport County | TNT Sports FHD" tvg-logo="" group-title="FA Cup",Cray Wanderers vs Stockport County | TNT Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | NFL Live HD" tvg-logo="" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | NFL Live HD
+#EXTINF:-1 tvg-id="50158" tvg-name="New Orleans Saints vs Cleveland Browns | SportzX Live" tvg-logo="" group-title="NFL",New Orleans Saints vs Cleveland Browns | SportzX Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/59580/load-playlist?&.m3u8
+https://chatgpt.hereisman.net/playlist/59609/load-playlist-multi?
 
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | NFL Live HD 2" tvg-logo="" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | NFL Live HD 2
+#EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | T Sports FHD" tvg-logo="" group-title="Cricket",Bangladesh vs West Indies | T Sports FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://103.16.24.4:8083/14.m3u8
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | SKY SPORTS EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | SKY SPORTS EPL
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=VjUJVCgLlj-3gvQs1za6Gw&e=2094154497&scheme=https
+
+#EXTINF:-1 tvg-id="50154" tvg-name="UD Las Palmas vs CD Eldense | LaLiga Hypermotion " tvg-logo="" group-title="LaLiga 2",UD Las Palmas vs CD Eldense | LaLiga Hypermotion 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
+
+#EXTINF:-1 tvg-id="50161" tvg-name="Indianapolis Colts vs Dallas Cowboys | SportzX NFL HD" tvg-logo="" group-title="NFL",Indianapolis Colts vs Dallas Cowboys | SportzX NFL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/59582/load-playlist?&.m3u8
+https://chatgpt.hereisman.net/playlist/59624/load-playlist-multi?
 
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | NFL Live HD 3" tvg-logo="" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | NFL Live HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/59581/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Manchester United vs Aston Villa | SKY SPORTS EPL" tvg-logo="" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa | SKY SPORTS EPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
-
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | LOW SERVER" tvg-logo="" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/TTTT.m3u8
+#EXTINF:-1 tvg-id="50070" tvg-name="Womens Big Bash League | SKY CRICKET FHD" tvg-logo="" group-title="WBBL",Womens Big Bash League | SKY CRICKET FHD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
 #EXTINF:-1 tvg-id="50094" tvg-name="Bangladesh vs West Indies | T SPORTS HD" tvg-logo="" group-title="Cricket",Bangladesh vs West Indies | T SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
-#EXTINF:-1 tvg-id="50163" tvg-name="Atlanta Falcons vs Cincinnati Bengals | SportzX Live" tvg-logo="" group-title="NFL",Atlanta Falcons vs Cincinnati Bengals | SportzX Live
+#EXTINF:-1 tvg-id="50079" tvg-name="Toronto Maple Leafs vs New Jersey Devils | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Toronto Maple Leafs vs New Jersey Devils | NHL LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/59591/load-playlist?&.m3u8
+https://taifood-blog.asia/embed/nhl/2026-11-07/mtl-tor
 
-#EXTINF:-1 tvg-id="50155" tvg-name="Sporting Gijón vs Real Valladolid | LaLiga Hypermotion ES" tvg-logo="" group-title="LaLiga 2",Sporting Gijón vs Real Valladolid | LaLiga Hypermotion ES
+#EXTINF:-1 tvg-id="50089" tvg-name="Edmonton Oilers vs Vancouver Canucks | NHL LIVE [FHD]" tvg-logo="" group-title="NHL",Edmonton Oilers vs Vancouver Canucks | NHL LIVE [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-
-#EXTINF:-1 tvg-id="50156" tvg-name="Girona FC vs Almería | LaLiga Hypermotion ES" tvg-logo="" group-title="LaLiga 2",Girona FC vs Almería | LaLiga Hypermotion ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-
-#EXTINF:-1 tvg-id="50070" tvg-name="Womens Big Bash League | SKY CRICKET FHD" tvg-logo="" group-title="WBBL",Womens Big Bash League | SKY CRICKET FHD
-#EXTVLCOPT:http-user-agent=Mozilla
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+https://taifood-blog.asia/embed/nhl/2026-11-07/van-edm
 
