@@ -6,6 +6,7 @@ import requests
 
 from html import unescape
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from threading import local
 
 from concurrent.futures import (
@@ -31,6 +32,10 @@ LOG_FILE = "stv11.log"
 THREADS = min(
     64,
     (os.cpu_count() or 4) * 8
+)
+
+JAKARTA_TZ = ZoneInfo(
+    "Asia/Jakarta"
 )
 
 CHECK_TIMEOUT = 10
@@ -83,6 +88,55 @@ def now_log():
     return datetime.now().strftime(
         "%Y-%m-%d %H:%M:%S"
     )
+
+# =====================================================
+# TIME HELPER
+# =====================================================
+
+def format_jkt_timerange(
+    start_time,
+    end_time
+):
+
+    if (
+        not start_time
+        or not end_time
+    ):
+        return ""
+
+    try:
+
+        start_dt = datetime.strptime(
+            start_time,
+            "%Y/%m/%d %H:%M:%S %z"
+        )
+
+        end_dt = datetime.strptime(
+            end_time,
+            "%Y/%m/%d %H:%M:%S %z"
+        )
+
+        start_jkt = (
+            start_dt.astimezone(
+                JAKARTA_TZ
+            )
+        )
+
+        end_jkt = (
+            end_dt.astimezone(
+                JAKARTA_TZ
+            )
+        )
+
+        return (
+            f"{start_jkt:%H:%M}"
+            f" - "
+            f"{end_jkt:%H:%M}"
+        )
+
+    except Exception:
+
+        return ""
 
 # =====================================================
 # URL HELPERS
@@ -526,8 +580,26 @@ def build_playlist(streams):
                 )
             )
 
+            time_range = format_jkt_timerange(
+                item["start_time"],
+                item["end_time"]
+            )
+
+            if time_range:
+
             channel_name = (
-                f"{item['event_name']} | "
+                f"{time_range}"
+                f" - "
+                f"{item['event_name']}"
+                f" | "
+                f"{stream_title}"
+            )
+
+            else:
+
+            channel_name = (
+                f"{item['event_name']}"
+                f" | "
                 f"{stream_title}"
             )
 
@@ -630,6 +702,14 @@ def main():
         f"Alive streams: "
         f"{len(valid_streams)}"
     )
+
+    valid_streams.sort(
+        key=lambda x: x.get(
+            "start_time",
+            ""
+        )
+    )
+
 
     build_playlist(
         valid_streams
