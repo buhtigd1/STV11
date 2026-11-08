@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import os
 import requests
 
 from html import unescape
 from datetime import datetime
+from threading import local
+
 from concurrent.futures import (
     ThreadPoolExecutor,
     as_completed
 )
-from threading import local
+
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # =====================================================
 # CONFIG
@@ -23,7 +28,11 @@ SOURCE_URL = (
 M3U_FILE = "stv11.m3u"
 LOG_FILE = "stv11.log"
 
-THREADS = 50
+THREADS = min(
+    64,
+    (os.cpu_count() or 4) * 8
+)
+
 CHECK_TIMEOUT = 10
 
 USER_AGENT = (
@@ -36,22 +45,41 @@ HEADERS = {
     "User-Agent": USER_AGENT
 }
 
+VALID_CONTENT_TYPES = (
+    "mpegurl",
+    "dash+xml",
+    "video/",
+    "octet-stream"
+)
+
 _thread_local = local()
+
+validation_cache = {}
+log_buffer = []
 
 # =====================================================
 # LOGGING
 # =====================================================
 
 def log(message):
+    log_buffer.append(message)
+
+
+def flush_log():
+
     with open(
         LOG_FILE,
-        "a",
+        "w",
         encoding="utf-8"
     ) as f:
-        f.write(message + "\n")
+
+        f.write(
+            "\n".join(log_buffer)
+        )
 
 
 def now_log():
+
     return datetime.now().strftime(
         "%Y-%m-%d %H:%M:%S"
     )
@@ -74,18 +102,6 @@ def clean_url(url):
 
 
 def extract_headers(url):
-    """
-    Supported:
-
-    https://stream.m3u8
-    |Referer=https://site.com
-    &Origin=https://site.com
-    &User-Agent=Mozilla/5.0
-
-    https://stream.m3u8
-    |http-user-agent=Mozilla/5.0
-    &referer=https://site.com
-    """
 
     url = clean_url(url)
 
@@ -143,13 +159,13 @@ def write_vlc_options(
     headers
 ):
 
-    user_agent = headers.get(
+    ua = headers.get(
         "user-agent",
         USER_AGENT
     )
 
     m3u.write(
-        f"#EXTVLCOPT:http-user-agent={user_agent}\n"
+        f"#EXTVLCOPT:http-user-agent={ua}\n"
     )
 
     if "referer" in headers:
@@ -159,70 +175,75 @@ def write_vlc_options(
             f"{headers['referer']}\n"
         )
 
-    if "origin" in headers:
-
-        m3u.write(
-            f"#EXTVLCOPT:http-origin="
-            f"{headers['origin']}\n"
-        )
-
 # =====================================================
 # SESSION
 # =====================================================
 
 def get_session():
 
-    if not hasattr(
+    if hasattr(
         _thread_local,
         "session"
     ):
+        return _thread_local.session
 
-        session = requests.Session()
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=0.5,
+        status_forcelist=[
+            429,
+            500,
+            502,
+            503,
+            504
+        ]
+    )
 
-        adapter = (
-            requests.adapters.HTTPAdapter(
-                pool_connections=100,
-                pool_maxsize=100
-            )
-        )
+    adapter = HTTPAdapter(
+        max_retries=retry,
+        pool_connections=200,
+        pool_maxsize=200
+    )
 
-        session.mount(
-            "http://",
-            adapter
-        )
+    session = requests.Session()
 
-        session.mount(
-            "https://",
-            adapter
-        )
+    session.mount(
+        "http://",
+        adapter
+    )
 
-        session.headers.update(
-            HEADERS
-        )
+    session.mount(
+        "https://",
+        adapter
+    )
 
-        _thread_local.session = session
+    session.headers.update(
+        HEADERS
+    )
 
-    return _thread_local.session
+    _thread_local.session = session
+
+    return session
 
 # =====================================================
-# DOWNLOAD JSON
+# DOWNLOAD FEED
 # =====================================================
 
 def download_events():
 
-    session = get_session()
-
-    response = session.get(
+    with get_session().get(
         SOURCE_URL,
         timeout=30
-    )
+    ) as r:
 
-    response.raise_for_status()
+        r.raise_for_status()
 
-    return response.json()
+        return r.json()
 
 # =====================================================
-# STREAM CHECKER
+# STREAM VALIDATION
 # =====================================================
 
 def is_stream_alive(
@@ -230,78 +251,67 @@ def is_stream_alive(
     extra_headers=None
 ):
 
+    if url in validation_cache:
+        return validation_cache[url]
+
+    headers = HEADERS.copy()
+
+    if extra_headers:
+        headers.update(
+            extra_headers
+        )
+
+    headers["Range"] = (
+        "bytes=0-1023"
+    )
+
     try:
 
-        session = get_session()
-
-        headers = HEADERS.copy()
-
-        if extra_headers:
-            headers.update(
-                extra_headers
-            )
-
-        try:
-
-            r = session.head(
-                url,
-                headers=headers,
-                allow_redirects=True,
-                timeout=CHECK_TIMEOUT
-            )
-
-            if 200 <= r.status_code < 300:
-                return True
-
-            if r.status_code in (
-                403,
-                404,
-                410,
-                500,
-                502,
-                503,
-                504
-            ):
-                return False
-
-        except Exception:
-            pass
-
-        r = session.get(
+        with get_session().get(
             url,
-            headers={
-                **headers,
-                "Range":
-                    "bytes=0-1023"
-            },
+            headers=headers,
             stream=True,
             allow_redirects=True,
             timeout=CHECK_TIMEOUT
-        )
+        ) as r:
 
-        if r.status_code in (
-            200,
-            206
-        ):
-            return True
+            if r.status_code not in (
+                200,
+                206
+            ):
+                validation_cache[url] = False
+                return False
 
-        return False
+            content_type = (
+                r.headers.get(
+                    "Content-Type",
+                    ""
+                ).lower()
+            )
 
-    except (
-        requests.exceptions.Timeout,
-        requests.exceptions.ConnectionError,
-        requests.exceptions.SSLError,
-        requests.exceptions.RequestException
-    ):
+            alive = any(
+                x in content_type
+                for x in VALID_CONTENT_TYPES
+            )
+
+            validation_cache[url] = alive
+
+            return alive
+
+    except requests.RequestException:
+
+        validation_cache[url] = False
+
         return False
 
 # =====================================================
-# PARSE STREAMS
+# PARSE EVENTS
 # =====================================================
 
 def collect_streams(events):
 
     streams = []
+    seen = set()
 
     for event in events:
 
@@ -315,13 +325,13 @@ def collect_streams(events):
             "LIVE"
         )
 
-        event_info = event.get(
+        info = event.get(
             "eventInfo",
             {}
         )
 
         event_name = (
-            event_info.get(
+            info.get(
                 "eventName"
             )
             or event.get(
@@ -330,18 +340,14 @@ def collect_streams(events):
             )
         )
 
-        start_time = (
-            event_info.get(
-                "startTime",
-                ""
-            )
+        start_time = info.get(
+            "startTime",
+            ""
         )
 
-        end_time = (
-            event_info.get(
-                "endTime",
-                ""
-            )
+        end_time = info.get(
+            "endTime",
+            ""
         )
 
         for stream in event.get(
@@ -368,21 +374,34 @@ def collect_streams(events):
             if not stream_url:
                 continue
 
+            if stream_url in seen:
+                continue
+
+            seen.add(stream_url)
+
             streams.append({
+
                 "event_id":
                     event_id,
+
                 "category":
                     category,
+
                 "event_name":
                     event_name,
+
                 "start_time":
                     start_time,
+
                 "end_time":
                     end_time,
+
                 "stream":
                     stream,
+
                 "stream_url":
                     stream_url,
+
                 "headers":
                     headers
             })
@@ -390,12 +409,10 @@ def collect_streams(events):
     return streams
 
 # =====================================================
-# VALIDATION
+# VALIDATE STREAMS
 # =====================================================
 
-def validate_streams(
-    streams
-):
+def validate_streams(streams):
 
     valid = []
 
@@ -404,15 +421,18 @@ def validate_streams(
     ) as executor:
 
         futures = {
+
             executor.submit(
                 is_stream_alive,
                 item["stream_url"],
                 item["headers"]
             ): item
+
             for item in streams
         }
 
         total = len(futures)
+
         checked = 0
 
         for future in as_completed(
@@ -421,9 +441,7 @@ def validate_streams(
 
             checked += 1
 
-            item = futures[
-                future
-            ]
+            item = futures[future]
 
             try:
 
@@ -461,9 +479,7 @@ def validate_streams(
 # BUILD PLAYLIST
 # =====================================================
 
-def build_playlist(
-    streams
-):
+def build_playlist(streams):
 
     total_streams = 0
     total_drm = 0
@@ -483,13 +499,6 @@ def build_playlist(
             total_streams += 1
 
             stream = item["stream"]
-            event_name = item["event_name"]
-            event_id = item["event_id"]
-            category = item["category"]
-            start_time = item["start_time"]
-            end_time = item["end_time"]
-            stream_url = item["stream_url"]
-            headers = item["headers"]
 
             stream_title = (
                 stream.get(
@@ -498,16 +507,9 @@ def build_playlist(
                 )
             )
 
-            stream_logo = (
+            logo = (
                 stream.get(
                     "logo",
-                    ""
-                )
-            )
-
-            stream_type = str(
-                stream.get(
-                    "type",
                     ""
                 )
             )
@@ -517,23 +519,30 @@ def build_playlist(
                 ""
             )
 
+            stream_type = str(
+                stream.get(
+                    "type",
+                    ""
+                )
+            )
+
             channel_name = (
-                f"{event_name} | "
+                f"{item['event_name']} | "
                 f"{stream_title}"
             )
 
             m3u.write(
                 f'#EXTINF:-1 '
-                f'tvg-id="{event_id}" '
+                f'tvg-id="{item["event_id"]}" '
                 f'tvg-name="{channel_name}" '
-                f'tvg-logo="{stream_logo}" '
-                f'group-title="{category}",'
+                f'tvg-logo="{logo}" '
+                f'group-title="{item["category"]}",'
                 f'{channel_name}\n'
             )
 
             write_vlc_options(
                 m3u,
-                headers
+                item["headers"]
             )
 
             if (
@@ -562,97 +571,32 @@ def build_playlist(
                 )
 
                 m3u.write(
-                    "#KODIPROP:inputstream.adaptive.license_key="
-                    f"{kid}:{key}\n"
+                    f"#KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n"
                 )
 
             m3u.write(
-                stream_url +
-                "\n\n"
+                item["stream_url"]
+                + "\n\n"
             )
 
             log(
-                f"[{now_log()}] EVENT={event_name}"
-            )
-
-            log(
-                f"START={start_time}"
-            )
-
-            log(
-                f"END={end_time}"
-            )
-
-            log(
-                f"CATEGORY={category}"
-            )
-
-            log(
-                f"STREAM={stream_title}"
-            )
-
-            log(
-                f"TYPE={stream_type}"
-            )
-
-            log(
-                f"URL={stream_url}"
-            )
-
-            if headers.get(
-                "referer"
-            ):
-                log(
-                    f"REFERER={headers['referer']}"
-                )
-
-            if headers.get(
-                "origin"
-            ):
-                log(
-                    f"ORIGIN={headers['origin']}"
-                )
-
-            if headers.get(
-                "user-agent"
-            ):
-                log(
-                    f"USER_AGENT={headers['user-agent']}"
-                )
-
-            if (
-                drm
-                and ":" in drm
-            ):
-                log("DRM=YES")
-            else:
-                log("DRM=NO")
-
-            log(
-                "-" * 80
+                f"[{now_log()}] "
+                f"{channel_name}"
             )
 
     log("")
     log("=" * 80)
-    log(
-        f"TOTAL_VALID_STREAMS={total_streams}"
-    )
-    log(
-        f"TOTAL_DRM_STREAMS={total_drm}"
-    )
+    log(f"TOTAL_VALID={total_streams}")
+    log(f"TOTAL_DRM={total_drm}")
     log("=" * 80)
+
+    flush_log()
 
 # =====================================================
 # MAIN
 # =====================================================
 
 def main():
-
-    open(
-        LOG_FILE,
-        "w",
-        encoding="utf-8"
-    ).close()
 
     print(
         "Downloading feed..."
@@ -683,7 +627,8 @@ def main():
     )
 
     print(
-        f"Alive streams: {len(valid_streams)}"
+        f"Alive streams: "
+        f"{len(valid_streams)}"
     )
 
     build_playlist(
@@ -691,14 +636,17 @@ def main():
     )
 
     print(
-        f"Playlist written: {M3U_FILE}"
+        f"Playlist written: "
+        f"{M3U_FILE}"
     )
 
     print(
-        f"Log written: {LOG_FILE}"
+        f"Log written: "
+        f"{LOG_FILE}"
     )
 
-    print("Done.")
+    print("Done")
+
 
 if __name__ == "__main__":
     main()
