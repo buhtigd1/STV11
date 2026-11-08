@@ -22,7 +22,7 @@ from urllib3.util.retry import Retry
 # =====================================================
 
 SOURCE_URL = (
-    "https://githubusercontent.com"
+    "https://raw.githubusercontent.com/"
     "darkbyteprojects/iptv_png/main/provider_6/live_events.json"
 )
 
@@ -79,7 +79,8 @@ def flush_log():
     ) as f:
 
         f.write(
-            "\n".join(log_buffer)
+            "
+".join(log_buffer)
         )
 
 
@@ -105,16 +106,11 @@ def format_jkt_timerange(
         return ""
 
     try:
+        start_time = start_time.strip()
+        end_time = end_time.strip()
 
-        start_dt = datetime.strptime(
-            start_time,
-            "%Y/%m/%d %H:%M:%S %z"
-        )
-
-        end_dt = datetime.strptime(
-            end_time,
-            "%Y/%m/%d %H:%M:%S %z"
-        )
+        start_dt = datetime.fromisoformat(start_time.replace("/", "-").replace(" ", "T"))
+        end_dt = datetime.fromisoformat(end_time.replace("/", "-").replace(" ", "T"))
 
         start_jkt = (
             start_dt.astimezone(
@@ -135,8 +131,16 @@ def format_jkt_timerange(
         )
 
     except Exception:
-
-        return ""
+        try:
+            start_dt = datetime.strptime(start_time, "%Y/%m/%d %H:%M:%S %z")
+            end_dt = datetime.strptime(end_time, "%Y/%m/%d %H:%M:%S %z")
+            
+            start_jkt = start_dt.astimezone(JAKARTA_TZ)
+            end_jkt = end_dt.astimezone(JAKARTA_TZ)
+            
+            return f"{start_jkt:%H:%M} - {end_jkt:%H:%M}"
+        except Exception:
+            return ""
 
 # =====================================================
 # URL HELPERS
@@ -552,3 +556,178 @@ def build_playlist(streams):
 
             total_streams += 1
 
+            stream = item["stream"]
+
+            stream_title = (
+                stream.get(
+                    "title",
+                    "Unknown"
+                )
+            )
+
+            logo = (
+                stream.get(
+                    "logo",
+                    ""
+                )
+            )
+
+            drm = stream.get(
+                "api",
+                ""
+            )
+
+            stream_type = str(
+                stream.get(
+                    "type",
+                    ""
+                )
+            )
+
+            time_range = format_jkt_timerange(
+                item["start_time"],
+                item["end_time"]
+            )
+
+            if time_range:
+                channel_name = (
+                    f"{time_range}"
+                    f" - "
+                    f"{item['event_name']}"
+                    f" | "
+                    f"{stream_title}"
+                )
+            else:
+                channel_name = (
+                    f"{item['event_name']}"
+                    f" | "
+                    f"{stream_title}"
+                )
+
+            m3u.write(
+                f'#EXTINF:-1 '
+                f'tvg-id="{item["event_id"]}" '
+                f'tvg-name="{channel_name}" '
+                f'tvg-logo="{logo}" '
+                f'group-title="{item["category"]}",'
+                f'{channel_name}\n'
+            )
+
+            write_vlc_options(
+                m3u,
+                item["headers"]
+            )
+
+            if (
+                stream_type == "1"
+                and drm
+                and ":" in drm
+            ):
+
+                total_drm += 1
+
+                kid, key = drm.split(
+                    ":",
+                    1
+                )
+
+                m3u.write(
+                    "#KODIPROP:inputstream=inputstream.adaptive\n"
+                )
+
+                m3u.write(
+                    "#KODIPROP:inputstream.adaptive.manifest_type=mpd\n"
+                )
+
+                m3u.write(
+                    "#KODIPROP:inputstream.adaptive.license_type=clearkey\n"
+                )
+
+                m3u.write(
+                    f"#KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n"
+                )
+
+            m3u.write(
+                item["stream_url"]
+                + "\n\n"
+            )
+
+            log(
+                f"[{now_log()}] "
+                f"{channel_name}"
+            )
+
+    log("")
+    log("=" * 80)
+    log(f"TOTAL_VALID={total_streams}")
+    log(f"TOTAL_DRM={total_drm}")
+    log("=" * 80)
+
+    flush_log()
+
+# =====================================================
+# MAIN
+# =====================================================
+
+def main():
+
+    print(
+        "Downloading feed..."
+    )
+
+    events = download_events()
+
+    print(
+        f"Loaded {len(events)} events"
+    )
+
+    streams = collect_streams(
+        events
+    )
+
+    print(
+        f"Found {len(streams)} streams"
+    )
+
+    print(
+        "Checking streams..."
+    )
+
+    valid_streams = (
+        validate_streams(
+            streams
+        )
+    )
+
+    print(
+        f"Alive streams: "
+        f"{len(valid_streams)}"
+    )
+
+    valid_streams.sort(
+        key=lambda x: x.get(
+            "start_time",
+            ""
+        )
+    )
+
+
+    build_playlist(
+        valid_streams
+    )
+
+    print(
+        f"Playlist written: "
+        f"{M3U_FILE}"
+    )
+
+    print(
+        f"Log written: "
+        f"{LOG_FILE}"
+    )
+
+    print("Done")
+
+
+if __name__ == "__main__":
+    main()
