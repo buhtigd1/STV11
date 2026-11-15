@@ -1,66 +1,6 @@
-[2026-11-15 16:45:50] EVENT=AEW Dynamite
-START=2026/11/19 01:00:00 +0000
-END=2026/11/19 03:30:00 +0000
-CATEGORY=WWE
-STREAM=TSN SPORTS
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=CANAL5 FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=UFC 334: Gane vs Hokit
-START=2026/11/14 22:00:00 +0000
-END=2026/11/15 05:30:00 +0000
-CATEGORY=UFC
-STREAM=SportsNet FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=UFC 334: Gane vs Hokit
-START=2026/11/14 22:00:00 +0000
-END=2026/11/15 05:30:00 +0000
-CATEGORY=UFC
-STREAM=TNT SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=MotoGP - Grand Premio de Portugal
-START=2026/11/20 10:45:00 +0000
+[2026-11-15 22:24:55] EVENT=ONE Friday Fights
+START=2026/11/20 13:30:00 +0000
 END=2026/11/20 16:30:00 +0000
-CATEGORY=MotoGP
-STREAM=TNT SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=MotoGP - Grand Premio de Portugal
-START=2026/11/20 10:45:00 +0000
-END=2026/11/20 16:30:00 +0000
-CATEGORY=MotoGP
-STREAM=SKY TOP EVENT
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=ONE Friday Fights
-START=2026/11/13 13:30:00 +0000
-END=2026/11/13 16:30:00 +0000
 CATEGORY=Boxing
 STREAM=One Friday Fights FHD
 TYPE=1
@@ -68,57 +8,7 @@ URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=MotoGP - Grand Premio de Portugal
-START=2026/11/20 10:45:00 +0000
-END=2026/11/20 16:30:00 +0000
-CATEGORY=MotoGP
-STREAM=FANCODE FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=FANCODE - FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=SporTV BR FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=MotoGP - Grand Premio de Portugal
-START=2026/11/20 10:45:00 +0000
-END=2026/11/20 16:30:00 +0000
-CATEGORY=MotoGP
-STREAM=MotoGP FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Afghanistan vs Zimbabwe
-START=2026/11/16 06:00:00 +0000
-END=2026/11/16 14:00:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW ALT
-TYPE=1
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
 START=2026/11/20 00:30:00 +0000
 END=2026/11/20 05:30:00 +0000
 CATEGORY=F1
@@ -128,7 +18,136 @@ URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fz
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Afghanistan vs Zimbabwe
+[2026-11-15 22:24:55] EVENT=AEW Dynamite
+START=2026/11/19 01:00:00 +0000
+END=2026/11/19 03:30:00 +0000
+CATEGORY=WWE
+STREAM=TSN SPORTS
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=AEW Dynamite
+START=2026/11/19 01:00:00 +0000
+END=2026/11/19 03:30:00 +0000
+CATEGORY=WWE
+STREAM=Fox Sports Premium
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=MotoGP - Grand Premio de Portugal
+START=2026/11/20 10:45:00 +0000
+END=2026/11/20 16:30:00 +0000
+CATEGORY=MotoGP
+STREAM=FANCODE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
+START=2026/11/16 01:20:00 +0000
+END=2026/11/16 04:45:00 +0000
+CATEGORY=NFL
+STREAM=TSN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=MotoGP - Grand Premio de Portugal
+START=2026/11/20 10:45:00 +0000
+END=2026/11/20 16:30:00 +0000
+CATEGORY=MotoGP
+STREAM=MotoGP FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=FANCODE - FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=CANAL5 FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=ATP 250 & WTA Hong Kong
+START=2026/11/15 20:00:00 +0000
+END=2026/11/16 01:30:00 +0000
+CATEGORY=Tennis
+STREAM=ATP 250 FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
+START=2026/11/16 01:20:00 +0000
+END=2026/11/16 04:45:00 +0000
+CATEGORY=NFL
+STREAM=SporTV BR FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=ATP 250 & WTA Hong Kong
+START=2026/11/15 20:00:00 +0000
+END=2026/11/16 01:30:00 +0000
+CATEGORY=Tennis
+STREAM=SKY SPORT TENNIS
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Abu Dhabi T10 League
+START=2026/11/16 13:45:00 +0000
+END=2026/11/16 18:15:00 +0000
+CATEGORY=Cricket
+STREAM=PREMIER SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=REDZONE FHD
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=RedZone - Week 10
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Afghanistan vs Zimbabwe
 START=2026/11/16 06:00:00 +0000
 END=2026/11/16 14:00:00 +0000
 CATEGORY=Cricket
@@ -139,147 +158,17 @@ REFERER=https://fancode.com/
 USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
-START=2026/11/16 01:20:00 +0000
-END=2026/11/16 04:45:00 +0000
-CATEGORY=NFL
-STREAM=TSN4 SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
-START=2026/11/16 01:20:00 +0000
-END=2026/11/16 04:45:00 +0000
-CATEGORY=NFL
-STREAM=SKY TOP EVENT
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=ATP 250 & WTA Hong Kong
-START=2026/11/15 10:30:00 +0000
-END=2026/11/15 16:30:00 +0000
-CATEGORY=Tennis
-STREAM=ATP 250 FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=NFL REDZONE
-START=2026/11/15 17:55:00 +0000
-END=2026/11/16 00:00:00 +0000
-CATEGORY=NFL
-STREAM=REDZONE FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=ATP 250 & WTA Hong Kong
-START=2026/11/15 10:30:00 +0000
-END=2026/11/15 16:30:00 +0000
-CATEGORY=Tennis
-STREAM=SKY SPORT TENNIS
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=ATP 250 & WTA Hong Kong
-START=2026/11/15 10:30:00 +0000
-END=2026/11/15 16:30:00 +0000
-CATEGORY=Tennis
-STREAM=TENNIS CHANNEL 2
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=NFL REDZONE
-START=2026/11/15 17:55:00 +0000
-END=2026/11/16 00:00:00 +0000
-CATEGORY=NFL
-STREAM=RedZone FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
-START=2026/11/16 01:20:00 +0000
-END=2026/11/16 04:45:00 +0000
-CATEGORY=NFL
-STREAM=TSN SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Abu Dhabi T10 League
-START=2026/11/15 13:45:00 +0000
-END=2026/11/15 18:15:00 +0000
+[2026-11-15 22:24:55] EVENT=Abu Dhabi T10 League
+START=2026/11/16 13:45:00 +0000
+END=2026/11/16 18:15:00 +0000
 CATEGORY=Cricket
-STREAM=WILLOW - FHD
+STREAM=WILLOW ALT
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
+URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pcfnauj90i/out/v1/ce20f95d46394bbdb2d7361cc89efe65/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Abu Dhabi T10 League
-START=2026/11/15 13:45:00 +0000
-END=2026/11/15 18:15:00 +0000
-CATEGORY=Cricket
-STREAM=PREMIER SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Afghanistan vs Zimbabwe
-START=2026/11/16 06:00:00 +0000
-END=2026/11/16 14:00:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Abu Dhabi T10 League
-START=2026/11/15 13:45:00 +0000
-END=2026/11/15 18:15:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - ALT
-TYPE=1
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
-START=2026/11/18 03:30:00 +0000
-END=2026/11/18 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - FHD
-TYPE=1
-URL=https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frnwp7duze/out/v1/06c035ed904d463d8c01cced7e6b89a0/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=ATP 250 & WTA Hong Kong
-START=2026/11/15 10:30:00 +0000
-END=2026/11/15 16:30:00 +0000
-CATEGORY=Tennis
-STREAM=WTA FINALS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Dallas Cowboys vs San Francisco 49ers
+[2026-11-15 22:24:55] EVENT=Dallas Cowboys vs San Francisco 49ers
 START=2026/11/15 21:25:00 +0000
 END=2026/11/16 00:50:00 +0000
 CATEGORY=NFL
@@ -288,7 +177,17 @@ TYPE=0
 URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=MotoGP - Grand Premio de Portugal
+[2026-11-15 22:24:55] EVENT=MotoGP - Grand Premio de Portugal
+START=2026/11/20 10:45:00 +0000
+END=2026/11/20 16:30:00 +0000
+CATEGORY=MotoGP
+STREAM=TNT SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=MotoGP - Grand Premio de Portugal
 START=2026/11/20 10:45:00 +0000
 END=2026/11/20 16:30:00 +0000
 CATEGORY=MotoGP
@@ -298,94 +197,7 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
-START=2026/11/18 03:30:00 +0000
-END=2026/11/18 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=FANCODE FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
-START=2026/11/18 03:30:00 +0000
-END=2026/11/18 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW ALT
-TYPE=1
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frnwp7duze/out/v1/06c035ed904d463d8c01cced7e6b89a0/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Nepal Premier League
-START=2026/11/15 06:45:00 +0000
-END=2026/11/15 15:15:00 +0000
-CATEGORY=NPL
-STREAM=FANCODE FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New York Jets vs Buffalo Bills
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:25:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Nepal Premier League
-START=2026/11/15 06:45:00 +0000
-END=2026/11/15 15:15:00 +0000
-CATEGORY=NPL
-STREAM=FANCODE - IN
-TYPE=0
-URL=https://dai-fancode.pages.dev/mumbai/4250374_english_hls_b7c929ff7638952_1ta-di_h264/index.m3u8
-REFERER=https://fancode.com/
-USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Las Vegas Raiders vs Seattle Seahawks
-START=2026/11/15 21:05:00 +0000
-END=2026/11/16 00:30:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Arizona Cardinals vs Los Angeles Rams
-START=2026/11/15 21:05:00 +0000
-END=2026/11/16 00:30:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Tennessee Titans vs Jacksonville Jaguars
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:25:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
-START=2026/11/18 22:00:00 +0000
-END=2026/11/19 06:00:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
+[2026-11-15 22:24:55] EVENT=Australia vs England
 START=2026/11/18 03:30:00 +0000
 END=2026/11/18 11:30:00 +0000
 CATEGORY=Cricket
@@ -395,17 +207,210 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
-START=2026/11/16 01:20:00 +0000
-END=2026/11/16 04:45:00 +0000
-CATEGORY=NFL
-STREAM=SporTV BR FHD
+[2026-11-15 22:24:55] EVENT=ATP 250 & WTA Hong Kong
+START=2026/11/15 20:00:00 +0000
+END=2026/11/16 01:30:00 +0000
+CATEGORY=Tennis
+STREAM=TENNIS CHANNEL 2
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
+[2026-11-15 22:24:55] EVENT=Australia vs England
+START=2026/11/18 03:30:00 +0000
+END=2026/11/18 11:30:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=ATP 250 & WTA Hong Kong
+START=2026/11/15 20:00:00 +0000
+END=2026/11/16 01:30:00 +0000
+CATEGORY=Tennis
+STREAM=WTA FINALS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Nepal Premier League
+START=2026/11/18 11:15:00 +0000
+END=2026/11/18 15:00:00 +0000
+CATEGORY=NPL
+STREAM=FANCODE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Las Vegas Raiders vs Seattle Seahawks
+START=2026/11/15 21:05:00 +0000
+END=2026/11/16 00:30:00 +0000
+CATEGORY=NFL
+STREAM=TSN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Abu Dhabi T10 League
+START=2026/11/16 13:45:00 +0000
+END=2026/11/16 18:15:00 +0000
+CATEGORY=Cricket
+STREAM=WILLOW FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pcfnauj90i/out/v1/ce20f95d46394bbdb2d7361cc89efe65/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Arizona Cardinals vs Los Angeles Rams
+START=2026/11/15 21:05:00 +0000
+END=2026/11/16 00:30:00 +0000
+CATEGORY=NFL
+STREAM=SportzX Live
+TYPE=0
+URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Nepal Premier League
+START=2026/11/18 11:15:00 +0000
+END=2026/11/18 15:00:00 +0000
+CATEGORY=NPL
+STREAM=FANCODE - IN
+TYPE=0
+URL=https://dai-fancode.pages.dev/mumbai/4250374_english_hls_b7c929ff7638952_1ta-di_h264/index.m3u8
+REFERER=https://fancode.com/
+USER_AGENT=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=New York Jets vs Buffalo Bills
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:25:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y2rrynnf1c/out/v1/34ef59059d1c4b66a39ab8ba4ca3254c/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=SERVER 1 HD [USA]
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/60154/load-playlist?
+REFERER=https://gooz.aapmains.net
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=SportzX NFL REDZONE
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/60188/load-playlist?
+REFERER=https://gooz.aapmains.net
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=SKY ITALIA [FHD]
+TYPE=0
+URL=https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31869
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=SKY SPORTS [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/f1/2026/brazil/race
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=DAZN ESPANOL [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31867
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=SERVER 2 HD [USA]
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/60153/load-playlist?
+REFERER=https://gooz.aapmains.net
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
+START=2026/11/16 01:20:00 +0000
+END=2026/11/16 04:45:00 +0000
+CATEGORY=NFL
+STREAM=NFL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nfl/2026-11-12/wsh-nyg
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=APPLE TV [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31865
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=🥊 WWE Friday Night SmackDown
+START=2026/11/21 01:00:00 +0000
+END=2026/11/21 03:30:00 +0000
+CATEGORY=WWE
+STREAM=SPX LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/wwe/2026-10-23
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=🥊 WWE NXT
+START=2026/11/18 01:00:00 +0000
+END=2026/11/18 02:45:00 +0000
+CATEGORY=WWE
+STREAM=NXT LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/wwe/2026-11-10
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Tennessee Titans vs Jacksonville Jaguars
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:25:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/83htm3sfrd/out/v1/b22b72312cca4b54be427642784abb9b/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=SERVER 3 HD [USA]
+TYPE=0
+URL=https://chatgpt.hereisman.net/playlist/60152/load-playlist?
+REFERER=https://gooz.aapmains.net
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=New Zealand vs India
 START=2026/11/18 22:00:00 +0000
 END=2026/11/19 06:00:00 +0000
 CATEGORY=Cricket
@@ -415,17 +420,190 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
-START=2026/11/18 22:00:00 +0000
-END=2026/11/19 06:00:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - AdFree
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=NFL Konferenz - Week 10
 TYPE=1
-URL=https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd?
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Spain vs England
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=SporTV BR FHD
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=MotoGP - Grand Premio de Portugal
+START=2026/11/20 10:45:00 +0000
+END=2026/11/20 16:30:00 +0000
+CATEGORY=MotoGP
+STREAM=SKY TOP EVENT
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
+START=2026/11/16 01:20:00 +0000
+END=2026/11/16 04:45:00 +0000
+CATEGORY=NFL
+STREAM=SKY TOP EVENT
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=VIX Espanol FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5o9hdmdfrm/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=SporTV BR FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Australia vs England
+START=2026/11/18 03:30:00 +0000
+END=2026/11/18 11:30:00 +0000
+CATEGORY=Cricket
+STREAM=EUROSPORT FHD
+TYPE=1
+URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mqwyj7yhod/out/v1/edcfd775dcd740d99bc7c8469b70c0ce/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Afghanistan vs Zimbabwe
+START=2026/11/16 06:00:00 +0000
+END=2026/11/16 14:00:00 +0000
+CATEGORY=Cricket
+STREAM=A SPORTS HD
+TYPE=0
+URL=https://live.msnetworks.net/a-sports/master.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=beIN ENGLISH FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Formula 1 -  Las Vegas Grand Prix
+START=2026/11/20 00:30:00 +0000
+END=2026/11/20 05:30:00 +0000
+CATEGORY=F1
+STREAM=Sportscast FHD
+TYPE=0
+URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Anaheim Ducks vs Calgary Flames
+START=2026/11/16 01:00:00 +0000
+END=2026/11/16 04:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-11-11/nyr-cgy
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Womens Big Bash League
+START=2026/11/16 08:10:00 +0000
+END=2026/11/16 12:00:00 +0000
+CATEGORY=WBBL
+STREAM=WILLOW HD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=PRIME VIDEO FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=San Jose Sharks vs Nashville Predators
+START=2026/11/16 02:00:00 +0000
+END=2026/11/16 05:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-11-11/uta-vgk
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Belgium vs Italy
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9ygvtffy/out/v1/f2a8c782c6664f649cf5ec23e4f578af/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Utah Jazz vs San Antonio Spurs
+START=2026/11/15 22:00:00 +0000
+END=2026/11/16 01:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nba/2026-11-14/den-no
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=NFL REDZONE
+START=2026/11/15 17:55:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NFL
+STREAM=REDZONE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nfl-redzone-31494
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN DE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3opisbkm9a/out/v1/8560528057dd440a999dbe0dab98147e/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
 START=2026/11/15 19:45:00 +0000
 END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
@@ -435,349 +613,65 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Spain vs England
-START=2026/11/15 19:45:00 +0000
-END=2026/11/15 21:50:00 +0000
-CATEGORY=UEFA Nations
-STREAM=SporTV BR FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
-START=2026/11/18 03:30:00 +0000
-END=2026/11/18 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - AdFree
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=France vs Türkiye
-START=2026/11/15 19:45:00 +0000
-END=2026/11/15 21:50:00 +0000
-CATEGORY=UEFA Nations
-STREAM=FOX SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Belgium vs Italy
-START=2026/11/15 19:45:00 +0000
-END=2026/11/15 21:50:00 +0000
-CATEGORY=UEFA Nations
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Spain vs England
-START=2026/11/15 19:45:00 +0000
-END=2026/11/15 21:50:00 +0000
-CATEGORY=UEFA Nations
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Indianapolis Colts vs Miami Dolphins
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:20:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=AEW Dynamite
-START=2026/11/19 01:00:00 +0000
-END=2026/11/19 03:30:00 +0000
-CATEGORY=WWE
-STREAM=Fox Sports Premium
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Afghanistan vs Zimbabwe
-START=2026/11/16 06:00:00 +0000
-END=2026/11/16 14:00:00 +0000
-CATEGORY=Cricket
-STREAM=A SPORTS HD
-TYPE=0
-URL=https://live.msnetworks.net/a-sports/master.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cleveland Browns vs Houston Texans
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:20:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Milwaukee Bucks vs Atlanta Hawks
-START=2026/11/16 01:00:00 +0000
-END=2026/11/16 04:00:00 +0000
+[2026-11-15 22:24:55] EVENT=Boston Celtics vs Dallas Mavericks
+START=2026/11/15 23:00:00 +0000
+END=2026/11/16 02:00:00 +0000
 CATEGORY=NBA
 STREAM=NBA LIVE [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-11-11/orl-utah
+URL=https://taifood-blog.asia/embed/nba/2026-11-14/dal-cle
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Atlanta Falcons vs Kansas City Chiefs
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:20:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=TSN SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=NFL REDZONE
-START=2026/11/15 17:55:00 +0000
-END=2026/11/16 00:00:00 +0000
-CATEGORY=NFL
-STREAM=REDZONE [FHD]
+[2026-11-15 22:24:55] EVENT=🥊 WWE Monday Night RAW
+START=2026/11/17 01:00:00 +0000
+END=2026/11/17 03:30:00 +0000
+CATEGORY=WWE
+STREAM=WWE RAW [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nfl-redzone-31494
+URL=https://embedindia.st/embed/wwe/2026-08-24
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=SKY SPORTS [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/f1/2026/brazil/race
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Finland vs San Marino
-START=2026/11/15 17:00:00 +0000
-END=2026/11/15 19:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=SporTV BR FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Washington Wizards vs Houston Rockets
+[2026-11-15 22:24:55] EVENT=Washington Wizards vs Houston Rockets
 START=2026/11/16 00:00:00 +0000
 END=2026/11/16 03:00:00 +0000
 CATEGORY=NBA
 STREAM=NBA LIVE [FHD]
 TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-11-13/gs-sa
+URL=https://taifood-blog.asia/embed/nba/2026-11-13/cle-mia
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=NFL GAMEPASS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pwrdfli7tm/out/v1/e34552c7d03d4389b2c501b17bb08bbb/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=UFC 334: Gane vs Hokit
-START=2026/11/14 22:00:00 +0000
-END=2026/11/15 05:30:00 +0000
-CATEGORY=UFC
-STREAM=UFC TV FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Croatia vs Czechia
+[2026-11-15 22:24:55] EVENT=France vs Türkiye
 START=2026/11/15 19:45:00 +0000
 END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
+STREAM=DAZN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btkkuwb4qs/out/v1/327b33c3e0c34b8382ead83b198974e4/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Orleans Saints vs Carolina Panthers
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:00:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
+[2026-11-15 22:24:55] EVENT=France vs Türkiye
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN DE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l7pazgldun/out/v1/16db68303c184d1f8839fae9dbebc6dc/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Toronto Raptors vs New York Knicks
-START=2026/11/15 23:00:00 +0000
-END=2026/11/16 02:00:00 +0000
+[2026-11-15 22:24:55] EVENT=Sacramento Kings vs Oklahoma City Thunder
+START=2026/11/16 02:00:00 +0000
+END=2026/11/16 05:00:00 +0000
 CATEGORY=NBA
 STREAM=NBA LIVE [FHD]
 TYPE=2
 URL=https://taifood-blog.asia/embed/nba/2026-11-13/utah-hou
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=🥊 WWE NXT
-START=2026/11/18 01:00:00 +0000
-END=2026/11/18 02:45:00 +0000
-CATEGORY=WWE
-STREAM=NXT LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/wwe/2026-11-10
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=FOX NFL (Multi Audio)
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd6zs31t5x/out/v1/45b3a622367b4e3a901350eb9bf0ef70/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=DAZN ESPANOL [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31867
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=🥊 WWE Friday Night SmackDown
-START=2026/11/21 01:00:00 +0000
-END=2026/11/21 03:30:00 +0000
-CATEGORY=WWE
-STREAM=SPX LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/wwe/2026-10-23
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cincinnati Bengals vs Pittsburgh Steelers
-START=2026/11/16 01:20:00 +0000
-END=2026/11/16 04:45:00 +0000
-CATEGORY=NFL
-STREAM=NFL LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nfl/2026-11-12/wsh-nyg
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Green Bay Packers vs Minnesota Vikings
-START=2026/11/15 18:00:00 +0000
-END=2026/11/15 21:20:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=SKY TOP EVENT DE
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=APPLE TV [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31865
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=SKY ITALIA [FHD]
-TYPE=0
-URL=https://taifood-blog.asia/embed/so-paulo-grand-prix---race-31869
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Latvia vs Armenia
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=PRIME VIDEO FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/te0xlcvi8o/out/v1/d5cd6d7f35c9452bbf7f2b88cf1f50fa/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Belarus vs Albania
-START=2026/11/15 17:00:00 +0000
-END=2026/11/15 19:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
-START=2026/11/18 03:30:00 +0000
-END=2026/11/18 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=EUROSPORT FHD
-TYPE=1
-URL=https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Finland vs San Marino
-START=2026/11/15 17:00:00 +0000
-END=2026/11/15 19:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Womens Big Bash League
-START=2026/11/15 00:00:00 +0000
-END=2026/11/15 03:45:00 +0000
-CATEGORY=WBBL
-STREAM=WILLOW HD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
-START=2026/11/18 22:00:00 +0000
-END=2026/11/19 06:00:00 +0000
-CATEGORY=Cricket
-STREAM=PRIME VIDEO (ENG)
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cyprus vs Montenegro
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
+[2026-11-15 22:24:55] EVENT=France vs Türkiye
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
 STREAM=FOX SPORTS FHD
 TYPE=1
@@ -785,57 +679,154 @@ URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cyprus vs Montenegro
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
+[2026-11-15 22:24:55] EVENT=Croatia vs Czechia
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=VIX Espanol FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljtyc73ncu/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Belgium vs Italy
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
 STREAM=beIN ENGLISH FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cyprus vs Montenegro
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
+[2026-11-15 22:24:55] EVENT=France vs Türkiye
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
-STREAM=DAZN DE FHD
+STREAM=PRIME VIDEO FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wsyguk1bci/out/v1/9d403908062b4c5a89a55aaab9089e88/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
-START=2026/11/18 22:00:00 +0000
-END=2026/11/19 06:00:00 +0000
+[2026-11-15 22:24:55] EVENT=France vs Türkiye
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=VIX Espanol FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eommy1gias/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=New Orleans Saints vs Carolina Panthers
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:00:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ifjybqejqo/out/v1/f264a6f0902043b5954446e7c6c9d6ce/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Abu Dhabi T10 League
+START=2026/11/16 13:45:00 +0000
+END=2026/11/16 18:15:00 +0000
 CATEGORY=Cricket
-STREAM=PRIME VIDEO (HINDI)
+STREAM=A SPORTS HD
+TYPE=0
+URL=https://live.msnetworks.net/a-sports/master.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Indianapolis Colts vs Miami Dolphins
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:20:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
 TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vytnkohxt5/out/v1/6181c6768150423bbfa85b75d5fcd89b/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Aston Villa vs Birmingham City
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=PARAMOUNT+ FHD
+[2026-11-15 22:24:55] EVENT=Green Bay Packers vs Minnesota Vikings
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:20:00 +0000
+CATEGORY=NFL
+STREAM=SKY SPORTS DE
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fy8ludqawe/out/v1/4b54b3e5335b48d18ef24650b74af3b6/cenc.mpd
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dx7fjyczsc/out/v1/21060bea914849c1a19a342b5edb6433/cenc.mpd?
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
-START=2026/11/15 08:00:00 +0000
-END=2026/11/15 16:00:00 +0000
+[2026-11-15 22:24:55] EVENT=Green Bay Packers vs Minnesota Vikings
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:20:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3xzvxryq7v/out/v1/a6d11bac14e9484fa28dec8dd14953f5/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Australia vs England
+START=2026/11/18 03:30:00 +0000
+END=2026/11/18 11:30:00 +0000
 CATEGORY=Cricket
-STREAM=WILLOW - AdFree
+STREAM=TEN SPORTS HD
+TYPE=0
+URL=https://live.msnetworks.net/ten-sports/master.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Croatia vs Czechia
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN SPORTS FHD
 TYPE=1
-URL=https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqkmudm6kl/out/v1/ce953cf5a44a4dd38a8d9dc254bd9faa/cenc.mpd?
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2csfd49imd/out/v1/9dfa731721a4448db026417ddadd0ee8/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
+[2026-11-15 22:24:55] EVENT=Atlanta Falcons vs Kansas City Chiefs
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:20:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/in1wmsodu8/out/v1/6eeb0c12a8ee4bea934b8277bf946e2e/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Atlanta Falcons vs Kansas City Chiefs
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:20:00 +0000
+CATEGORY=NFL
+STREAM=TSN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Belgium vs Italy
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=PRIME VIDEO FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Spain vs England
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=beIN ARABIC FHD
+TYPE=0
+URL=https://yll6.akbarnews.store/cdn/native/live1/index-single.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
 START=2026/11/15 08:00:00 +0000
 END=2026/11/15 16:00:00 +0000
 CATEGORY=Cricket
@@ -845,29 +836,9 @@ URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojks
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Latvia vs Armenia
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=beIN ENGLISH FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=West Ham vs Charlton Athletic WFC
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=CBS SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Latvia vs Armenia
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
+[2026-11-15 22:24:55] EVENT=Belgium vs Italy
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
 STREAM=VIX Espanol FHD
 TYPE=1
@@ -875,17 +846,57 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwjlmyb59s/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cyprus vs Montenegro
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
+[2026-11-15 22:24:55] EVENT=Croatia vs Czechia
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
-STREAM=PRIME VIDEO FHD
+STREAM=DAZN DE FHD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aghlyfvogt/out/v1/4d5a657a11624b12856887453a15b612/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzur2f1qsc/out/v1/5fcb992037b94b11a88b769cc053f52c/cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
+[2026-11-15 22:24:55] EVENT=Womens Big Bash League
+START=2026/11/16 08:10:00 +0000
+END=2026/11/16 12:00:00 +0000
+CATEGORY=WBBL
+STREAM=SKY CRICKET FHD
+TYPE=0
+URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+USER_AGENT=Mozilla
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Darts vs Darts
+START=2026/11/15 19:00:00 +0000
+END=2026/11/15 21:30:00 +0000
+CATEGORY=Darts
+STREAM=DAZN SPORTS FHD
+TYPE=1
+URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x2r5rfygmf/out/v1/7b7ddfe857944ea6af8c86355e1739a9/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Belgium vs Italy
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN DE FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/frzpzzfco1/out/v1/1ae9f967882d4643948b52a15ddcae55/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Croatia vs Czechia
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=PRIME VIDEO FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
 START=2026/11/15 08:00:00 +0000
 END=2026/11/15 16:00:00 +0000
 CATEGORY=Cricket
@@ -895,194 +906,47 @@ URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Latvia vs Armenia
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=DAZN SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfvwrztx8j/out/v1/f1c6c8f0ca414b70b148bedd0f394213/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=West Ham vs Charlton Athletic WFC
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=PARAMOUNT+ FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdzcv4csas/out/v1/66773808a33946ddadf301ad59f9484e/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cyprus vs Montenegro
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=VIX Espanol FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/khw3chre2o/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
-START=2026/11/18 22:00:00 +0000
-END=2026/11/19 06:00:00 +0000
-CATEGORY=Cricket
-STREAM=WILLOW - ALT
-TYPE=1
-URL=https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Arsenal vs London City Lionesses
-START=2026/11/15 16:30:00 +0000
-END=2026/11/15 18:35:00 +0000
-CATEGORY=Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Leicester Tigers vs Saracens
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 15:30:00 +0000
-CATEGORY=Rugby
-STREAM=TNT SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Formula 1 -  Las Vegas Grand Prix
-START=2026/11/20 00:30:00 +0000
-END=2026/11/20 05:30:00 +0000
-CATEGORY=F1
-STREAM=Sportscast FHD
-TYPE=0
-URL=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=GOLF EVENTO vs GOLF EVENTO
-START=2026/11/11 01:00:00 +0000
-END=2026/11/11 05:00:00 +0000
-CATEGORY=Golf
-STREAM=SKY GOLF - AQ
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=GOLF EVENTO vs GOLF EVENTO
-START=2026/11/11 01:00:00 +0000
-END=2026/11/11 05:00:00 +0000
-CATEGORY=Golf
-STREAM=SKY GOLF ALT - AQ
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=CD Eldense vs CE Sabadell
-START=2026/11/15 17:30:00 +0000
-END=2026/11/15 19:30:00 +0000
-CATEGORY=LaLiga 2
-STREAM=SportzX Live
-TYPE=0
-URL=https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=SERVER 1 HD (USA)
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/60146/load-playlist-multi?
-REFERER=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Darts vs Darts
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 16:00:00 +0000
-CATEGORY=Darts
-STREAM=DAZN SPORTS FHD
-TYPE=1
-URL=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1ho3uqzph/out/v1/80dc1109c369453f84d521637eae5927/cenc.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Darts vs Darts
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 16:00:00 +0000
-CATEGORY=Darts
-STREAM=SPORT 1 DE - FHD
-TYPE=1
-URL=https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=LOW SERVER
-TYPE=0
-URL=http://193.47.62.50/hls/K555AAAAA.m3u8
-REFERER=http://www.fawanews.sc/
-ORIGIN=http://www.fawanews.sc
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Sacramento Kings vs Oklahoma City Thunder
-START=2026/11/16 02:00:00 +0000
-END=2026/11/16 05:00:00 +0000
-CATEGORY=NBA
-STREAM=NBA LIVE [FHD]
-TYPE=2
-URL=https://taifood-blog.asia/embed/nba/2026-11-13/okc-lac
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=🥊 WWE Monday Night RAW
-START=2026/11/17 01:00:00 +0000
-END=2026/11/17 03:30:00 +0000
-CATEGORY=WWE
-STREAM=WWE RAW [FHD]
-TYPE=2
-URL=https://embedindia.st/embed/wwe/2026-08-24
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Cyprus vs Montenegro
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=DAZN SPORTS FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wefdfonlnc/out/v1/4bd2d041433b4b58861d63df0b1677c6/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
 START=2026/11/15 08:00:00 +0000
 END=2026/11/15 16:00:00 +0000
 CATEGORY=Cricket
-STREAM=SKY SPORTS CRICKET
+STREAM=WILLOW - AdFree
+TYPE=1
+URL=https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqkmudm6kl/out/v1/ce953cf5a44a4dd38a8d9dc254bd9faa/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=France vs Türkiye
+START=2026/11/15 19:45:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=beIN SPORTS FHD
 TYPE=0
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-USER_AGENT=Mozilla
+URL=https://bplive2.akbarnews.store/cdn/native/live1/index-single.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Abu Dhabi T10 League
-START=2026/11/15 13:45:00 +0000
-END=2026/11/15 18:15:00 +0000
-CATEGORY=Cricket
-STREAM=A SPORTS HD
-TYPE=0
-URL=https://live.msnetworks.net/a-sports/master.m3u8
+[2026-11-15 22:24:55] EVENT=Canada vs Sweden
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:00:00 +0000
+CATEGORY=IIHF World
+STREAM=TSN 4
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Dallas Stars vs Florida Panthers
+START=2026/11/16 01:00:00 +0000
+END=2026/11/16 04:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-11-11/phi-edm
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Darts vs Darts
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 16:00:00 +0000
+[2026-11-15 22:24:55] EVENT=Darts vs Darts
+START=2026/11/15 19:00:00 +0000
+END=2026/11/15 21:30:00 +0000
 CATEGORY=Darts
 STREAM=SD STREAM
 TYPE=0
@@ -1092,66 +956,7 @@ ORIGIN=http://www.fawanews.sc
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Aston Villa vs Birmingham City
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-STREAM=SKY SPORTS PL FHD
-TYPE=0
-URL=https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
-USER_AGENT=Mozilla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Latvia vs Armenia
-START=2026/11/15 14:00:00 +0000
-END=2026/11/15 16:05:00 +0000
-CATEGORY=UEFA Nations
-STREAM=DAZN DE FHD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t4wtvmttyz/out/v1/825b0dbbab934e96a99c280ed128d9c9/cenc.mpd
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=SERVER 2 HD (USA)
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/60145/load-playlist-multi?
-REFERER=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Australia vs England
-START=2026/11/18 03:30:00 +0000
-END=2026/11/18 11:30:00 +0000
-CATEGORY=Cricket
-STREAM=TEN SPORTS HD
-TYPE=0
-URL=https://live.msnetworks.net/ten-sports/master.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
-START=2026/11/15 08:00:00 +0000
-END=2026/11/15 16:00:00 +0000
-CATEGORY=Cricket
-STREAM=FANCODE - SD
-TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?
-USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=SportzX Live
-TYPE=0
-URL=https://chatgpt.hereisman.net/playlist/60151/load-playlist-multi?
-REFERER=https://gooz.aapmains.net
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Spain vs England
+[2026-11-15 22:24:55] EVENT=Spain vs England
 START=2026/11/15 19:45:00 +0000
 END=2026/11/15 21:50:00 +0000
 CATEGORY=UEFA Nations
@@ -1161,7 +966,94 @@ URL=https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
+[2026-11-15 22:24:55] EVENT=Vegas Golden Knights vs Vancouver Canucks
+START=2026/11/16 02:00:00 +0000
+END=2026/11/16 05:00:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-11-12/buf-chi
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Nations League Conference
+START=2026/11/15 19:40:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=LOW QUALITY
+TYPE=0
+URL=http://193.47.62.41/hls/EHHHHAAAA.m3u8
+REFERER=http://www.fawanews.sc/
+ORIGIN=http://www.fawanews.sc
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Cleveland Browns vs Houston Texans
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 21:20:00 +0000
+CATEGORY=NFL
+STREAM=FOX NFL (Multi Audio)
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwwunadxtz/out/v1/dcdaf1f4545d4d1897a4b73047b1ba77/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Los Angeles Clippers vs Charlotte Hornets
+START=2026/11/15 21:30:00 +0000
+END=2026/11/16 00:00:00 +0000
+CATEGORY=NBA
+STREAM=NBA LEAGUEPASS FHD
+TYPE=1
+URL=https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0FBYLA6RKBXFY3X5IFPY4P3ZDZ.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Philadelphia 76ers vs Indiana Pacers
+START=2026/11/15 18:00:00 +0000
+END=2026/11/15 20:30:00 +0000
+CATEGORY=NBA
+STREAM=NBA LEAGUEPASS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhsszgzkqm/out/v1/399e859f6c78426686cef709b83826f2/cenc.mpd
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=New Zealand vs India
+START=2026/11/18 22:00:00 +0000
+END=2026/11/19 06:00:00 +0000
+CATEGORY=Cricket
+STREAM=TEN SPORTS HD
+TYPE=0
+URL=https://live.msnetworks.net/ten-sports/master.m3u8
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Nations League Conference
+START=2026/11/15 19:40:00 +0000
+END=2026/11/15 21:50:00 +0000
+CATEGORY=UEFA Nations
+STREAM=DAZN SPORTS FHD
+TYPE=1
+URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/atbmb0eowm/out/v1/011aec11b2784109945a58619eefd430/cenc.mpd?
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Darts vs Darts
+START=2026/11/15 19:00:00 +0000
+END=2026/11/15 21:30:00 +0000
+CATEGORY=Darts
+STREAM=SPORT 1 DE - FHD
+TYPE=1
+URL=https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
+DRM=YES
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=Philadelphia Flyers vs Edmonton Oilers
+START=2026/11/16 00:30:00 +0000
+END=2026/11/16 03:30:00 +0000
+CATEGORY=NHL
+STREAM=NHL LIVE [FHD]
+TYPE=2
+URL=https://taifood-blog.asia/embed/nhl/2026-11-11/tb-buf
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
 START=2026/11/15 08:00:00 +0000
 END=2026/11/15 16:00:00 +0000
 CATEGORY=Cricket
@@ -1171,99 +1063,44 @@ URL=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/ou
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Detroit Lions vs New England Patriots
-START=2026/11/15 14:30:00 +0000
-END=2026/11/15 17:50:00 +0000
-CATEGORY=NFL
-STREAM=FOX DEPORTES
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
+START=2026/11/15 08:00:00 +0000
+END=2026/11/15 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=FANCODE - SD
 TYPE=1
-URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+URL=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?
 USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Granada vs UD Las Palmas
-START=2026/11/15 15:15:00 +0000
-END=2026/11/15 17:15:00 +0000
-CATEGORY=LaLiga 2
-STREAM=Laliga Hypermotion ES
+[2026-11-15 22:24:55] EVENT=Phoenix Suns vs Los Angeles Lakers
+START=2026/11/15 21:00:00 +0000
+END=2026/11/15 23:30:00 +0000
+CATEGORY=NBA
+STREAM=SportzX TV+ HD
 TYPE=1
-URL=https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+URL=https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0Q1P0NHAVWUVI6IKBBEG8TQWPH.mpd
 DRM=YES
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=CD Tenerife vs AD Ceuta
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 15:00:00 +0000
-CATEGORY=LaLiga 2
-STREAM=Laliga Hypermotion ES
-TYPE=1
-URL=https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Eibar vs Cádiz
-START=2026/11/15 17:30:00 +0000
-END=2026/11/15 19:30:00 +0000
-CATEGORY=LaLiga 2
-STREAM=Laliga Hypermotion ES
-TYPE=1
-URL=https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-DRM=YES
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Darts vs Darts
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 16:00:00 +0000
+[2026-11-15 22:24:55] EVENT=Darts vs Darts
+START=2026/11/15 19:00:00 +0000
+END=2026/11/15 21:30:00 +0000
 CATEGORY=Darts
 STREAM=PDC.TV SD
 TYPE=2
 URL=https://taifood-blog.asia/embed/grand-slam-of-darts--day-2-session-1-32251_540p
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Darts vs Darts
-START=2026/11/15 13:00:00 +0000
-END=2026/11/15 16:00:00 +0000
+[2026-11-15 22:24:55] EVENT=Darts vs Darts
+START=2026/11/15 19:00:00 +0000
+END=2026/11/15 21:30:00 +0000
 CATEGORY=Darts
 STREAM=PDC.TV FHD
 TYPE=2
 URL=https://taifood-blog.asia/embed/grand-slam-of-darts--day-2-session-1-32251
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=Womens Big Bash League
-START=2026/11/15 00:00:00 +0000
-END=2026/11/15 03:45:00 +0000
-CATEGORY=WBBL
-STREAM=SKY CRICKET FHD
-TYPE=0
-URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-USER_AGENT=Mozilla
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=GOLF EVENTO vs GOLF EVENTO
-START=2026/11/11 01:00:00 +0000
-END=2026/11/11 05:00:00 +0000
-CATEGORY=Golf
-STREAM=Golf Channel - HD
-TYPE=0
-URL=https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=New Zealand vs India
-START=2026/11/18 22:00:00 +0000
-END=2026/11/19 06:00:00 +0000
-CATEGORY=Cricket
-STREAM=TEN SPORTS HD
-TYPE=0
-URL=https://live.msnetworks.net/ten-sports/master.m3u8
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
-START=2026/11/15 08:00:00 +0000
-END=2026/11/15 16:00:00 +0000
-CATEGORY=Cricket
-STREAM=Willow FA
-TYPE=2
-URL=https://jack09eo.mpaver6fuiwild.my/cricket/test-series-south-africa-vs-bangladesh-2271440/south-africa-vs-bangladesh.html?icg=QkQ&ilang=en
-DRM=NO
---------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=South Africa vs Bangladesh
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
 START=2026/11/15 08:00:00 +0000
 END=2026/11/15 16:00:00 +0000
 CATEGORY=Cricket
@@ -1272,17 +1109,27 @@ TYPE=0
 URL=https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 DRM=NO
 --------------------------------------------------------------------------------
-[2026-11-15 16:45:50] EVENT=GOLF EVENTO vs GOLF EVENTO
-START=2026/11/11 01:00:00 +0000
-END=2026/11/11 05:00:00 +0000
-CATEGORY=Golf
-STREAM=XTREME FHD + GOLF
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
+START=2026/11/15 08:00:00 +0000
+END=2026/11/15 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=SKY SPORTS CRICKET
+TYPE=0
+URL=https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+USER_AGENT=Mozilla
+DRM=NO
+--------------------------------------------------------------------------------
+[2026-11-15 22:24:55] EVENT=South Africa vs Bangladesh
+START=2026/11/15 08:00:00 +0000
+END=2026/11/15 16:00:00 +0000
+CATEGORY=Cricket
+STREAM=Willow FA
 TYPE=2
-URL=https://taifood-blog.asia/embed/sky-sports-golf-29059
+URL=https://jack09eo.mpaver6fuiwild.my/cricket/test-series-south-africa-vs-bangladesh-2271440/south-africa-vs-bangladesh.html?icg=QkQ&ilang=en
 DRM=NO
 --------------------------------------------------------------------------------
 
 ================================================================================
-TOTAL_VALID_STREAMS=132
-TOTAL_DRM_STREAMS=85
+TOTAL_VALID_STREAMS=116
+TOTAL_DRM_STREAMS=75
 ================================================================================
